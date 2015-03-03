@@ -1,0 +1,49 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Parent entity:</strong>
+  <%= @institutional_entity.parent_entity_id %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @institutional_entity.type %>
+</p>
+
+<p>
+  <strong>Level:</strong>
+  <%= @institutional_entity.level %>
+</p>
+
+<p>
+  <strong>Acronym:</strong>
+  <%= @institutional_entity.acronym %>
+</p>
+
+<p>
+  <strong>Grad programs:</strong>
+  <%= @institutional_entity.grad_programs %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @institutional_entity.name %>
+</p>
+
+<p>
+  <strong>Org code:</strong>
+  <%= @institutional_entity.org_code %>
+</p>
+
+<p>
+  <strong>Undergrad programs:</strong>
+  <%= @institutional_entity.undergrad_programs %>
+</p>
+
+<p>
+  <strong>Url:</strong>
+  <%= @institutional_entity.url %>
+</p>
+
+<%= link_to 'Edit', edit_institutional_entity_path(@institutional_entity) %> |
+<%= link_to 'Back', institutional_entities_path %>

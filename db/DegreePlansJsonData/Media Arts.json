@@ -1,0 +1,676 @@
+{
+  "name": "Media Arts",
+  "college": "College of Fine Arts",
+  "dept": "Cinematic Arts",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH (see core curriculum)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social/Behaviorial Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MA 210: Introduction to Film Studies",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 210",
+              "title": "Intro to Film Studies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical/Natural Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MA Production (chosen from Catalog list)",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 429",
+              "title": "Topics in Production"
+            },
+            {
+              "number": "MA 111",
+              "title": "Technical Intro to Video"
+            },
+            {
+              "number": "MA 216",
+              "title": "Topics in Video Making"
+            },
+            {
+              "number": "MA 324",
+              "title": "Introduction to Screenwriting"
+            },
+            {
+              "number": "MA 390",
+              "title": "T:Elements of Filmmaking"
+            },
+            {
+              "number": "MA 391",
+              "title": "16mm Filmmaking"
+            },
+            {
+              "number": "MA 394",
+              "title": "CGI and Animation"
+            },
+            {
+              "number": "MA 409",
+              "title": "Advanced Video Art"
+            },
+            {
+              "number": "MA 496",
+              "title": "Undergrad Production Project"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside of major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "MA 212: Beyond Hollywood",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 212",
+              "title": "Beyond Hollywood"
+            }
+          ]
+        },
+        {
+          "name": "MA Production (chosen from Catalog list)",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 429",
+              "title": "Topics in Production"
+            },
+            {
+              "number": "MA 111",
+              "title": "Technical Intro to Video"
+            },
+            {
+              "number": "MA 216",
+              "title": "Topics in Video Making"
+            },
+            {
+              "number": "MA 324",
+              "title": "Introduction to Screenwriting"
+            },
+            {
+              "number": "MA 390",
+              "title": "T:Elements of Filmmaking"
+            },
+            {
+              "number": "MA 391",
+              "title": "16mm Filmmaking"
+            },
+            {
+              "number": "MA 394",
+              "title": "CGI and Animation"
+            },
+            {
+              "number": "MA 409",
+              "title": "Advanced Video Art"
+            },
+            {
+              "number": "MA 496",
+              "title": "Undergrad Production Project"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language - 4th semester",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical/Natural Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social/Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MA History/Crit/Theory (chosen from Catalog list)",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 110",
+              "title": "Intro To Mass Communications"
+            },
+            {
+              "number": "MA 310",
+              "title": "Latin American Film"
+            },
+            {
+              "number": "MA 330",
+              "title": "Studies in Film"
+            },
+            {
+              "number": "MA 332",
+              "title": "Documentary Film History"
+            },
+            {
+              "number": "MA 334",
+              "title": "Teen Rebels"
+            },
+            {
+              "number": "MA 335",
+              "title": "International Horror Film"
+            },
+            {
+              "number": "MA 336",
+              "title": "Images of (Wo)men"
+            },
+            {
+              "number": "MA 337",
+              "title": "Alfred Hitchcock"
+            },
+            {
+              "number": "MA 430",
+              "title": "Topics in Film History"
+            },
+            {
+              "number": "MA 497",
+              "title": "Undergrad Independent Study"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Arts & Sciences elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MA 326: History of Film I: Silent",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 326",
+              "title": "History of Film I : Silent"
+            }
+          ]
+        },
+        {
+          "name": "MA Production (chosen from Catalog list)",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 429",
+              "title": "Topics in Production"
+            },
+            {
+              "number": "MA 111",
+              "title": "Technical Intro to Video"
+            },
+            {
+              "number": "MA 216",
+              "title": "Topics in Video Making"
+            },
+            {
+              "number": "MA 324",
+              "title": "Introduction to Screenwriting"
+            },
+            {
+              "number": "MA 390",
+              "title": "T:Elements of Filmmaking"
+            },
+            {
+              "number": "MA 391",
+              "title": "16mm Filmmaking"
+            },
+            {
+              "number": "MA 394",
+              "title": "CGI and Animation"
+            },
+            {
+              "number": "MA 409",
+              "title": "Advanced Video Art"
+            },
+            {
+              "number": "MA 496",
+              "title": "Undergrad Production Project"
+            }
+          ]
+        },
+        {
+          "name": "MA History/Crit/Theory OR MA Production (chosen from Catalog list)",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Arts & Sciences Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MA 327: History of Film II: Sound",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 327",
+              "title": "History of Film II : Sound"
+            }
+          ]
+        },
+        {
+          "name": "MA 431: Film Theory",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 431",
+              "title": "Film Theory"
+            }
+          ]
+        },
+        {
+          "name": "Elective outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MA History/Crit/Theory (chosen from Catalog list)",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "MA 110",
+              "title": "Intro To Mass Communications"
+            },
+            {
+              "number": "MA 310",
+              "title": "Latin American Film"
+            },
+            {
+              "number": "MA 330",
+              "title": "Studies in Film"
+            },
+            {
+              "number": "MA 332",
+              "title": "Documentary Film History"
+            },
+            {
+              "number": "MA 334",
+              "title": "Teen Rebels"
+            },
+            {
+              "number": "MA 335",
+              "title": "International Horror Film"
+            },
+            {
+              "number": "MA 336",
+              "title": "Images of (Wo)men"
+            },
+            {
+              "number": "MA 337",
+              "title": "Alfred Hitchcock"
+            },
+            {
+              "number": "MA 430",
+              "title": "Topics in Film History"
+            },
+            {
+              "number": "MA 497",
+              "title": "Undergrad Independent Study"
+            }
+          ]
+        },
+        {
+          "name": "MA Production (chosen from Catalog list)",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MA 429",
+              "title": "Topics in Production"
+            },
+            {
+              "number": "MA 111",
+              "title": "Technical Intro to Video"
+            },
+            {
+              "number": "MA 216",
+              "title": "Topics in Video Making"
+            },
+            {
+              "number": "MA 324",
+              "title": "Introduction to Screenwriting"
+            },
+            {
+              "number": "MA 390",
+              "title": "T:Elements of Filmmaking"
+            },
+            {
+              "number": "MA 391",
+              "title": "16mm Filmmaking"
+            },
+            {
+              "number": "MA 394",
+              "title": "CGI and Animation"
+            },
+            {
+              "number": "MA 409",
+              "title": "Advanced Video Art"
+            },
+            {
+              "number": "MA 496",
+              "title": "Undergrad Production Project"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MA 400-level elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MA History/Crit/Theory (chosen from Catalog list)",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "MA 110",
+              "title": "Intro To Mass Communications"
+            },
+            {
+              "number": "MA 310",
+              "title": "Latin American Film"
+            },
+            {
+              "number": "MA 330",
+              "title": "Studies in Film"
+            },
+            {
+              "number": "MA 332",
+              "title": "Documentary Film History"
+            },
+            {
+              "number": "MA 334",
+              "title": "Teen Rebels"
+            },
+            {
+              "number": "MA 335",
+              "title": "International Horror Film"
+            },
+            {
+              "number": "MA 336",
+              "title": "Images of (Wo)men"
+            },
+            {
+              "number": "MA 337",
+              "title": "Alfred Hitchcock"
+            },
+            {
+              "number": "MA 430",
+              "title": "Topics in Film History"
+            },
+            {
+              "number": "MA 497",
+              "title": "Undergrad Independent Study"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "name": "French",
+  "college": "College of Arts & Sciences",
+  "dept": "Foreign Languages & Literature",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual coursework only.  Students must maintain a minimum of a 2.0 cumulative grade point average for admission to and graduation from the College of Arts and Sciences.  Minimums listed for the individual courses do NOT meet the cumulative minimum."
+    },
+    {
+      "note": "This model assumes a student entering at 201 level."
+    },
+    {
+      "note": "All students who entered UNM in Fall 2014 are subject to the following term_items. Students who declared a French major, second major, or minor prior to Fall 2014 may also graduate according to the listed term_items. Or, they may choose to graduate according to the pre-Fall 2014 term_items. Please contact the Undergraduate Advisor of French to determine the best option for you."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "FREN 201: Intermediate French I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 201",
+              "title": "Intermediate French I"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Freshman Academic Choice",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FREN 202: Intermediate French II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 202",
+              "title": "Intermediate French II"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FREN 301: Advanced Essay & Exploration I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 301",
+              "title": "Advanced Essay & Exploration I"
+            }
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 130 or PHIL 156 or ENGL 220 or ENGL 219",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            },
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FREN 302: Advanced Essay & Exploration II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 302",
+              "title": "Advanced Essay  Exploration II"
+            }
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FREN 305: French Pronunciation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 305",
+              "title": "French Pronunciation"
+            }
+          ]
+        },
+        {
+          "name": "FREN 310",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Any Level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FREN 315",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "French 300+ Level Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Any Level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FREN 415",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "French 300+ Level Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Any Level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FREN 485: Advanced Seminar in French Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 485",
+              "title": "Adv Sem: French Studies"
+            }
+          ]
+        },
+        {
+          "name": "French 300+ Level Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Any Level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Any Level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 1,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

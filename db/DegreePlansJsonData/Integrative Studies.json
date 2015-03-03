@@ -1,0 +1,361 @@
+{
+  "name": "Integrative Studies",
+  "college": "University College",
+  "dept": "University College",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BIS",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Freshman Academic Choice",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121 OR MATH 129 OR STAT 145",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            },
+            {
+              "number": "MATH 129",
+              "title": "Survey of Math"
+            },
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Lower Division Elective/Pre-requisite",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Lower Division Elective/Pre-requisite",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 8,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Additional Writing and Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Lower Division Elective/Pre-requisite",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 7,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Upper Division Area of Focus 1",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Area of Focus 2",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "LAIS 150: Foundations of Integrative Thought",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LAIS 150",
+              "title": "Fdns of Integrative Thought"
+            }
+          ]
+        },
+        {
+          "name": "LAIS 399: Interdisciplinary Synthesis",
+          "crucial": true,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "LAIS 399",
+              "title": "Interdisciplinary Synthesis"
+            }
+          ]
+        },
+        {
+          "name": "Lower Division Elective/Pre-requisite",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 5,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Upper Division Area of Focus 1",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "LAIS 310: Investigations in Research: Methodologies & Techniques",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LAIS 310",
+              "title": "Investigations in Research"
+            }
+          ]
+        },
+        {
+          "name": "LAIS 399: Interdisciplinary Synthesis",
+          "crucial": true,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "LAIS 399",
+              "title": "Interdisciplinary Synthesis"
+            }
+          ]
+        },
+        {
+          "name": "Upper Division Area of Focus 2",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Upper Division Area of Focus 1",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Area of Focus 2",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "LAIS 311: Experiential Research",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LAIS 311",
+              "title": "Experiential Research"
+            }
+          ]
+        },
+        {
+          "name": "LAIS 399: Interdisciplinary Synthesis",
+          "crucial": true,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "LAIS 399",
+              "title": "Interdisciplinary Synthesis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Upper Division Area of Focus 1",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "LAIS 499: Senior Seminar",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Area of Focus 2",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

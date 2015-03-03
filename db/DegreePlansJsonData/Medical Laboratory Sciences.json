@@ -1,0 +1,651 @@
+{
+  "name": "Medical Laboratory Sciences",
+  "college": "School of Medicine",
+  "dept": "Pathology",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BSML",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual courswork only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Arts and Sciences."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 123: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 124L: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "Core Course",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MEDL 121: A Career in Laboratory Science [Introduction to Medical Laboratory Sciences]",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MEDL 121",
+              "title": "Intro To Med Lab Sci"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            }
+          ]
+        },
+        {
+          "name": "CS 150L: Computing for Business Students",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 150L",
+              "title": "Computing for Bus Students"
+            }
+          ]
+        },
+        {
+          "name": "Core Course",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CHEM 122: General Chemistry II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 124L: General Chemistry II Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 247L: Human Anatomy and Physiology Laboratory I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 247L",
+              "title": "Anatomy & Physiology Lab I"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 113: Management: An Introduction",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 113",
+              "title": "Management An Introduction"
+            }
+          ]
+        },
+        {
+          "name": "Core Course",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 238: Human Anatomy and Physiology II for the Health Sciences",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 238",
+              "title": "Hum Anat & Physio II Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 248L: Human Anatomy and Physiology Laboratory II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 248L",
+              "title": "Anatomy & Physiology Lab II"
+            }
+          ]
+        },
+        {
+          "name": "CJ 221: Interpersonal Communication or CJ 225: Small Group Communication",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 221",
+              "title": "Interpersonal Communication"
+            },
+            {
+              "number": "CJ 225",
+              "title": "Small Group Communication"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 239L: Microbiology for Health Sciences and Non-Majors or BIOL 351: General Microbiology + BIOL 352L: General Microbiology Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 239L",
+              "title": "Microbio Health Sciences Lab"
+            },
+            {
+              "number": "BIOL 351",
+              "title": "General Microbiology"
+            },
+            {
+              "number": "BIOL 352L",
+              "title": "General Microbiology Lab"
+            }
+          ]
+        },
+        {
+          "name": "MATH 145 or Higher Level Math",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Core Course",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CHEM 212L: Integrated Organic Chemistry and Biochemistry or CHEM 301: Organic Chemistry + CHEM 303L: Organic Chemistry Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 301",
+              "title": "Organic Chemistry"
+            },
+            {
+              "number": "CHEM 303L",
+              "title": "Organic Chem Lab"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 201: Molecular and Cell Biology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Core Course",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 9,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MEDL 310: Introduction to Clinical Chemistry",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MEDL 310",
+              "title": "Intro Clin Chemistry"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 311L: Introduction to Clinical Chemistry Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 311L",
+              "title": "Intro Clin Chem Lab"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 410L: Advanced Clinical Chemistry",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MEDL 410L",
+              "title": "Adv Clin Chemistry"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 330: Introduction to Clinical Microbiology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MEDL 330",
+              "title": "Intro Clin Microbio"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 331L: Introduction to Clinical Microbiology Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 331L",
+              "title": "Intro Clin Micro Lab"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 430: Advanced Clinical Microbiology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MEDL 430",
+              "title": "Adv Clin Microbiolgy"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 431L: Advanced Clinical Microbiology Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 431L",
+              "title": "Adv Clin Micro Lab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MEDL 320: Introduction to Clinical Hematology/Hemostasis",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MEDL 320",
+              "title": "Intro Clin Hema Hemo"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 321L: Clinical Hematology/Hemostasis Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 321L",
+              "title": "Intro Clin Hem Lab"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 420L: Advanced Clinical Hematology/Hemostasis",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MEDL 420L",
+              "title": "Adv Clin Hema Hemo"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 340L: Introduction to Clinical Immunohematology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 340L",
+              "title": "Intro Clin Immunohem"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 440L: Advanced Clinical Immunohematology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 440L",
+              "title": "Adv Clin Immunohem"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 432L: Clinical Parasitology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 432L",
+              "title": "Clin Parasitology"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 445: Clinical Management and Education",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 445",
+              "title": "Clin Mangt & Educ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MEDL 234: Introduction to Clinical Immunology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MEDL 234",
+              "title": "Intro Clin Immunolgy"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 300L: Introduction to Medical Laboratory Sciences",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 300L",
+              "title": "Intro To Med Lab Sci"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 315L: Clinical Serology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 315L",
+              "title": "Clinical Serology"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 350L: Clinical Urinalysis",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 350L",
+              "title": "Clinical Urinalysis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MEDL 351: Basic Clinical Chemistry Rotation",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MEDL 351",
+              "title": "Basic Clin Chem Rota"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 352: Basic Hematology/Hemostasis Rotation",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MEDL 352",
+              "title": "Basic Hemo Hema Rota"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 355: Clinical Urinalysis Rotation",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MEDL 355",
+              "title": "Clin Ua & Phleb Rota"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 451: Advanced Clinical Chemistry Rotation",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MEDL 451",
+              "title": "Adv Clin Chem Rota"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 452: Advanced Hematology and Hemostasis Rotation",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MEDL 452",
+              "title": "Adv Hema Hemo Rota"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 453: Clinical Microbiology Rotation",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 5,
+          "courses": [
+            {
+              "number": "MEDL 453",
+              "title": "Clin Micro Rotation"
+            }
+          ]
+        },
+        {
+          "name": "MEDL 454: Clinical Immunohematology Rotation",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MEDL 454",
+              "title": "Clin Immunohem Rota"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

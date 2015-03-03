@@ -1,0 +1,565 @@
+{
+  "name": "Emergency Medical Services",
+  "college": "School of Medicine",
+  "dept": "Health Sciences",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual courswork only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Arts and Sciences."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra (or more advanced)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 123: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 124L: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "Social/Behavioral Science Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social/Behavioral Science Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 247L: Human Anatomy and Physiology Laboratory I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 247L",
+              "title": "Anatomy & Physiology Lab I"
+            }
+          ]
+        },
+        {
+          "name": "EMS 113: EMT-Basic",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 8,
+          "courses": [
+            {
+              "number": "EMS 113",
+              "title": "EMT-Basic"
+            }
+          ]
+        },
+        {
+          "name": "EMS 142: EMT-Basic Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "EMS 142",
+              "title": "EMT-Basic Lab"
+            }
+          ]
+        },
+        {
+          "name": "EMS 193:",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "EMS 193",
+              "title": "Topics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Writing/Speaking Core Elective",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "BIOL 238: Human Anatomy and Physiology II for the Health Sciences",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 238",
+              "title": "Hum Anat & Physio II Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 248L: Human Anatomy and Physiology Laboratory II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 248L",
+              "title": "Anatomy & Physiology Lab II"
+            }
+          ]
+        },
+        {
+          "name": "Medical Math 200",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign Language Core",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EMS 309: Prehospital Emergency Medicine and Operations [Introduction to Prehospital Advanced Life Support]",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 309",
+              "title": "Prehospital Med and Ops"
+            }
+          ]
+        },
+        {
+          "name": "EMS 310: Prehospital Pharmacology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 310",
+              "title": "Prehospital Pharmacology"
+            }
+          ]
+        },
+        {
+          "name": "EMS 311: Medical Assessment and Management [Medical Assessment and Management I]",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 311",
+              "title": "Medical Assessment & Mgmt"
+            }
+          ]
+        },
+        {
+          "name": "EMS 312: Cardiovascular and Pulmonary Emergencies",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 312",
+              "title": "Cardio & Pulm Emergencies"
+            }
+          ]
+        },
+        {
+          "name": "EMS 341: Paramedic Laboratory I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "EMS 341",
+              "title": "Paramedic Lab I"
+            }
+          ]
+        },
+        {
+          "name": "EMS 351: Paramedic Clinical Rotation I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 351",
+              "title": "Paramedic Clinical Rotation I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EMS 320: Medical Emergencies",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 320",
+              "title": "Medical Emergencies"
+            }
+          ]
+        },
+        {
+          "name": "EMS 321: Special Patient Populations [EMS Special Considerations and Operations]",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "EMS 321",
+              "title": "EMT-P Transition"
+            }
+          ]
+        },
+        {
+          "name": "EMS 331: Trauma Emergencies",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "EMS 331",
+              "title": "Trauma Emergencies"
+            }
+          ]
+        },
+        {
+          "name": "EMS 342: Paramedic Laboratory II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 342",
+              "title": "Paramedic Lab II"
+            }
+          ]
+        },
+        {
+          "name": "EMS 352: Paramedic Clinical Rotation II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "EMS 352",
+              "title": "Paramedic Clinical Rotation II"
+            }
+          ]
+        },
+        {
+          "name": "EMS 454: Paramedic Field Intership",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "EMS 454",
+              "title": "Paramedic Field Internship"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EMS 400: Advanced Assessment",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 400",
+              "title": "Advanced Assessment"
+            }
+          ]
+        },
+        {
+          "name": "EMS 461: Advanced Pathophysiology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 461",
+              "title": "EMS Journal Club"
+            }
+          ]
+        },
+        {
+          "name": "EMS 469: Epidemiology and Statistics",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 469",
+              "title": "Epidemiology and Statistics"
+            }
+          ]
+        },
+        {
+          "name": "EMS 403: Mountain Medicine (or approved elective)",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 403",
+              "title": "Advanced Assessment"
+            }
+          ]
+        },
+        {
+          "name": "EMS 406: Mountain Medicine Laboratory I (or approved elective)",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 406",
+              "title": "M.I.C. Paramedic"
+            }
+          ]
+        },
+        {
+          "name": "EMS 405: Austere Medicine",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 405",
+              "title": "Austere Medicine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EMS 465: Advanced Paramedic Clerkship",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "EMS 465",
+              "title": "Advanced Paramedic Clerkship"
+            }
+          ]
+        },
+        {
+          "name": "EMS 470: EMS Research Analysis",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 470",
+              "title": "EMS Research and Analysis"
+            }
+          ]
+        },
+        {
+          "name": "EMS 404: Technical Rescue Course [Strike Rescue Technical Rescue Course] (or approved elective)",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 404",
+              "title": "SR Technical Rescue Course"
+            }
+          ]
+        },
+        {
+          "name": "EMS 408: Mountain Medicine Laboratory II (or approved elective)",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 408",
+              "title": "Mountain Medicine Lab II"
+            }
+          ]
+        },
+        {
+          "name": "EMS 456: Social Dimension of Disaster",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMS 456",
+              "title": "Social Dimension of Disaster"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

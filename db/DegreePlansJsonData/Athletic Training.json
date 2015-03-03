@@ -1,0 +1,547 @@
+{
+  "name": "Athletic Training",
+  "college": "College of Education",
+  "dept": "Health, Exercise, and Sports Sciences",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual courswork only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Education."
+    },
+    {
+      "note": "Athletic Training Curriculum: Athletic Training Students must obtain a “B-” or better in all athletic training courses to advance in the UNM- ATEP."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 111: Elements of General Chemistry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 111",
+              "title": "Elem of Gen Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "HED 164L: Standard First Aid",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 164L",
+              "title": "First Aid Lab"
+            }
+          ]
+        },
+        {
+          "name": "PEP 273: Introduction to Athletic Training",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 273",
+              "title": "Intro Athletic Training"
+            }
+          ]
+        },
+        {
+          "name": "PEP 284: Athletic Training Observation Lab",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 284",
+              "title": "Prof Lab Exper in AT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 123: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 124L: Biology for Health Related Sciences and Non-Majors Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            }
+          ]
+        },
+        {
+          "name": "PEP 285: Athletic Training Clinical I",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 285",
+              "title": "Athl Protective Equip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 247L: Human Anatomy and Physiology Laboratory I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 247L",
+              "title": "Anatomy & Physiology Lab I"
+            }
+          ]
+        },
+        {
+          "name": "EMS 113: EMT-Basic",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 8,
+          "courses": [
+            {
+              "number": "EMS 113",
+              "title": "EMT-Basic"
+            }
+          ]
+        },
+        {
+          "name": "EMS 142: EMT-Basic Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "EMS 142",
+              "title": "EMT-Basic Lab"
+            }
+          ]
+        },
+        {
+          "name": "PEP 286: Evaluation of Athletic Injuries-Extremities",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 286",
+              "title": "Eval Athl Injuries Extremities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 238: Human Anatomy and Physiology II for the Health Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 238",
+              "title": "Hum Anat & Physio II Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 248L: Human Anatomy and Physiology Laboratory II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 248L",
+              "title": "Anatomy & Physiology Lab II"
+            }
+          ]
+        },
+        {
+          "name": "PEP 277: Kinesiology",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 277",
+              "title": "Kinesiology"
+            }
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "PEP 287: Evaluation of Athletic Injuries-Trunk/Torso",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 287",
+              "title": "Eval-Trunk-Torso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 288: Motor Learning and Performance",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 288",
+              "title": "Mtr Lrng & Perform"
+            }
+          ]
+        },
+        {
+          "name": "PEP 326L: Fundamentals of Exercise Physiology",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 326L",
+              "title": "Fund Exer Physiology"
+            }
+          ]
+        },
+        {
+          "name": "PEP 374: Therapeutic Modalities",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 374",
+              "title": "Therapeutic Modalities"
+            }
+          ]
+        },
+        {
+          "name": "PEP 481: Athletic Training Clinical II",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 481",
+              "title": "AT - Clinical I"
+            }
+          ]
+        },
+        {
+          "name": "NUTR 244: Human Nutrition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 244",
+              "title": "Human Nutrition"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 289: Tests and Measurements in Physical Education",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 289",
+              "title": "Tests & Meas in PE"
+            }
+          ]
+        },
+        {
+          "name": "PEP 473: Rehabilitation of Athletic Injuries",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 473",
+              "title": "Rehab Athl Injuries"
+            }
+          ]
+        },
+        {
+          "name": "PEP 375: Pharmacology in Athletic Training",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 375",
+              "title": "AT Mock-Muscle Testing"
+            }
+          ]
+        },
+        {
+          "name": "PEP 483: Athletic Training Clinical III",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 483",
+              "title": "AT - Clinical II"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 373: General Medical Conditions in Athletic Training",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PEP 488: Athletic Training Clinical IV",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 488",
+              "title": "AT Field Experience"
+            }
+          ]
+        },
+        {
+          "name": "PEP 470: Designs for Fitness",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 470",
+              "title": "Designs for Fitness"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PSY 220: Developmental Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 220",
+              "title": "Developmental Psychology"
+            }
+          ]
+        },
+        {
+          "name": "PEP 474: Athletic Training Administration",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 474",
+              "title": "Org & Admin Athl Training"
+            }
+          ]
+        },
+        {
+          "name": "PEP 391: Problems",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 391",
+              "title": "Problems"
+            }
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

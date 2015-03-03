@@ -1,0 +1,583 @@
+{
+  "name": "Exercise Science",
+  "college": "College of Education",
+  "dept": "Health, Exercise, and Sports Sciences",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual courswork only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Education."
+    },
+    {
+      "note": "A grade of B- or better is required for all PE-P and PE-NP courses; a grade of C or better (not C-) is required for each General Education course towards the 128-hour degree."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 111: Elements of General Chemistry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 111",
+              "title": "Elem of Gen Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 123: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 124L: Biology for Health Related Sciences and Non-Majors Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NUTR 244: Human Nutrition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 244",
+              "title": "Human Nutrition"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 212: Integrated Organic Chemistry and Biochemistry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 212",
+              "title": "Integ Org Chem+Bioch"
+            }
+          ]
+        },
+        {
+          "name": "PEP 273: Introduction to Athletic Training",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 273",
+              "title": "Intro Athletic Training"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PEP 288: Motor Learning and Performance",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 288",
+              "title": "Mtr Lrng & Perform"
+            }
+          ]
+        },
+        {
+          "name": "PENP 114: Weight Training and Physical Conditioning",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PENP 114",
+              "title": "Wght Trng & Phy Cond"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 247L: Human Anatomy and Physiology Laboratory I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 247L",
+              "title": "Anatomy & Physiology Lab I"
+            }
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            }
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HED 164L: Standard First Aid",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 164L",
+              "title": "First Aid Lab"
+            }
+          ]
+        },
+        {
+          "name": "PEP 277: Kinesiology",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 277",
+              "title": "Kinesiology"
+            }
+          ]
+        },
+        {
+          "name": "PENP 165: Yoga",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "PENP 165",
+              "title": "Yoga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 238/248L",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 238",
+              "title": "Hum Anat & Physio II Hlth Sci"
+            },
+            {
+              "number": "BIOL 248L",
+              "title": "Anatomy & Physiology Lab II"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 219: Technical and Professional Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PEP 305: Teaching Group Exercise",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 305",
+              "title": "Teach Group Exercise"
+            }
+          ]
+        },
+        {
+          "name": "PEP 289: Tests and Measurements in Physical Education",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 289",
+              "title": "Tests & Meas in PE"
+            }
+          ]
+        },
+        {
+          "name": "PENP 161 OR PENP 162",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PENP 161",
+              "title": "Dev-PE Weight Control"
+            },
+            {
+              "number": "PENP 162",
+              "title": "Jogging Fitness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 469: Management Concepts in Sport and Fitness Settings",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 469",
+              "title": "Mgmt Cncpt Spt Fit Settings"
+            }
+          ]
+        },
+        {
+          "name": "PEP 475: EKG Interpretation",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 475",
+              "title": "EKG Interpretation"
+            }
+          ]
+        },
+        {
+          "name": "PEP 326L: Fundamentals of Exercise Physiology",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 326L",
+              "title": "Fund Exer Physiology"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 102 or PHYC 151",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 102",
+              "title": "Intro To Physics"
+            },
+            {
+              "number": "PHYC 151",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 495: Practicum",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 495",
+              "title": "Practicum"
+            }
+          ]
+        },
+        {
+          "name": "PEP 470: Designs for Fitness",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 470",
+              "title": "Designs for Fitness"
+            }
+          ]
+        },
+        {
+          "name": "PEP 476: Exercise Testing and Interpretation",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 476",
+              "title": "Ex Testing Interpretation"
+            }
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PENP 102: Intermediate Swimming",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PENP 102",
+              "title": "Intermediate Swimming"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NUTR 344: Energy Nutrients in Human Nutrition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 344",
+              "title": "Energy Nutrients Human Nutr"
+            }
+          ]
+        },
+        {
+          "name": "PEP 391: Problems",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 391",
+              "title": "Problems"
+            }
+          ]
+        },
+        {
+          "name": "PEP 426: Intermediate Exercise Physiology",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 426",
+              "title": "Inter Exer Physiol"
+            }
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PEP 478: Sports Physiology",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 478",
+              "title": "Sports Physiology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NUTR 345: Vitamins and Minerals in Human Nutrition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 345",
+              "title": "Vitamins and Minerals Hum Nutr"
+            }
+          ]
+        },
+        {
+          "name": "PEP 471: Exercise and Disease Prevention",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 471",
+              "title": "Ex and Disease Prev"
+            }
+          ]
+        },
+        {
+          "name": "PEP 495: Practicum",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 495",
+              "title": "Practicum"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

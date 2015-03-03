@@ -1,0 +1,27 @@
+<h1>Listing degree_requirement_types</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Type of degree requirement</th>
+      <th>Degree requirement</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @degree_requirement_types.each do |degree_requirement_type| %>
+      <tr>
+        <td><%= degree_requirement_type.type_of_degree_requirement %></td>
+        <td><%= degree_requirement_type.degree_requirement_id %></td>
+        <td><%= link_to 'Show', degree_requirement_type %></td>
+        <td><%= link_to 'Edit', edit_degree_requirement_type_path(degree_requirement_type) %></td>
+        <td><%= link_to 'Destroy', degree_requirement_type, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Degree requirement type', new_degree_requirement_type_path %>

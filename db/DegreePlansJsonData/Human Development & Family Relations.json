@@ -1,0 +1,462 @@
+{
+  "name": "Human Development & Family Relations",
+  "college": "College of Education",
+  "dept": "Individual, Family, and Community Education",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual coursework only. Students must maintain a minimum of a 2.0 cumulative grade point average for admission to and graduation from the College of Education. Mimumums listed for the individual courses do NOT meet the cumumlative minimum.\nFor more information see the catalogue at www.unm.edu"
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            }
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 123 and BIOL 124L or BIOL 110 and BIOL 112L",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 110",
+              "title": "Biology Non-Majors"
+            },
+            {
+              "number": "BIOL 112L",
+              "title": "Biology Lab Non-Majors"
+            },
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            },
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "SOC 101: Introduction to Sociology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "SOC 101",
+              "title": "Introduction to Sociology"
+            }
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "NUTR 120 or NUTR 244",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 120",
+              "title": "Nutrition for Health"
+            },
+            {
+              "number": "NUTR 244",
+              "title": "Human Nutrition"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical or Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "FS 281: Introduction to Family Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 281",
+              "title": "Intro Family Studies"
+            }
+          ]
+        },
+        {
+          "name": "FS 213: Marriage and Family Relationships",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 213",
+              "title": "Marriage & Fam Relationships"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECON 105: Introductory Macroeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            }
+          ]
+        },
+        {
+          "name": "Multicultural Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "FS 312: Parent-Child Interactions",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 312",
+              "title": "Parent-Child Interactions"
+            }
+          ]
+        },
+        {
+          "name": "FS 343: Family Management Theories",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 343",
+              "title": "Family Mgmt Theories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FS 310: Friends and Intimate Relationships",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 310",
+              "title": "Friend & Intimate Rel"
+            }
+          ]
+        },
+        {
+          "name": "FS 315: Adolescent Development in the Family",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 315",
+              "title": "Adol Dev in the Family"
+            }
+          ]
+        },
+        {
+          "name": "FS 313: Family Theories and Contemporary Lifestyles",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 313",
+              "title": "Family Theories"
+            }
+          ]
+        },
+        {
+          "name": "FS 484: Ethnic Minority Families",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 484",
+              "title": "Ethnic Minority Fams"
+            }
+          ]
+        },
+        {
+          "name": "FS 411: Marriage and Family Life Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 411",
+              "title": "Maritl & Fam Life Ed"
+            }
+          ]
+        },
+        {
+          "name": "ANTH 130: Cultures of the World",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ANTH 130",
+              "title": "Cultures of the World"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FS 304: Growth and Development in Middle Childhood",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 304",
+              "title": "Grwth Dev-Mid Chldhd"
+            }
+          ]
+        },
+        {
+          "name": "FS 341: Ecological Aspects of Housing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 341",
+              "title": "Ecological Aspects of Housing"
+            }
+          ]
+        },
+        {
+          "name": "Minor or FS Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 9,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FS 202 and FS 207L",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "FS 202",
+              "title": "Infant Growth and Development"
+            },
+            {
+              "number": "FS 207L",
+              "title": "Infant Laboratory"
+            }
+          ]
+        },
+        {
+          "name": "ANTH, PSY, or SOC elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 9,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "FS 416: Adult Development in the Family",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 416",
+              "title": "Adult Dev in the Fam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FS 395: Field Experience I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 395",
+              "title": "Field Experience I"
+            }
+          ]
+        },
+        {
+          "name": "Minor or Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 9,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "FS 481: Families and Public Policy",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FS 481",
+              "title": "Fam & Public Policy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

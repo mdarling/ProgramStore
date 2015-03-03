@@ -1,0 +1,927 @@
+{
+  "name": "Music (String Pedagogy Concentration)",
+  "college": "College of Fine Arts",
+  "dept": "Music",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BM",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150: Music Theory I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150",
+              "title": "Music Theory I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150L: Music Theory I Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150L",
+              "title": "Music Theory I Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUS 170: String Pedagogy Seminar I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 170",
+              "title": "String Pedagogy Seminar I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 170L: String Pedagogy Lab I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 170L",
+              "title": "String Pedagogy Lab I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 233: Symphony Orchestra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 233",
+              "title": "Symphony Orchestra"
+            }
+          ]
+        },
+        {
+          "name": "MUS 111: Group Piano",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 111",
+              "title": "Group Piano I"
+            }
+          ]
+        },
+        {
+          "name": "APMS 119: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 119",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152: Music Theory II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152",
+              "title": "Music Theory II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152L: Music Theory II Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152L",
+              "title": "Music Theory II Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUS 170: String Pedagogy Seminar I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 170",
+              "title": "String Pedagogy Seminar I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 170L: String Pedagogy Lab I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 170L",
+              "title": "String Pedagogy Lab I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 233: Symphony Orchestra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 233",
+              "title": "Symphony Orchestra"
+            }
+          ]
+        },
+        {
+          "name": "MUS 112: Group Piano II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 112",
+              "title": "Group Piano II"
+            }
+          ]
+        },
+        {
+          "name": "APMS 120: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250: Music Theory III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250",
+              "title": "Music Theory III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250L: Music Theory III Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 270: String Pedagogy Seminar II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 270",
+              "title": "String Pedagogy Seminar II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 270L: String Pedagogy Lab II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 270L",
+              "title": "String Pedagogy Lab II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 233: Symphony Orchestra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 233",
+              "title": "Symphony Orchestra"
+            }
+          ]
+        },
+        {
+          "name": "MUS 211: Group Piano III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 211",
+              "title": "Group Piano III"
+            }
+          ]
+        },
+        {
+          "name": "APMS 219: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 219",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252: Music Theory IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252",
+              "title": "Music Theory IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252L: Music Theory IV Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252L",
+              "title": "Music Theory IV Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUS 270: String Pedagogy Seminar II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 270",
+              "title": "String Pedagogy Seminar II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 270L: String Pedagogy Lab II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 270L",
+              "title": "String Pedagogy Lab II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 233: Symphony Orchestra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 233",
+              "title": "Symphony Orchestra"
+            }
+          ]
+        },
+        {
+          "name": "MUS 212: Group Piano IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 212",
+              "title": "Group Piano IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 214: Piano Proficiency",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 214",
+              "title": "Piano Proficiency"
+            }
+          ]
+        },
+        {
+          "name": "APMS 220: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 220",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 361: History of Music I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 361",
+              "title": "History of Music I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 370: String Pedagogy Seminar III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 370",
+              "title": "String Pedagogy Seminar III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 370L: String Pedagogy Lab III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 370L",
+              "title": "String Pedagogy Lab III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 453: Orchestration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 453",
+              "title": "Orchestration"
+            }
+          ]
+        },
+        {
+          "name": "MUS 233: Symphony Orchestra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 233",
+              "title": "Symphony Orchestra"
+            }
+          ]
+        },
+        {
+          "name": "MUS 311 OR MUS 380 OR MUS 412 OR MUS 421 OR MUS 481",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 481",
+              "title": "Recording Techniques II"
+            },
+            {
+              "number": "MUS 311",
+              "title": "Computer Applications I"
+            },
+            {
+              "number": "MUS 380",
+              "title": "Recording Techniques I"
+            },
+            {
+              "number": "MUS 412",
+              "title": "Computer Applications II"
+            },
+            {
+              "number": "MUS 421",
+              "title": "Max Programming for Musicians"
+            }
+          ]
+        },
+        {
+          "name": "APMS 319: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 319",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Physical & Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 362: History of Music II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 362",
+              "title": "History of Music II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 370: String Pedagogy Seminar III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 370",
+              "title": "String Pedagogy Seminar III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 370L: String Pedagogy Lab III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 370L",
+              "title": "String Pedagogy Lab III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 233: Symphony Orchestra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 233",
+              "title": "Symphony Orchestra"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 155: Orchestral Instruments",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUSE 155",
+              "title": "Orch Instrs:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 320: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 320",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Physical & Natural Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 470: String Pedagogy Seminar IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 470",
+              "title": "String Pedagogy Seminar IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 470L: String Pedagogy Lab IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 470L",
+              "title": "String Pedagogy Lab IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 233: Symphony Orchestra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 233",
+              "title": "Symphony Orchestra"
+            }
+          ]
+        },
+        {
+          "name": "MUS 363: Conducting",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 363",
+              "title": "Conducting"
+            }
+          ]
+        },
+        {
+          "name": "MUS 417 OR MUS 418 OR MUS 422 OR MUS 436 OR MUS 444 OR MUS 448 OR MUSE 293",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 293",
+              "title": "Multicult Awareness Mus Skills"
+            },
+            {
+              "number": "MUS 417",
+              "title": "Native American Music"
+            },
+            {
+              "number": "MUS 418",
+              "title": "Alaska Native Music & Culture"
+            },
+            {
+              "number": "MUS 422",
+              "title": "Indigenous World Music"
+            },
+            {
+              "number": "MUS 436",
+              "title": "ST: Contemp Wld Music"
+            },
+            {
+              "number": "MUS 444",
+              "title": "Anth of World Beat"
+            },
+            {
+              "number": "MUS 448",
+              "title": "Anth Music & Sound"
+            }
+          ]
+        },
+        {
+          "name": "APMS 419: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 419",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 470: String Pedagogy Seminar IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 470",
+              "title": "String Pedagogy Seminar IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 470L: String Pedagogy Lab IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 470L",
+              "title": "String Pedagogy Lab IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 231: Chamber Music",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 231",
+              "title": "Chamber Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 233: Symphony Orchestra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 233",
+              "title": "Symphony Orchestra"
+            }
+          ]
+        },
+        {
+          "name": "APMS 420: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 420",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 472: String Pedagogy Recital",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 472",
+              "title": "String Pedagogy Recital"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

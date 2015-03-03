@@ -1,0 +1,481 @@
+{
+  "name": "Art Education",
+  "college": "College of Education",
+  "dept": "Educational Specialties",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BAED",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra or MATH 129: A Survey of Mathematics.",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            },
+            {
+              "number": "MATH 129",
+              "title": "Survey of Math"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH 201: History of Art I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 201",
+              "title": "History of Art I"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648 or HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Social And Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 161: History of the United States to 1877 or HIST 162: History of the United States Since 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 161",
+              "title": "US History to 1877"
+            },
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 303: Human Growth and Development",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 303",
+              "title": "Human Growth and Development"
+            }
+          ]
+        },
+        {
+          "name": "ARTS 106: Drawing I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 106",
+              "title": "Drawing I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH 202: History of Art II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 202",
+              "title": "History of Art II"
+            }
+          ]
+        },
+        {
+          "name": "History Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Free Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS 205: Drawing II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 205",
+              "title": "Drawing II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARTS 121: Two-dimensional Design",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 121",
+              "title": "Two-dimensional Design"
+            }
+          ]
+        },
+        {
+          "name": "ARTS 130: Introduction to Electronic Art",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 130",
+              "title": "Introduction to Electronic Art"
+            }
+          ]
+        },
+        {
+          "name": "ARTH 251: Artistic Traditions of the Southwest",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 251",
+              "title": "Artistic Traditions of SW"
+            }
+          ]
+        },
+        {
+          "name": "ARTE 310: Teaching Art in the Elementary School",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 310",
+              "title": "Teach Art Elem School"
+            }
+          ]
+        },
+        {
+          "name": "ARTE 400: Elementary Student Teaching in Art",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 400",
+              "title": "Student Teach Art Elementary"
+            }
+          ]
+        },
+        {
+          "name": "ARTE 461: Student Teaching in the Senior High School",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 461",
+              "title": "Student Teach Art Secondary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARTS 122: Student Teaching in the Senior High School",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division ARTH Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS Studio Course (no concentrations exist for this major)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTE 320: Teaching Art in Secondary School",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 320",
+              "title": "Teach Art Second School"
+            }
+          ]
+        },
+        {
+          "name": "ARTE 431: Studio Art in the School: Bookmaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 431",
+              "title": "Studio Art in Sch: Bookmaking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARTE 472: Art Criticism & Aesthetics Teacher",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 472",
+              "title": "Art Crit & Aesth for Teachers"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 438: Teaching Reading and Writing in the Content Field",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 438",
+              "title": "Techng Read Writ Content Field"
+            }
+          ]
+        },
+        {
+          "name": "ARTS Studio Course (no concentrations exist for this major)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARTE 410: Curriculum Development in Art Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 410",
+              "title": "Curriculum Development Art Ed"
+            }
+          ]
+        },
+        {
+          "name": "ARTE 433: Studio Art in Schools: Printmaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 433",
+              "title": "Studio Art in Sch: Printmaking"
+            }
+          ]
+        },
+        {
+          "name": "ARTE 465: Art and the Exceptional Child or ARTE 466: Art With At-Risk Students",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTE 465",
+              "title": "Art & Except Child"
+            }
+          ]
+        },
+        {
+          "name": "ARTS Elective Upper Division",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

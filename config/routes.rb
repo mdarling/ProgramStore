@@ -1,4 +1,21 @@
 Rails.application.routes.draw do
+
+  resources :degree_requirements
+
+  resources :degree_requirement_types
+
+  resources :courses
+
+
+
+  resources :academic_programs do
+    resources :degree_plans
+  end
+
+  resources :meta_requirements
+
+  resources :institutional_entities
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

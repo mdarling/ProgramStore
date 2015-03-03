@@ -1,0 +1,64 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @academic_program.type %>
+</p>
+
+<p>
+  <strong>Admission requirements:</strong>
+  <%= @academic_program.admission_requirements %>
+</p>
+
+<p>
+  <strong>Career opportunities:</strong>
+  <%= @academic_program.career_opportunities %>
+</p>
+
+<p>
+  <strong>Contact information:</strong>
+  <%= @academic_program.contact_information %>
+</p>
+
+<p>
+  <strong>Degree:</strong>
+  <%= @academic_program.degree %>
+</p>
+
+<p>
+  <strong>Keywords:</strong>
+  <%= @academic_program.keywords %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @academic_program.name %>
+</p>
+
+<p>
+  <strong>Online:</strong>
+  <%= @academic_program.online %>
+</p>
+
+<p>
+  <strong>Program description:</strong>
+  <%= @academic_program.program_description %>
+</p>
+
+<p>
+  <strong>Transfer agreements:</strong>
+  <%= @academic_program.transfer_agreements %>
+</p>
+
+<p>
+  <strong>Minimum course grade:</strong>
+  <%= @academic_program.minimum_course_grade %>
+</p>
+
+<p>
+  <strong>Minimum cumulative gpa:</strong>
+  <%= @academic_program.minimum_cumulative_gpa %>
+</p>
+
+<%= link_to 'Edit', edit_academic_program_path(@academic_program) %> |
+<%= link_to 'Back', academic_programs_path %>

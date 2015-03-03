@@ -1,0 +1,945 @@
+{
+  "name": "Music (Jazz Studies Concentration)",
+  "college": "College of Fine Arts",
+  "dept": "Music",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BM",
+  "notes": [
+    {
+      "note": "Students must audition to be accepted for Applied Music (APMS) courses.  Students must take a music theory placement exam.  \n\tStudents are expected to pass the piano proficiency by end of the 4th semester."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150: Music Theory I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150",
+              "title": "Music Theory I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150L: Aural Lab I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150L",
+              "title": "Music Theory I Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 119: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 119",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 111: Group Piano I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 111",
+              "title": "Group Piano I"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble (see UNM Catalog)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152: Music Theory II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152",
+              "title": "Music Theory II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152L: Aural Lab II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152L",
+              "title": "Music Theory II Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUS 172: Jazz History",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 172",
+              "title": "Jazz History"
+            }
+          ]
+        },
+        {
+          "name": "APMS 120: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 120",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 112: Group Piano II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 112",
+              "title": "Group Piano II"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical & Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250: Music Theory III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250",
+              "title": "Music Theory III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250L: Aural Lab III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250L",
+              "title": "Music Theory III Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 219: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 219",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 211: Group Piano III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 211",
+              "title": "Group Piano III"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 234: Jazz Band",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 234",
+              "title": "Jazz Band"
+            }
+          ]
+        },
+        {
+          "name": "MUS 236: Intro to Improvisation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 236",
+              "title": "Introduction to Improvisation"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252: Music Theory IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252",
+              "title": "Music Theory IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252L: Aural Lab IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252L",
+              "title": "Music Theory IV Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 220: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 220",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 212: Group Piano IV",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 212",
+              "title": "Group Piano IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 214: Piano Proficiency",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 214",
+              "title": "Piano Proficiency"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 234: Jazz Band",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 234",
+              "title": "Jazz Band"
+            }
+          ]
+        },
+        {
+          "name": "MUS 237: Jazz Improvisation I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 237",
+              "title": "Jazz Improvisation I"
+            }
+          ]
+        },
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Physical & Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "APMS 319: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 319",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 231: Chamber Music",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 231",
+              "title": "Chamber Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 234: Jazz Band",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 234",
+              "title": "Jazz Band"
+            }
+          ]
+        },
+        {
+          "name": "MUS 238: Jazz Theory/Keyboard",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 238",
+              "title": "Jazz Theory-Keyboard"
+            }
+          ]
+        },
+        {
+          "name": "MUS 336: Jazz Improvisation II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 336",
+              "title": "Jazz Improvisation II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 361: History of Music I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 361",
+              "title": "History of Music I"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 317: Jazz Methods",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 317",
+              "title": "Jazz Methods"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "APMS 320: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 320",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 391: Junior Recital",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "APMS 391",
+              "title": "Jr Recital:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 231: Chamber Music",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 231",
+              "title": "Chamber Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 234: Jazz Band",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 234",
+              "title": "Jazz Band"
+            }
+          ]
+        },
+        {
+          "name": "MUS 337: Jazz Improvisation III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 337",
+              "title": "Jazz Improvisation III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 338: Jazz Arranging",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 338",
+              "title": "Jazz Arranging"
+            }
+          ]
+        },
+        {
+          "name": "MUS 362: History of Music II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 362",
+              "title": "History of Music II"
+            }
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 343: Selected Topics in Jazz Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 343",
+              "title": "ST: Jazz Studies"
+            }
+          ]
+        },
+        {
+          "name": "APMS 419: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 419",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 231: Chamber Music",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 231",
+              "title": "Chamber Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 234: Jazz Band",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 234",
+              "title": "Jazz Band"
+            }
+          ]
+        },
+        {
+          "name": "MUS 311 or MUS 380 or MUS 412 or MUS 421 or MUS 481",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 481",
+              "title": "Recording Techniques II"
+            },
+            {
+              "number": "MUS 311",
+              "title": "Computer Applications I"
+            },
+            {
+              "number": "MUS 380",
+              "title": "Recording Techniques I"
+            },
+            {
+              "number": "MUS 412",
+              "title": "Computer Applications II"
+            },
+            {
+              "number": "MUS 421",
+              "title": "Max Programming for Musicians"
+            }
+          ]
+        },
+        {
+          "name": "MUS 309 or MUS 325 or MUS 409 or MUS 406 or MUS 439 or MUS 453",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 309",
+              "title": "Form and Analysis"
+            },
+            {
+              "number": "MUS 325",
+              "title": "Post-Tonal Theory"
+            },
+            {
+              "number": "MUS 406",
+              "title": "18th-Century Counterpoint"
+            },
+            {
+              "number": "MUS 409",
+              "title": "Composition III"
+            },
+            {
+              "number": "MUS 439",
+              "title": "ST:Music Theory"
+            },
+            {
+              "number": "MUS 453",
+              "title": "Orchestration"
+            }
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "APMS 420: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 420",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 491: Senior Recital",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "APMS 491",
+              "title": "Sr Recital:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 231: Chamber Music",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 231",
+              "title": "Chamber Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 234: Jazz Band",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 234",
+              "title": "Jazz Band"
+            }
+          ]
+        },
+        {
+          "name": "MUS 309 or MUS 325 or MUS 409 or MUS 406 or MUS 439 or MUS 453",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 309",
+              "title": "Form and Analysis"
+            },
+            {
+              "number": "MUS 325",
+              "title": "Post-Tonal Theory"
+            },
+            {
+              "number": "MUS 406",
+              "title": "18th-Century Counterpoint"
+            },
+            {
+              "number": "MUS 409",
+              "title": "Composition III"
+            },
+            {
+              "number": "MUS 439",
+              "title": "ST:Music Theory"
+            },
+            {
+              "number": "MUS 453",
+              "title": "Orchestration"
+            }
+          ]
+        },
+        {
+          "name": "MUS 417 or MUS 418 or MUS 422 or MUS 436 or MUS 444 or MUS 448 or MUSE 293",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 293",
+              "title": "Multicult Awareness Mus Skills"
+            },
+            {
+              "number": "MUS 417",
+              "title": "Native American Music"
+            },
+            {
+              "number": "MUS 418",
+              "title": "Alaska Native Music & Culture"
+            },
+            {
+              "number": "MUS 422",
+              "title": "Indigenous World Music"
+            },
+            {
+              "number": "MUS 436",
+              "title": "ST: Contemp Wld Music"
+            },
+            {
+              "number": "MUS 444",
+              "title": "Anth of World Beat"
+            },
+            {
+              "number": "MUS 448",
+              "title": "Anth Music & Sound"
+            }
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 8,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  parent_entity_id: 1
+  type: 
+  level: 1
+  acronym: MyString
+  grad_programs: false
+  name: MyString
+  org_code: MyString
+  undergrad_programs: false
+  url: MyString
+
+two:
+  parent_entity_id: 1
+  type: 
+  level: 1
+  acronym: MyString
+  grad_programs: false
+  name: MyString
+  org_code: MyString
+  undergrad_programs: false
+  url: MyString

@@ -1,0 +1,53 @@
+<%= form_for(@institutional_entity) do |f| %>
+  <% if @institutional_entity.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@institutional_entity.errors.count, "error") %> prohibited this institutional_entity from being saved:</h2>
+
+      <ul>
+      <% @institutional_entity.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :parent_entity_id %><br>
+    <%= f.number_field :parent_entity_id %>
+  </div>
+  <div class="field">
+    <%= f.label :type %><br>
+    <%= f.text_field :type %>
+  </div>
+  <div class="field">
+    <%= f.label :level %><br>
+    <%= f.number_field :level %>
+  </div>
+  <div class="field">
+    <%= f.label :acronym %><br>
+    <%= f.text_field :acronym %>
+  </div>
+  <div class="field">
+    <%= f.label :grad_programs %><br>
+    <%= f.check_box :grad_programs %>
+  </div>
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :org_code %><br>
+    <%= f.text_field :org_code %>
+  </div>
+  <div class="field">
+    <%= f.label :undergrad_programs %><br>
+    <%= f.check_box :undergrad_programs %>
+  </div>
+  <div class="field">
+    <%= f.label :url %><br>
+    <%= f.text_field :url %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

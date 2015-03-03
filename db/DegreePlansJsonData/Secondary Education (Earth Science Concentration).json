@@ -1,0 +1,567 @@
+{
+  "name": "Secondary Education (Earth Science Concentration)",
+  "college": "College of Education",
+  "dept": "Teacher Education, Educational Leadership and Policy",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BSED",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual courswork only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Education."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 123: Trigonometry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 123",
+              "title": "Trigonometry"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 139: Music Appriciation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 139",
+              "title": "Music Appreciation"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 180: Elements of Calculus I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 180",
+              "title": "Elements of Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "EPS 101: How the Earth Works-An Introduction to Geology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EPS 101",
+              "title": "Intro Geology How Earth Works"
+            }
+          ]
+        },
+        {
+          "name": "EPS 105L: Physical Geology Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "EPS 101",
+              "title": "Intro Geology How Earth Works"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648 or HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            }
+          ]
+        },
+        {
+          "name": "EPS 201L: Earth History",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "EPS 201L",
+              "title": "Earth History Lab"
+            }
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking or CJ 220: Communication for Teachers",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "CJ 220",
+              "title": "Communication for Teachers"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 303: Human Growth and Development",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 303",
+              "title": "Human Growth and Development"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 151: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 151",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 151L: General Physics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 151L",
+              "title": "General Physics Lab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 201L: Molecular and Cell Biology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 201L",
+              "title": "Cell Biology Discussion"
+            }
+          ]
+        },
+        {
+          "name": "HIST 162: History of the United States Since 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "MSET 365: Microcomputers in Schools",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MSET 365",
+              "title": "Microcomp in School"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 122: General Chemistry II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 124L: General Chemistry II Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            }
+          ]
+        },
+        {
+          "name": "HIST 260: History of New Mexico",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 260",
+              "title": "History of New Mexico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "LING 101: Introduction to the Study of Language or English Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LING 101",
+              "title": "Intro to the Study of Language"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 202L: Genetics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 202L",
+              "title": "Genetics Lab"
+            }
+          ]
+        },
+        {
+          "name": "EPS 301: Mineralogy/Earth and Planetary Materials",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EPS 301",
+              "title": "Mineralogy"
+            }
+          ]
+        },
+        {
+          "name": "EPS 302L: Mineralogy Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "EPS 302L",
+              "title": "Mineralogy Lab"
+            }
+          ]
+        },
+        {
+          "name": "ARTH 101: Introduction to Art or ARTH 251: Artistic Traditions of the Southwest",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 101",
+              "title": "Introduction To Art"
+            },
+            {
+              "number": "ARTH 251",
+              "title": "Artistic Traditions of SW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EPS 304L: Sedimentology and Stratigraphy",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "EPS 304L",
+              "title": "Sedimentology Stratigraphy Lab"
+            }
+          ]
+        },
+        {
+          "name": "EPS 307L: Structural Geology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "EPS 307L",
+              "title": "Structural Geology Lab"
+            }
+          ]
+        },
+        {
+          "name": "EPS 225: Oceanography",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EPS 225",
+              "title": "Oceanography"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 152: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 152",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 152L: General Physics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 152L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "ASTR 101: Introduction to Astronomy",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ASTR 101",
+              "title": "Intro To Astronomy"
+            }
+          ]
+        },
+        {
+          "name": "ASTR 101L: Astronomy Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "ASTR 101L",
+              "title": "Astronomy Laboratory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "SPCD 489: Teaching Exceptional Students in General Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "SPCD 489",
+              "title": "Tch Except Students in Gen Ed"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 438: Teaching Reading and Writing in the Content Field",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 438",
+              "title": "Techng Read Writ Content Field"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 362: Teaching Experience I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 362",
+              "title": "Teaching Experience I"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 450: Issues in Secondary Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 450",
+              "title": "Issues in Secondary Education"
+            }
+          ]
+        },
+        {
+          "name": "LLSS 432: Teaching of Social Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LLSS 432",
+              "title": "Teaching Social Studies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EDUC 462: Student Teaching",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 9,
+          "courses": [
+            {
+              "number": "EDUC 462",
+              "title": "Student Teaching Secondary"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 464: Student Teaching Seminar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 464",
+              "title": "Student Teching Sem Secondary"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 310: Learning and the Classroom",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 310",
+              "title": "Learning and the Classroom"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

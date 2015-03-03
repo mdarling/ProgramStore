@@ -1,0 +1,443 @@
+{
+  "name": "Native American Studies",
+  "college": "University College",
+  "dept": "University College",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Math",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "FAC",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 150: Introduction to Native American Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NATV 150",
+              "title": "Intro to Native American Stds"
+            }
+          ]
+        },
+        {
+          "name": "NATV 255: Topics in Native American Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NATV 255",
+              "title": "Topics in Native American Stds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical/Natural Sci Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social/Behavioral Sci Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Learning Community",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 250: Sociopolitical Concepts in Native America",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NATV 250",
+              "title": "Sociopolitical Concepts in NA"
+            }
+          ]
+        },
+        {
+          "name": "NATV 255: Topics in Native American Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NATV 255",
+              "title": "Topics in Native American Stds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Writing/Speaking Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Phys/Nat Sci Core + Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Phys/Nat Sci Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social/Behavioral Sci Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 251: Research Issues in Native America",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NATV 251",
+              "title": "Research Issues in Nat America"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Fine Arts Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 300: Research Methods in Native American Contexts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NATV 300",
+              "title": "Research Meth Nat Am Concepts"
+            }
+          ]
+        },
+        {
+          "name": "NATV Concentration (1)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 255: Topics in Native American Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NATV 255",
+              "title": "Topics in Native American Stds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NATV 351 OR NATV 352",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NATV 351",
+              "title": "Individual Study"
+            }
+          ]
+        },
+        {
+          "name": "NATV Concentration (2)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV Concentration (3)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor Course (UD)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 255 OR NATV 450 OR PENP",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NATV 255",
+              "title": "Topics in Native American Stds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NATV Concentration (4)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV Outside Conc (1)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor Course (UD)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 9,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 255 OR NATV 450 OR PENP",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NATV 255",
+              "title": "Topics in Native American Stds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NATV 474: Traditions of Native American Philosophy",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NATV 474",
+              "title": "Traditions Natv Am Philosophy"
+            }
+          ]
+        },
+        {
+          "name": "NATV Outside Conc (2)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor Course (UD)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 255 OR NATV 450 OR PENP",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NATV 255",
+              "title": "Topics in Native American Stds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective or Minor Req",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 15,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NATV 255 OR NATV 450 OR PENP",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NATV 255",
+              "title": "Topics in Native American Stds"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

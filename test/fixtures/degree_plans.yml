@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  academic_program_id: 1
+  type_of_program: MyString
+  degree_plan: MyText
+
+two:
+  academic_program_id: 1
+  type_of_program: MyString
+  degree_plan: MyText

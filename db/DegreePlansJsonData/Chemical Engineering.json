@@ -1,0 +1,577 @@
+{
+  "name": "Chemical Engineering",
+  "college": "School of Engineering",
+  "dept": "Chemical and Biological Engineering",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual coursework only.  Students must maintain a minimum of a 2.0 cumulative grade point average for admission to and graduation from the College of Arts and Sciences.  Minimums listed for the individual courses do NOT meet the cumulative minimum."
+    },
+    {
+      "note": ""
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Composition 1: Exposition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 162: Calculus I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 162",
+              "title": "Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 101: Introduction to Chemical Engineering and Nuclear Engineering",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHBE 101",
+              "title": "Introduction to CHBE"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            }
+          ]
+        },
+        {
+          "name": "Humanities Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 163: Calculus II",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 163",
+              "title": "Calculus II"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 160: General Physics I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "CS 151L: Computer Programming Fundamentals",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 151L",
+              "title": "Programming Fund Nonmajors"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 122: General Chemistry II",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 124L: General Chemistry II Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CHBE 251: Chemical Process Calculations I",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 251",
+              "title": "Chem Processes Calc I"
+            }
+          ]
+        },
+        {
+          "name": "MATH 264: Calculus III",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 264",
+              "title": "Calculus III"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 161: General Physics II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "ECON 105: Macroeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 301: Organic Chemistry I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 301",
+              "title": "Organic Chemistry"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 303L: Organic Chemistry Lab I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 303L",
+              "title": "Organic Chem Lab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MATH 316: Differential Equations",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 316",
+              "title": "Applied Ordinary Diff Equas"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 253: Chemical Process Calculations I",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 253",
+              "title": "Chem Processes Calc II"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 302: Chemical Engineering Thermodynamics",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHBE 302",
+              "title": "Chem Engr Thermodynamics"
+            }
+          ]
+        },
+        {
+          "name": "Basic Science Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Advanced Chemistry Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CHBE 311: Introduction to Transport Phenomena",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHBE 311",
+              "title": "Intro Transport Phenomena"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 317: Chemical and Nuclear Engineering Analysis",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 317",
+              "title": "CHBE Analysis"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 361: Biomolecular Engineering",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 361",
+              "title": "Biomolecular Engineering"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 318L: Chemical Engineering Lab I",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHBE 318L",
+              "title": "Chemical Engineering Lab I"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 219: Technical Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            }
+          ]
+        },
+        {
+          "name": "Advanced Chemistry Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CHBE 312: Unit Operations",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 312",
+              "title": "Unit Operations"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 321: Mass Transfer",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 321",
+              "title": "Mass Transfer"
+            }
+          ]
+        },
+        {
+          "name": "Basic Engineering Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Advanced Chemistry Concentration",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHBE 319L: Chemical Engineering Lab II",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHBE 319L",
+              "title": "Chemical Engineering Lab II"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 371: Introduction to Materials Engineering",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 371",
+              "title": "Intro Materials Engineering"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CHBE 418: Chemical Engineering Lab III",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHBE 451: Senior Seminar",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHBE 451",
+              "title": "Senior Seminar"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 461: Chemical Reactor Engineering",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 461",
+              "title": "Chem Reactor Engineering"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 493L: Chemical Engineering Design",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 493L",
+              "title": "Chemical Engr Design"
+            }
+          ]
+        },
+        {
+          "name": "Technical Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CHBE 419L: Chemical Engineering Lab IV",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "CHBE 419L",
+              "title": "Chemical Engineering Lab IV"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 454: Process Dynamics and Control",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 454",
+              "title": "Process Dynamics & Control"
+            }
+          ]
+        },
+        {
+          "name": "CHBE 494L: Advanced Chemical Engineering Design",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHBE 494L",
+              "title": "Advanced Chem Engr Design"
+            }
+          ]
+        },
+        {
+          "name": "Technical Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

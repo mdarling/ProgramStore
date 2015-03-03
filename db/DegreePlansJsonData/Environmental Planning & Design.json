@@ -1,0 +1,503 @@
+{
+  "name": "Environmental Planning & Design",
+  "college": "School of Architecture and Planning",
+  "dept": "School of Architecture and Planning",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BAEPD",
+  "notes": [
+    {
+      "note": "Minimum grades indicated on the Road Map are for individual coursework only.  Students must maintain a minimum 2.5 cumulative Grade Point Average (GPA) to be eligible for consideration for admission to and graduation from the School of Architecture and Planning.  For more information go to http://catalog.unm.edu/catalogs/2014-2015/"
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "CRP 165: Community and Regional Planning, Introduction",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 165",
+              "title": "Intro to Comm & Reg Planning"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 121: Introduction to Architecture",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 121",
+              "title": "Introduction to Architecture"
+            }
+          ]
+        },
+        {
+          "name": "UNM CORE (HUM)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CRP 181: Introduction to Environmental Problems",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 181",
+              "title": "Intro to Environ Problems"
+            }
+          ]
+        },
+        {
+          "name": "UNM CORE (FOREIGN LANG)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "UNM CORE (SCIENCE+LAB)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "UNM CORE (HUM)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PSY 105: General Psychology or SOC 101: Introduction to Sociology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            },
+            {
+              "number": "SOC 101",
+              "title": "Introduction to Sociology"
+            }
+          ]
+        },
+        {
+          "name": "STAT",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 225: Small Group Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 225",
+              "title": "Small Group Communication"
+            }
+          ]
+        },
+        {
+          "name": "CRP 265: Community Planning: Concepts and Methods",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 265",
+              "title": "Community Planning Methods"
+            }
+          ]
+        },
+        {
+          "name": "UNM CORE (Writing + Speaking)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECON 105: Introductory Macroeconomics or ECON 106: Introductory Microeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            },
+            {
+              "number": "ECON 106",
+              "title": "Introductory Microeconomics"
+            }
+          ]
+        },
+        {
+          "name": "UNM CORE (SCIENCE +LAB)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ART + DESIGN ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical World Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PHIL + ETHICS ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "SOC+POL DIMENSIONS ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ETHNIC + GENDER STUDIES",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CRP 483: Introduction to Geographic Information Systems (GIS)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 483",
+              "title": "Intro To GIS"
+            }
+          ]
+        },
+        {
+          "name": "CRP 330: Introduction to Urban Design",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 330",
+              "title": "Introduction to Urban Design"
+            }
+          ]
+        },
+        {
+          "name": "RESEARCH METHODS",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CRP 480: Community Growth and Land Use Planning",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 480",
+              "title": "Community Growth & Land Use"
+            }
+          ]
+        },
+        {
+          "name": "CRP 427: Watershed Management",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 427",
+              "title": "Watershed Management"
+            }
+          ]
+        },
+        {
+          "name": "CRP 431: Foundations of Community Development or CRP 432: Foundations of Natural Resources or CRP 433: Foundations of Physical Planning",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 431",
+              "title": "Foundations of Community Dev"
+            },
+            {
+              "number": "CRP 433",
+              "title": "Foundations of Physical Plng"
+            }
+          ]
+        },
+        {
+          "name": "CRP 376: Human Settlements",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 376",
+              "title": "Human Settlements"
+            }
+          ]
+        },
+        {
+          "name": "ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CRP 437: Urban Systems",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 437",
+              "title": "Urban Systems"
+            }
+          ]
+        },
+        {
+          "name": "CRP 462: The Housing Process or CRP 484: Neighborhood Planning",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 462",
+              "title": "The Housing Process"
+            },
+            {
+              "number": "CRP 484",
+              "title": "Neighborhood Plng"
+            }
+          ]
+        },
+        {
+          "name": "CRP 467: Regional Planning Process and Theory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 467",
+              "title": "Regional Plan Process & Theo"
+            }
+          ]
+        },
+        {
+          "name": "CRP 474: Cultural Aspects of Community Development Planning",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 474",
+              "title": "Cultural Aspects of Comm Dev"
+            }
+          ]
+        },
+        {
+          "name": "CRP 482: Graphic Communications",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 482",
+              "title": "Graphic Communication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CRP 420: Environmental Design Studio [Urban Planning Workshop]",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 420",
+              "title": "Urban Planning Workshop"
+            }
+          ]
+        },
+        {
+          "name": "CRP 472: Indigenous Planning",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CRP 472",
+              "title": "Indigenous Planning"
+            }
+          ]
+        },
+        {
+          "name": "ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ELECTIVE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "name": "Secondary Education (German Concentration)",
+  "college": "College of Education",
+  "dept": "Teacher Education, Educational Leadership and Policy",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BAED",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual courswork only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Education."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "GRMN 101: Elementary German I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 101",
+              "title": "Basic German I"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648 or HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            },
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "GRMN 102: Elementary German II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 102",
+              "title": "Basic German II"
+            }
+          ]
+        },
+        {
+          "name": "HIST 161: History of the United States to 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 161",
+              "title": "US History to 1877"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking or CJ 220: Communication for Teachers",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "CJ 220",
+              "title": "Communication for Teachers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical or Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 162: History of the United States Since 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "GRMN 201: Intermediate German I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 201",
+              "title": "Intermediate German I"
+            }
+          ]
+        },
+        {
+          "name": "GRMN 307: Introduction to German Literature",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 307",
+              "title": "Intro To German Lit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "LING 101: Introduction to the Study of Language or English Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LING 101",
+              "title": "Intro to the Study of Language"
+            }
+          ]
+        },
+        {
+          "name": "HIST 260: History of New Mexico",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 260",
+              "title": "History of New Mexico"
+            }
+          ]
+        },
+        {
+          "name": "GRMN 202: Intermediate German II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 202",
+              "title": "Intermediate German II"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "GRMN 336: Topics in German Literature and Culture in Translation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 336",
+              "title": "T: German Lit & Cultr in Trans"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARTH 101: Introduction to Art or ARTH 251: Artistic Traditions of the Southwest",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 101",
+              "title": "Introduction To Art"
+            },
+            {
+              "number": "ARTH 251",
+              "title": "Artistic Traditions of SW"
+            }
+          ]
+        },
+        {
+          "name": "GRMN 308: Introduction to German Culture",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 308",
+              "title": "Intro German Culture"
+            }
+          ]
+        },
+        {
+          "name": "GRMN 301: Advanced German I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "GRMN 498: Reading and Research for Honors or GRMN 499: Honors Essay",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 498",
+              "title": "Rdg-Resrch for Honrs"
+            },
+            {
+              "number": "GRMN 499",
+              "title": "Honors Essay"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 303: Human Growth and Development",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 303",
+              "title": "Human Growth and Development"
+            }
+          ]
+        },
+        {
+          "name": "PENP Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "GRMN 302: Advanced German II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "GRMN 302",
+              "title": "Advanced German"
+            }
+          ]
+        },
+        {
+          "name": "Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 139: Music Appriciation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 139",
+              "title": "Music Appreciation"
+            }
+          ]
+        },
+        {
+          "name": "MSET 365: Microcomputers in Schools",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MSET 365",
+              "title": "Microcomp in School"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 310: Learning and the Classroom",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 310",
+              "title": "Learning and the Classroom"
+            }
+          ]
+        },
+        {
+          "name": "PENP Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "SPCD 489: Teaching Exceptional Students in General Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "SPCD 489",
+              "title": "Tch Except Students in Gen Ed"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 438: Teaching Reading and Writing in the Content Field",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 438",
+              "title": "Techng Read Writ Content Field"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 362: Teaching Experience I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 362",
+              "title": "Teaching Experience I"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 450: Issues in Secondary Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 450",
+              "title": "Issues in Secondary Education"
+            }
+          ]
+        },
+        {
+          "name": "LLSS 432: Teaching of Social Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LLSS 432",
+              "title": "Teaching Social Studies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EDUC 462: Student Teaching",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 9,
+          "courses": [
+            {
+              "number": "EDUC 462",
+              "title": "Student Teaching Secondary"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 464: Student Teaching Seminar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 464",
+              "title": "Student Teching Sem Secondary"
+            }
+          ]
+        },
+        {
+          "name": "Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

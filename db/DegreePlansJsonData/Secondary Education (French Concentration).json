@@ -1,0 +1,522 @@
+{
+  "name": "Secondary Education (French Concentration)",
+  "college": "College of Education",
+  "dept": "Teacher Education, Educational Leadership and Policy",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BAED",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "FREN 101: Elementary FRENch I-Elementary French II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 101",
+              "title": "Elementary French"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101 OR HIST 102",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            },
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "FREN 102: Elementary French I-Elementary French II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 102",
+              "title": "Elementary French"
+            }
+          ]
+        },
+        {
+          "name": "HIST 161: History of the United States to 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 161",
+              "title": "US History to 1877"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 130 OR CJ 220",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "CJ 220",
+              "title": "Communication for Teachers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical or Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 162: History of the United States Since 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "FREN 201: Intermediate French I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 201",
+              "title": "Intermediate French I"
+            }
+          ]
+        },
+        {
+          "name": "FREN 351: French Literature 1000-1789",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 351",
+              "title": "French Literature 1000-1789"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "LING 101 or English Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LING 101",
+              "title": "Intro to the Study of Language"
+            }
+          ]
+        },
+        {
+          "name": "HIST 260: History of New Mexico",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 260",
+              "title": "History of New Mexico"
+            }
+          ]
+        },
+        {
+          "name": "FREN 202: Intermediate French II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 202",
+              "title": "Intermediate French II"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "FREN 203: Intermediate French Conversation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 203",
+              "title": "Inter French Conversation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARTH 101 OR ARTH 251",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 101",
+              "title": "Introduction To Art"
+            },
+            {
+              "number": "ARTH 251",
+              "title": "Artistic Traditions of SW"
+            }
+          ]
+        },
+        {
+          "name": "FREN 335: Topics in French Literature and Culture in Translation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 335",
+              "title": "T: French Lit & Cultr in Trans"
+            }
+          ]
+        },
+        {
+          "name": "FREN 345: French Civilization 1000-1789",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 345",
+              "title": "French Civilization 1000-1789"
+            }
+          ]
+        },
+        {
+          "name": "FREN 352: French Literature 1789-pres",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 352",
+              "title": "French Literature 1789-pres"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 303: Human Growth and Development",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 303",
+              "title": "Human Growth and Development"
+            }
+          ]
+        },
+        {
+          "name": "PE-NP Elective",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "FREN 407 OR FREN 432",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 407",
+              "title": "Translation"
+            },
+            {
+              "number": "FREN 432",
+              "title": "T: Literature & Culture"
+            }
+          ]
+        },
+        {
+          "name": "FREN 301: Advanced Essay & Exploration I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "FREN 301",
+              "title": "Advanced Essay & Exploration I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 139 OR MUS 140",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 139",
+              "title": "Music Appreciation"
+            }
+          ]
+        },
+        {
+          "name": "MSET 365: Microcomputers in Schools",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MSET 365",
+              "title": "Microcomp in School"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 310: Learning and the Classroom",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 310",
+              "title": "Learning and the Classroom"
+            }
+          ]
+        },
+        {
+          "name": "PE-NP Elective",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "SPCD 489: Teaching Exceptional Students in General Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "SPCD 489",
+              "title": "Tch Except Students in Gen Ed"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 438: eaching Reading and Writing in the Content Field",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 438",
+              "title": "Techng Read Writ Content Field"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 362: Teaching Experience I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 362",
+              "title": "Teaching Experience I"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 450: Issues in Secondary Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 450",
+              "title": "Issues in Secondary Education"
+            }
+          ]
+        },
+        {
+          "name": "LLSS 432: Teaching of Social Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LLSS 432",
+              "title": "Teaching Social Studies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EDUC 462: Student Teaching",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 9,
+          "courses": [
+            {
+              "number": "EDUC 462",
+              "title": "Student Teaching Secondary"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 464: Student Teaching Seminar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 464",
+              "title": "Student Teching Sem Secondary"
+            }
+          ]
+        },
+        {
+          "name": "Elecitive",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

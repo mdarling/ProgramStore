@@ -1,0 +1,654 @@
+{
+  "name": "Physical Education",
+  "college": "College of Education",
+  "dept": "Health, Exercise, and Sports Sciences",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BSED",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual courswork only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Education."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "MATH 101: Intermediate Algebra Part 1",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MATH 101",
+              "title": "Intermediate Algebra Part I"
+            }
+          ]
+        },
+        {
+          "name": "MATH 102: Intermediate Algebra Part 2",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MATH 102",
+              "title": "Intermediate Algebra Part II"
+            }
+          ]
+        },
+        {
+          "name": "MATH 103: Intermediate Algebra Part 3",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MATH 103",
+              "title": "Intermediate Algebra Part III"
+            }
+          ]
+        },
+        {
+          "name": "HED 164L: Standard First Aid",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 164L",
+              "title": "First Aid Lab"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 123: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 124L: Biology for Health Related Sciences and Non-Majors Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "PEP 223: Invasion Games",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 223",
+              "title": "Invasion Games"
+            }
+          ]
+        },
+        {
+          "name": "PEP 226: Lifetime Pursuits",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 226",
+              "title": "Lifetime Pursuits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 111: Elements of General Chemistry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 111",
+              "title": "Elem of Gen Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648 or HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            },
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "PEP 225: Net Games",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 225",
+              "title": "Net Games"
+            }
+          ]
+        },
+        {
+          "name": "PENP 118: Individual Tumbling",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "PENP 118",
+              "title": "Individual Tumbling"
+            }
+          ]
+        },
+        {
+          "name": "PEP 227: Elementary Rhythims, Aerobic Dance, Yoga",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 227",
+              "title": "Elem Rhythm,aerobic Dance,Yoga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 222: Target Activities",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 222",
+              "title": "Target Activities"
+            }
+          ]
+        },
+        {
+          "name": "PEP 245: Professional Laboratory Experience in Physical Education",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "PEP 245",
+              "title": "Prof Lab Exper in PE"
+            }
+          ]
+        },
+        {
+          "name": "PEP 208: Teaching Fitness Concepts",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "PEP 208",
+              "title": "Teach Fitness Concepts"
+            }
+          ]
+        },
+        {
+          "name": "PEP 234: Track and Field/Cooperative Games",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 234",
+              "title": "T&F Coop Games"
+            }
+          ]
+        },
+        {
+          "name": "HIST 161: History of the United States to 1877 or HIST 162: History of the United States Since 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 161",
+              "title": "US History to 1877"
+            },
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 247L: Human Anatomy and Physiology Laboratory I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 247L",
+              "title": "Anatomy & Physiology Lab I"
+            }
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 228: Outdoor Pursuits",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 228",
+              "title": "Outdoor Pursuits"
+            }
+          ]
+        },
+        {
+          "name": "PEP 239: Dance",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PEP 239",
+              "title": "Dance"
+            }
+          ]
+        },
+        {
+          "name": "PEP 277: Kinesiology",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 277",
+              "title": "Kinesiology"
+            }
+          ]
+        },
+        {
+          "name": "PEP 288: Motor Learning and Performance",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 288",
+              "title": "Mtr Lrng & Perform"
+            }
+          ]
+        },
+        {
+          "name": "NUTR 244: Human Nutrition",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 244",
+              "title": "Human Nutrition"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EDPY 310: Learning and the Classroom",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 310",
+              "title": "Learning and the Classroom"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 303: Human Growth and Development",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 303",
+              "title": "Human Growth and Development"
+            }
+          ]
+        },
+        {
+          "name": "PEP 444: Teaching and Learning in PE",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 444",
+              "title": "Teaching PE I"
+            }
+          ]
+        },
+        {
+          "name": "PEP 301: Physical Education in Secondary Schools",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 301",
+              "title": "Teaching Team Sports"
+            }
+          ]
+        },
+        {
+          "name": "PEP 319: Physical Education in the Elementary School",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 319",
+              "title": "P E Elem School"
+            }
+          ]
+        },
+        {
+          "name": "History Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 466: Adapted Physical Education",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 466",
+              "title": "Special Phys Educ"
+            }
+          ]
+        },
+        {
+          "name": "PEP 410: Assessment in Physical Education",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 410",
+              "title": "Assessment in PE"
+            }
+          ]
+        },
+        {
+          "name": "PEP 430: Classroom/Behavior Management in Physical Education",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 430",
+              "title": "Classroom Behavior Mgmt in PE"
+            }
+          ]
+        },
+        {
+          "name": "HED 306: Conflict Mediation",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 306",
+              "title": "Conflict Mediation"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 479: Org and Admin of PE",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 479",
+              "title": "Org and Admin of PE"
+            }
+          ]
+        },
+        {
+          "name": "PEP 326L Fundamentals of Exercise Physiology",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 326L",
+              "title": "Fund Exer Physiology"
+            }
+          ]
+        },
+        {
+          "name": "CJ 314: Intercultural Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 314",
+              "title": "Intercultural Communication"
+            }
+          ]
+        },
+        {
+          "name": "History Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "EDUC 438: Teaching Reading and Writing in the Content Field",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 438",
+              "title": "Techng Read Writ Content Field"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PEP 485: Diversity in Sport and Physical Activity",
+          "crucial": false,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PEP 485",
+              "title": "Afr Hisp Nat Amer & Phys Activ"
+            }
+          ]
+        },
+        {
+          "name": "PEP 400: Student Teaching in the Elementary School",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "PEP 400",
+              "title": "Stu Teach in Elem School"
+            }
+          ]
+        },
+        {
+          "name": "PEP 461: Student Teaching in the Secondary Schools",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "PEP 461",
+              "title": "Stu Teach in Sec School"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

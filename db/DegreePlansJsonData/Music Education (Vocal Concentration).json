@@ -1,0 +1,941 @@
+{
+  "name": "Music Education (Vocal Concentration)",
+  "college": "College of Fine Arts",
+  "dept": "Music",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BME",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "MATH 111:  Mathematics for Elementary and Middle School Teachers I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 111",
+              "title": "Math El Sch Tchr I"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150: Music Theory I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150",
+              "title": "Music Theory I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150L: Music Theory I Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150L",
+              "title": "Music Theory I Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 243: Concert Choir",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 243",
+              "title": "Concert Choir"
+            }
+          ]
+        },
+        {
+          "name": "APMS 119: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 119",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 194: Introduction to Music Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 194",
+              "title": "Intro to Music Education"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 213: Choral Lab",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUSE 213",
+              "title": "Choral Lab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152: Music Theory II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152",
+              "title": "Music Theory II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152L: Music Theory II Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152L",
+              "title": "Music Theory II Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 243: Concert Choir",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 243",
+              "title": "Concert Choir"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 155: Orchestral Instruments",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 155",
+              "title": "Orch Instrs:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 120: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 120",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 195: Introductory Teaching Practicum",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 195",
+              "title": "Introd Teaching Practicum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CJ 130: Public Speaking OR CJ 220: Communication for Teachers",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "CJ 220",
+              "title": "Communication for Teachers"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 236: Intro to Improvisation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUS 236",
+              "title": "Introduction to Improvisation"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250: Music Theory III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250",
+              "title": "Music Theory III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250L: Music Theory III Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250L",
+              "title": "Music Theory III Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUS 209: Diction for Singers I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 209",
+              "title": "Diction for Singers I"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 243: Concert Choir",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 243",
+              "title": "Concert Choir"
+            }
+          ]
+        },
+        {
+          "name": "APMS 219: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 219",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 108: Intro to Musical Acoustics and PHYC 108L: Musical Acoustics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "PHYC 108",
+              "title": "Intro Musical Acoustics"
+            },
+            {
+              "number": "PHYC 108L",
+              "title": "Musical Acoustic Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252: Music Theory IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252",
+              "title": "Music Theory IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252L: Music Theory IV Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252L",
+              "title": "Music Theory IV Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUS 210: Diction for Singers II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 210",
+              "title": "Diction for Singers II"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 243: Concert Choir",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 243",
+              "title": "Concert Choir"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 155: Orchestral Instruments",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUSE 155",
+              "title": "Orch Instrs:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 220: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 220",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 214: Piano Proficiency",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 214",
+              "title": "Piano Proficiency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HIST 161: History of the U.S.",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 161",
+              "title": "US History to 1877"
+            }
+          ]
+        },
+        {
+          "name": "MUS 361: History of Music I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 361",
+              "title": "History of Music I"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 363: Conducting",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUSE 363",
+              "title": "Conducting"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 243: Concert Choir",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 243",
+              "title": "Concert Choir"
+            }
+          ]
+        },
+        {
+          "name": "MUS 388: Music Pedagogy",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 388",
+              "title": "Mus Pedagogy:"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 155: Orchestral Instruments",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUSE 155",
+              "title": "Orch Instrs:"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 213: Choral Lab",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUSE 213",
+              "title": "Choral Lab"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 446: Secondary School Music",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 446",
+              "title": "Secondary School Music"
+            }
+          ]
+        },
+        {
+          "name": "APMS 119: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 119",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 319: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 319",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "English literature",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 162: History of the United States Since 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "PSY 220: Developmental Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 220",
+              "title": "Developmental Psychology"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 362: History of Music II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 362",
+              "title": "History of Music II"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 243: Concert Choir",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 243",
+              "title": "Concert Choir"
+            }
+          ]
+        },
+        {
+          "name": "APMS 320: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 320",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 120: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 120",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical & Natural Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUSE 243: Concert Choir",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 243",
+              "title": "Concert Choir"
+            }
+          ]
+        },
+        {
+          "name": "APMS 419: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 419",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 346: Teaching Music in the Elementary Schools",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 346",
+              "title": "Teaching Mus in the Elem Schls"
+            }
+          ]
+        },
+        {
+          "name": "MUS 453: Orchestration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 453",
+              "title": "Orchestration"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 457: Foundations of Musical Behavior",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 457",
+              "title": "Foundations of Mus Behavior"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUSE 243: Concert Choir",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 243",
+              "title": "Concert Choir"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 313: Choral Music Methods",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 313",
+              "title": "Choral Music Methods"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 347: Introduction to Early Childhood Music Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MUSE 347",
+              "title": "Introd to Early Childhood Mus"
+            }
+          ]
+        },
+        {
+          "name": "APMS 420: Principal instrument",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 420",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 491: Senior Recital",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "APMS 491",
+              "title": "Sr Recital:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 417 OR MUS 418 OR MUS 422 OR MUS 436 OR MUS 444 OR MUS 448 OR MUSE 293",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 293",
+              "title": "Multicult Awareness Mus Skills"
+            },
+            {
+              "number": "MUS 417",
+              "title": "Native American Music"
+            },
+            {
+              "number": "MUS 418",
+              "title": "Alaska Native Music & Culture"
+            },
+            {
+              "number": "MUS 422",
+              "title": "Indigenous World Music"
+            },
+            {
+              "number": "MUS 436",
+              "title": "ST: Contemp Wld Music"
+            },
+            {
+              "number": "MUS 444",
+              "title": "Anth of World Beat"
+            },
+            {
+              "number": "MUS 448",
+              "title": "Anth Music & Sound"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 455: Teaching Reading in the Music Classroom",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 455",
+              "title": "Teach Reading Mus Classroom"
+            }
+          ]
+        },
+        {
+          "name": "Physical & Natural Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUSE 400: Student Teaching in the Elementary School",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 400",
+              "title": "Student Tchg in the Elem Schl"
+            }
+          ]
+        },
+        {
+          "name": "MUSE 461: Student Teaching in the Secondary Schools",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUSE 461",
+              "title": "Student Tchg in Secondary Schl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

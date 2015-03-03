@@ -1,0 +1,519 @@
+{
+  "name": "Architecture",
+  "college": "School of Architecture and Planning",
+  "dept": "School of Architecture and Planning",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BAA",
+  "notes": [
+    {
+      "note": "Minimum grades indicated on the Road Map are for individual coursework only.  Students must maintain a minimum 2.5 cumulative Grade Point Average (GPA) to be eligible for consideration for admission to and graduation from the School of Architecture and Planning.  For more information go to http://catalog.unm.edu/catalogs/2014-2015/"
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ARCH 121: Introduction to Architecture",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 121",
+              "title": "Introduction to Architecture"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Freshman Academic Choices",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 123: Trigonometry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 123",
+              "title": "Trigonometry"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 111: Introduction to Architectural Graphics or ARCH 109: Design Fundamentals",
+          "crucial": false,
+          "min_grade": "B/C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 109",
+              "title": "Design Fundamentals"
+            },
+            {
+              "number": "ARCH 111",
+              "title": "Intro Architectural Graphics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PHYC 102: Introduction to Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 102",
+              "title": "Intro To Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 102L: Physics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 102L",
+              "title": "Physics Laboratory"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARCH 111: Introduction to Architectural Graphics or ARCH 109: Design Fundamentals",
+          "crucial": false,
+          "min_grade": "B/C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 109",
+              "title": "Design Fundamentals"
+            },
+            {
+              "number": "ARCH 111",
+              "title": "Intro Architectural Graphics"
+            }
+          ]
+        },
+        {
+          "name": "UNM Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 180: Elements Caculus I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 180",
+              "title": "Elements of Calculus I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARCH 201: Architectural Design I",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ARCH 201",
+              "title": "Design I Studio"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 211: Architectural Communications I",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ARCH 211",
+              "title": "Architectural Communications I"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 241: Sustainability I",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CRP Class",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "UNM Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARCH 202: Architectural Design II",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ARCH 202",
+              "title": "Design II Studio"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 211: Architectural Communications I",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ARCH 211",
+              "title": "Architectural Communications I"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 221: Architecture and Context",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 221",
+              "title": "Architecture and Context"
+            }
+          ]
+        },
+        {
+          "name": "UNM Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "UNM Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARCH 301: Design Studio III",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ARCH 301",
+              "title": "Design Studio III"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 311: Architectural Communication II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ARCH 311",
+              "title": "Architectural Communication II"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 321: World Architecture I: History of the Built Environment From Prehistory to 1400 CE",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 321",
+              "title": "World Architecture I"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 331: Construction I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 331",
+              "title": "Construction I"
+            }
+          ]
+        },
+        {
+          "name": "Service Learning",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "UNM Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARCH 302: Design Studio IV",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ARCH 302",
+              "title": "Design Studio IV"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 311: Architectural Communication II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ARCH 311",
+              "title": "Architectural Communication II"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 322: World Architecture II: History of the Built Environment From 1400 CE to the Present",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 322",
+              "title": "World Architecture II"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 332: Structures I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 332",
+              "title": "Structures I"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 342: Human Factors and Programming",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 342",
+              "title": "Human Factors and Programming"
+            }
+          ]
+        },
+        {
+          "name": "UNM Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARCH 401: Design Studio V",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "ARCH 401",
+              "title": "Design Studio V"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 431: Structures II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 431",
+              "title": "Structures II"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 441: Sustainability II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 441",
+              "title": "Sustainability II"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 451: Research and Design",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 451",
+              "title": "Research and Design"
+            }
+          ]
+        },
+        {
+          "name": "UNM Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARCH 402: Design Studio VI",
+          "crucial": false,
+          "min_grade": "C+",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "ARCH 402",
+              "title": "Design Studio V"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 432: Building Systems",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 432",
+              "title": "Real Estate Development"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 442: Politics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 442",
+              "title": "Furniture Design"
+            }
+          ]
+        },
+        {
+          "name": "ARCH 452: Practice and Theory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARCH 452",
+              "title": "Practice and Theory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

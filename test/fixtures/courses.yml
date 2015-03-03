@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  institutional_entity_id: 1
+  co_or_prerequisite_string: MyText
+  co_or_prerequisite_array: MyText
+  corequisite_string: MyText
+  corequisite_array: MyText
+  credits: MyString
+  description: MyText
+  number: MyString
+  prerequisite_array: MyText
+  prerequisite_string: MyText
+  semester_offering: MyString
+  title: MyString
+
+two:
+  institutional_entity_id: 1
+  co_or_prerequisite_string: MyText
+  co_or_prerequisite_array: MyText
+  corequisite_string: MyText
+  corequisite_array: MyText
+  credits: MyString
+  description: MyText
+  number: MyString
+  prerequisite_array: MyText
+  prerequisite_string: MyText
+  semester_offering: MyString
+  title: MyString

@@ -1,0 +1,567 @@
+{
+  "name": "Theatre",
+  "college": "College of Fine Arts",
+  "dept": "Theatre & Dance",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 130: Acting I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 130",
+              "title": "Acting I"
+            }
+          ]
+        },
+        {
+          "name": "THEA 192 or THEA 194 or THEA 196",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 192",
+              "title": "Stagecraft I"
+            },
+            {
+              "number": "THEA 194",
+              "title": "Introduction to Costuming"
+            },
+            {
+              "number": "THEA 196",
+              "title": "Introduction to Stage Lighting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 105: Theatre Appreciation",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 105",
+              "title": "Theatre Appreciation"
+            }
+          ]
+        },
+        {
+          "name": "THEA 192 or THEA 194 or THEA 196",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 192",
+              "title": "Stagecraft I"
+            },
+            {
+              "number": "THEA 194",
+              "title": "Introduction to Costuming"
+            },
+            {
+              "number": "THEA 196",
+              "title": "Introduction to Stage Lighting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 231: Voice and Movement I",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 231",
+              "title": "Voice and Movement I"
+            }
+          ]
+        },
+        {
+          "name": "THEA 192 or THEA 194 or THEA 196",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 192",
+              "title": "Stagecraft I"
+            },
+            {
+              "number": "THEA 194",
+              "title": "Introduction to Costuming"
+            },
+            {
+              "number": "THEA 196",
+              "title": "Introduction to Stage Lighting"
+            }
+          ]
+        },
+        {
+          "name": "Dance Technique",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 149",
+              "title": "Ballet I"
+            },
+            {
+              "number": "DANC 169",
+              "title": "Flamenco I"
+            },
+            {
+              "number": "DANC 110",
+              "title": "Modern Dance I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 219 OR ENGL 220 OR CJ 130 OR PHIL 156",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            },
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        },
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 366: Stage Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "THEA 366",
+              "title": "Stage Management"
+            }
+          ]
+        },
+        {
+          "name": "THEA 367: Stage Management Production Laboratory",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "THEA 367",
+              "title": "Stage Mgmt Production Lab"
+            }
+          ]
+        },
+        {
+          "name": "THEA Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 352: Early Shakespeare OR ENGL 353: Later Shakespeare",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 352",
+              "title": "Early Shakespeare"
+            },
+            {
+              "number": "ENGL 353",
+              "title": "Later Shakespeare"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts Outside the Major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 101",
+              "title": "Introduction To Art"
+            },
+            {
+              "number": "ARTH 201",
+              "title": "History of Art I"
+            },
+            {
+              "number": "ARTH 202",
+              "title": "History of Art II"
+            },
+            {
+              "number": "MA 210",
+              "title": "Intro to Film Studies"
+            },
+            {
+              "number": "MUS 139",
+              "title": "Music Appreciation"
+            }
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 345: Theatre History I",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 345",
+              "title": "Theatre History I"
+            }
+          ]
+        },
+        {
+          "name": "THEA Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Fine Arts Outside the Major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 101",
+              "title": "Introduction To Art"
+            },
+            {
+              "number": "ARTH 201",
+              "title": "History of Art I"
+            },
+            {
+              "number": "ARTH 202",
+              "title": "History of Art II"
+            },
+            {
+              "number": "MA 210",
+              "title": "Intro to Film Studies"
+            },
+            {
+              "number": "MUS 139",
+              "title": "Music Appreciation"
+            }
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 346: Theatre History II",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 445: Topics in Theatre History and Criticism",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 445",
+              "title": "T: Theatre History & Criticism"
+            }
+          ]
+        },
+        {
+          "name": "THEA 304 OR THEA 355 OR THEA 403",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 304",
+              "title": "Make-Up Design"
+            },
+            {
+              "number": "THEA 355",
+              "title": "Fundamentals of Playwriting"
+            },
+            {
+              "number": "THEA 403",
+              "title": "Principles of Directing"
+            }
+          ]
+        },
+        {
+          "name": "THEA Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 446: Theories of Theatre",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 446",
+              "title": "Theories of Theatre"
+            }
+          ]
+        },
+        {
+          "name": "THEA Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "name": "Secondary Education (Communicative Arts Concentration)",
+  "college": "College of Education",
+  "dept": "Teacher Education, Educational Leadership and Policy",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BAED",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 101:Western Civilization to 1648 or HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 161: History of the United States to 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 161",
+              "title": "US History to 1877"
+            }
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking or CJ 220: Communication for Teachers",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "CJ 220",
+              "title": "Communication for Teachers"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 352: Early Shakespeare OR ENGL 353: Later Shakespeare",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 352",
+              "title": "Early Shakespeare"
+            },
+            {
+              "number": "ENGL 353",
+              "title": "Later Shakespeare"
+            }
+          ]
+        },
+        {
+          "name": "World Literature Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "LING 101: Introduction to the Study of Language or English Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LING 101",
+              "title": "Intro to the Study of Language"
+            }
+          ]
+        },
+        {
+          "name": "HIST 162: History of the United States Since 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "World Literature Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 296: Earlier American Literature or ENGL 297: Later American Literature",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 297",
+              "title": "Later American Literature"
+            },
+            {
+              "number": "ENGL 296",
+              "title": "Earlier American Literature"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HIST 260: History of New Mexico",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 260",
+              "title": "History of New Mexico"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 240: Traditional Grammar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 240",
+              "title": "Traditional Grammar"
+            }
+          ]
+        },
+        {
+          "name": "CJ 314: Intercultural Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 314",
+              "title": "Intercultural Communication"
+            }
+          ]
+        },
+        {
+          "name": "MSET 365: Microcomputers in Schools",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MSET 365",
+              "title": "Microcomp in School"
+            }
+          ]
+        },
+        {
+          "name": "LLSS 430: Teaching of Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LLSS 430",
+              "title": "Teaching Writing"
+            }
+          ]
+        },
+        {
+          "name": "Perspectives on Literature",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "American Literature Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Writing Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Communication Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 110: Introduction to Mass Communication or MA 110: Introduction to Mass Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 110",
+              "title": "Intro To Mass Communication"
+            }
+          ]
+        },
+        {
+          "name": "EMLS 451: Books and Related Materials for Young Adults",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EMLS 451",
+              "title": "Bks-Rel Mat Yng Adlt"
+            }
+          ]
+        },
+        {
+          "name": "Co-Curricular Perspective Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "SPCD 489: Teaching Exceptional Students in General Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "SPCD 489",
+              "title": "Tch Except Students in Gen Ed"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 438: Teaching Reading and Writing in the Content Field",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 438",
+              "title": "Techng Read Writ Content Field"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 362: Teaching Experience I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 362",
+              "title": "Teaching Experience I"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 450: Issues in Secondary Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 450",
+              "title": "Issues in Secondary Education"
+            }
+          ]
+        },
+        {
+          "name": "LLSS 432: Teaching of Social Studies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LLSS 432",
+              "title": "Teaching Social Studies"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 303: Human Growth and Development (online)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 303",
+              "title": "Human Growth and Development"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EDUC 462: Student Teaching",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 9,
+          "courses": [
+            {
+              "number": "EDUC 462",
+              "title": "Student Teaching Secondary"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 464: Student Teaching Seminar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 464",
+              "title": "Student Teching Sem Secondary"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 310: Learning and the Classroom (online)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 310",
+              "title": "Learning and the Classroom"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

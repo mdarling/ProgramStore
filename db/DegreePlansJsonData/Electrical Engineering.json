@@ -1,0 +1,741 @@
+{
+  "name": "Electrical Engineering",
+  "college": "School of Engineering",
+  "dept": "Electrical & Computer Engineering",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Minimum graduation GPA : 2.00. Keep in mind that minimum grades on road map are for individual coursework only.\n             Students must maintain a minimum of a 2.0 cumulative GPA for admission to and graduation from the School of Engineering."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 162: Calculus I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 162",
+              "title": "Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "ECE 101: Introduction to Electrical & Computer Engineering",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "ECE 101",
+              "title": "Intro to Elect & Computer Eng"
+            }
+          ]
+        },
+        {
+          "name": "ECE 131: Introduction to Programming",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 131",
+              "title": "Programming Fundamentals"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 160: General Physics I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "ECON 105 or 106: Macro/Micro Economics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            },
+            {
+              "number": "ECON 106",
+              "title": "Introductory Microeconomics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 163: Calculus II",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 163",
+              "title": "Calculus II"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 161: General Physics II",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 161L: General Physics II Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECE 203: Circuit Analysis I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 203",
+              "title": "Circuit Analysis I"
+            }
+          ]
+        },
+        {
+          "name": "MATH 264: Calculus III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 264",
+              "title": "Calculus III"
+            }
+          ]
+        },
+        {
+          "name": "MATH 316: Differential Equations",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 316",
+              "title": "Applied Ordinary Diff Equas"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 262: General Physics III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 262",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 219: Technical Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECE 206L: EE Lab I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ECE 206L",
+              "title": "Instrumentation"
+            }
+          ]
+        },
+        {
+          "name": "ECE 213: Circuit Analysis II",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 213",
+              "title": "Circuit Analysis II"
+            }
+          ]
+        },
+        {
+          "name": "MATH 314: Linear Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 314",
+              "title": "Linear Algebra with Apps"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECE 238L: Computer Logic Design",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ECE 238L",
+              "title": "Computer Logic Design"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECE 321: Electronics I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECE 314: Signals and Systems",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 314",
+              "title": "Signals and Systems"
+            }
+          ]
+        },
+        {
+          "name": "EE Completeness Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "ECE 341",
+              "title": "Communication Systems"
+            },
+            {
+              "number": "ECE 322L",
+              "title": "Electronics II"
+            },
+            {
+              "number": "ECE 345",
+              "title": "Intro to Control Systems"
+            },
+            {
+              "number": "ECE 360",
+              "title": "Electromagnetic Fields & Waves"
+            },
+            {
+              "number": "ECE 371",
+              "title": "Materials & Devices"
+            },
+            {
+              "number": "ECE 381",
+              "title": " Intro to Power Systems"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EE Completeness Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "ECE 341",
+              "title": "Communication Systems"
+            },
+            {
+              "number": "ECE 322L",
+              "title": "Electronics II"
+            },
+            {
+              "number": "ECE 345",
+              "title": "Intro to Control Systems"
+            },
+            {
+              "number": "ECE 360",
+              "title": "Electromagnetic Fields & Waves"
+            },
+            {
+              "number": "ECE 371",
+              "title": "Materials & Devices"
+            },
+            {
+              "number": "ECE 381",
+              "title": " Intro to Power Systems"
+            }
+          ]
+        },
+        {
+          "name": "Technical Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECE 340: Probabilistic Methods",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 340",
+              "title": "Probabilistic Methods in Eng"
+            }
+          ]
+        },
+        {
+          "name": "ECE 344L: Microprocessors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ECE 344L",
+              "title": "Microprocessors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECE 419: Senior Design I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 419",
+              "title": "Senior Design I"
+            }
+          ]
+        },
+        {
+          "name": "EE Track Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 469",
+              "title": "Antennas for Wireless Comm"
+            },
+            {
+              "number": "ECE 471",
+              "title": "Materials & Devices II"
+            },
+            {
+              "number": "ECE 474L",
+              "title": "Microelectronics Processing I"
+            },
+            {
+              "number": "ECE 475",
+              "title": "Optoelectronics"
+            },
+            {
+              "number": "ECE 482",
+              "title": "Electric Drives & Transformers"
+            },
+            {
+              "number": "ECE 483",
+              "title": "Power Electronics"
+            },
+            {
+              "number": "ECE 484",
+              "title": "Photovoltaics"
+            },
+            {
+              "number": "ECE 488",
+              "title": "Future Energy Systems"
+            },
+            {
+              "number": "ECE 495",
+              "title": "Special Topics"
+            },
+            {
+              "number": "ECE 231",
+              "title": "Intermediate Programming"
+            },
+            {
+              "number": "ECE 331",
+              "title": "Data Structures & Algorithms"
+            },
+            {
+              "number": "ECE 338",
+              "title": "Intermediate Logic Design"
+            },
+            {
+              "number": "ECE 421",
+              "title": "Analog Electronics"
+            },
+            {
+              "number": "ECE 424",
+              "title": "Digital VLSI Design"
+            },
+            {
+              "number": "ECE 438",
+              "title": "Design of Computers"
+            },
+            {
+              "number": "ECE 439",
+              "title": "Intr Digital Signal Processing"
+            },
+            {
+              "number": "ECE 442",
+              "title": "Wireless Communication"
+            },
+            {
+              "number": "ECE 446",
+              "title": "Feedback Control Systems"
+            },
+            {
+              "number": "ECE 460",
+              "title": "Microwave Engineering"
+            },
+            {
+              "number": "ME 481",
+              "title": "Dig Control Mech Sys"
+            }
+          ]
+        },
+        {
+          "name": "EE Completeness Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 341",
+              "title": "Communication Systems"
+            },
+            {
+              "number": "ECE 322L",
+              "title": "Electronics II"
+            },
+            {
+              "number": "ECE 345",
+              "title": "Intro to Control Systems"
+            },
+            {
+              "number": "ECE 360",
+              "title": "Electromagnetic Fields & Waves"
+            },
+            {
+              "number": "ECE 371",
+              "title": "Materials & Devices"
+            },
+            {
+              "number": "ECE 381",
+              "title": " Intro to Power Systems"
+            }
+          ]
+        },
+        {
+          "name": "Technical Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECE 420: Senior Design II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 420",
+              "title": "Senior Design II"
+            }
+          ]
+        },
+        {
+          "name": "EE Track Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 469",
+              "title": "Antennas for Wireless Comm"
+            },
+            {
+              "number": "ECE 471",
+              "title": "Materials & Devices II"
+            },
+            {
+              "number": "ECE 474L",
+              "title": "Microelectronics Processing I"
+            },
+            {
+              "number": "ECE 475",
+              "title": "Optoelectronics"
+            },
+            {
+              "number": "ECE 482",
+              "title": "Electric Drives & Transformers"
+            },
+            {
+              "number": "ECE 483",
+              "title": "Power Electronics"
+            },
+            {
+              "number": "ECE 484",
+              "title": "Photovoltaics"
+            },
+            {
+              "number": "ECE 488",
+              "title": "Future Energy Systems"
+            },
+            {
+              "number": "ECE 495",
+              "title": "Special Topics"
+            },
+            {
+              "number": "ECE 231",
+              "title": "Intermediate Programming"
+            },
+            {
+              "number": "ECE 331",
+              "title": "Data Structures & Algorithms"
+            },
+            {
+              "number": "ECE 338",
+              "title": "Intermediate Logic Design"
+            },
+            {
+              "number": "ECE 421",
+              "title": "Analog Electronics"
+            },
+            {
+              "number": "ECE 424",
+              "title": "Digital VLSI Design"
+            },
+            {
+              "number": "ECE 438",
+              "title": "Design of Computers"
+            },
+            {
+              "number": "ECE 439",
+              "title": "Intr Digital Signal Processing"
+            },
+            {
+              "number": "ECE 442",
+              "title": "Wireless Communication"
+            },
+            {
+              "number": "ECE 446",
+              "title": "Feedback Control Systems"
+            },
+            {
+              "number": "ECE 460",
+              "title": "Microwave Engineering"
+            },
+            {
+              "number": "ME 481",
+              "title": "Dig Control Mech Sys"
+            }
+          ]
+        },
+        {
+          "name": "EE Completeness Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 341",
+              "title": "Communication Systems"
+            },
+            {
+              "number": "ECE 322L",
+              "title": "Electronics II"
+            },
+            {
+              "number": "ECE 345",
+              "title": "Intro to Control Systems"
+            },
+            {
+              "number": "ECE 360",
+              "title": "Electromagnetic Fields & Waves"
+            },
+            {
+              "number": "ECE 371",
+              "title": "Materials & Devices"
+            },
+            {
+              "number": "ECE 381",
+              "title": " Intro to Power Systems"
+            }
+          ]
+        },
+        {
+          "name": "Technical Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

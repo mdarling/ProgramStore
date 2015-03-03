@@ -1,0 +1,490 @@
+{
+  "name": "Physics and Astrophysics",
+  "college": "College of Arts & Sciences",
+  "dept": "Physics & Astronomy",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+    {
+      "note": "Minimum graduation GPA : 2.00. Keep in mind that minimum grades on road map are for individual coursework only. Students must maintain a minimum of a 2.0 cumulative GPA for admisssion to and graduation from the College of Art & Science."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "PHYC 160: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 160L: General Physics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 160L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 162: Calculus I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 162",
+              "title": "Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 167: Problems in General Physics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 167",
+              "title": "Prob in Gen Physics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PHYC 161: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 161L: General Physics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 163: Calculus II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 163",
+              "title": "Calculus II"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHYC 168: Problems in General Physics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 168",
+              "title": "Prob in Gen Physics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CJ 130 or PHIL 156 or ENGL 219 or ENGL 220",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            },
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 262: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 262",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 262L: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 262L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 267: Problems in General Physics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 267",
+              "title": "Prob in Gen Physics"
+            }
+          ]
+        },
+        {
+          "name": "Math 264: Calculus III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 264",
+              "title": "Calculus III"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PHYC 290: Computational Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 290",
+              "title": "Computational Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 330: Introduction to Modern Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 330",
+              "title": "Intro Modern Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 331: Problems in Introduction to Modern Physics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 331",
+              "title": "Problems in Modern Physics"
+            }
+          ]
+        },
+        {
+          "name": "MATH 316: Applied Ordinary Differential Equations",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 316",
+              "title": "Applied Ordinary Diff Equas"
+            }
+          ]
+        },
+        {
+          "name": "ASTR 271: General Astronomy",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ASTR 271",
+              "title": "General Astronomy"
+            }
+          ]
+        },
+        {
+          "name": "ASTR 271L: General Astronomy Laboratory I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "ASTR 271L",
+              "title": "Gen Astronomy Lab II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PHYC 303: Analytical Mechanics I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 303",
+              "title": "Analytical Mechanics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 313: Problems in Analytical Mechanics I",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 313",
+              "title": "Prob Analytical Mechanics I"
+            }
+          ]
+        },
+        {
+          "name": "MATH 311: Vector Analysis",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 311",
+              "title": "Vector Analysis"
+            }
+          ]
+        },
+        {
+          "name": "Phys/Astro elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHYC 405: Electricity and Magnetism I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 405",
+              "title": "Electricity & Magnetism I"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 415: Problems in Electricity and Magnetism I",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 415",
+              "title": "Problems in E&M I"
+            }
+          ]
+        },
+        {
+          "name": "Phys/astro elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Phys/astro elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective any level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 5,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Upper Division elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 12,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective any level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

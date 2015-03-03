@@ -1,0 +1,41 @@
+<h1>Listing institutional_entities</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parent entity</th>
+      <th>Type</th>
+      <th>Level</th>
+      <th>Acronym</th>
+      <th>Grad programs</th>
+      <th>Name</th>
+      <th>Org code</th>
+      <th>Undergrad programs</th>
+      <th>Url</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @institutional_entities.each do |institutional_entity| %>
+      <tr>
+        <td><%= institutional_entity.parent_entity_id %></td>
+        <td><%= institutional_entity.type %></td>
+        <td><%= institutional_entity.level %></td>
+        <td><%= institutional_entity.acronym %></td>
+        <td><%= institutional_entity.grad_programs %></td>
+        <td><%= institutional_entity.name %></td>
+        <td><%= institutional_entity.org_code %></td>
+        <td><%= institutional_entity.undergrad_programs %></td>
+        <td><%= institutional_entity.url %></td>
+        <td><%= link_to 'Show', institutional_entity %></td>
+        <td><%= link_to 'Edit', edit_institutional_entity_path(institutional_entity) %></td>
+        <td><%= link_to 'Destroy', institutional_entity, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Institutional entity', new_institutional_entity_path %>

@@ -1,0 +1,465 @@
+{
+  "name": "Biochemistry",
+  "college": "College of Arts & Sciences",
+  "dept": "Biochemistry",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Freshman Academic Choice",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 162: Calculus I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 162",
+              "title": "Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            }
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 122: General Chemistry II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 124L: General Chemistry II Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 201: Molecular and Cell Biology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 163: Calculus II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 163",
+              "title": "Calculus II"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 151 or PHYC 160: General Physics I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 151",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 202: Genetics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 253L: Quantitative Analysis",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 253L",
+              "title": "Quant Analysis Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 301: Organic Chemistry I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 301",
+              "title": "Organic Chemistry"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 303L: Organic Chemistry I Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 303L",
+              "title": "Organic Chem Lab"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 151L or PHYC 161L: General Physics I Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 151L",
+              "title": "General Physics Lab"
+            },
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "CJ 130 or PHIL 156 or ENGL 219 or ENGL 220",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            },
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PHYC 152 or PHYC 161: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 152",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 152L or PHYC 161L: General Physics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 152L",
+              "title": "General Physics Lab"
+            },
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 302: Organic Chemistry II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 302",
+              "title": "Organic Chemistry"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 304L: Organic Chemistry II Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 304L",
+              "title": "Organic Chem Lab"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOC 445L: Intensive Introductory Biochemistry I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 315: Introductory Physical Chemistry or CHEM 311: Physical Chemistry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 315",
+              "title": "Intro Physical Chem"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOC 446L: Intensive Introductory Biochemistry II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "BIOC Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOC Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective any level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOC Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 9,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

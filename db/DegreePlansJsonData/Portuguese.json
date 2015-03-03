@@ -1,0 +1,476 @@
+{
+  "name": "Portuguese",
+  "type": "UndergradProgram",
+  "degree": "BA",
+  "program_description": "<pThirty credit hours in Portuguese courses numbered 276&nbsp;and above.&nbsp; In addition, demonstrated 202/276 skill level in&nbsp;a language other than Portuguese or English must be documented or completed. Three required courses (12 credit hours) include: 276 or 277 and&nbsp;two of the following: 301, 311, 312. Six elective courses (18 credit hours)&nbsp;at the 300-400 level*. Students planning to major in Portuguese should consult with the&nbsp;Undergraduate Advisor for Portuguese.&nbsp;All grades must be \"C\" or better.</p<p* Portuguese Topic Courses 414 and 461 are repeatable as topics change.</p&nbsp;",
+  "degree_term_items": [
+    {
+      "name": "PORT 101: Elementary Portuguese I or PORT 275: Intensive Beginning Portuguese (6 Cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Freshman Academic Choice",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT 102: Elementary Portuguese II (if not taking PORT 275: Intensive Beginning Portuguese)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT 276: Intensive Intermediate Portuguese",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 290 or ENGL 219 or ENGL 220 or CJ 130",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT 301: Conversation and Pronunciation OR PORT 311: Culture and Composition OR PORT 312: Culture and Conversation",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT 301: Conversation and Pronunciation OR PORT 311: Culture and Composition OR PORT 312: Culture and Conversation",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 101 or 175/275 Accelerated Elementary Language (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 102 (if not taking 175/275 Accelerated Elementary Language)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 201 or 276: Accelerated Intermediate Language (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 202 (if not taking 276: Accelerated Intermediate Language)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT 102: Elementary Portuguese II OR PORT 277: Intensive Portuguese for Spanish Speakers (6cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Freshman Academic Choice",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT 276: Intensive Intermediate Portuguese (if not taking PORT 277)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT 301: Conversation and Pronunciation or PORT 311: Culture and Composition or PORT 312: Culture and Conversation",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT 301: Conversation and Pronunciation or PORT 311: Culture and Composition or PORT 312: Culture and Conversation",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 290 or ENGL 219 or ENGL 220 or CJ 130",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 101 or 175/275 Accelerated Elementary Language (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 102 (if not taking 175/275 Accelerated Elementary Language)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PORT elective (300 or 400 level)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 201 or 276: Accelerated Intermediate Language (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 202 (if not taking 276: Accelerated Intermediate Language)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    }
+  ]
+}

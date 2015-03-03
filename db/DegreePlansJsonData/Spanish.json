@@ -1,0 +1,488 @@
+{
+  "name": "Spanish",
+  "type": "UndergradProgram",
+  "degree": "BA",
+  "program_description": "<pThirty credit hours in Spanish courses numbered 300&nbsp;and above. In addition,&nbsp;demonstrated 202/276 skill level in a language other than Spanish&nbsp;or English&nbsp;must be documented or completed. Seven required courses (21 credit hours) include:&nbsp;301, 302, 307, 352, one of the following: 350 or 351, one of the following: 411 or 412, one of the following: 431 or 432. Three elective courses (9&nbsp;credit hours) must be&nbsp;above 307 with at least one course (3 credit hours) at the 400 level*. Only one 301 (3 credit hours) may be applied&nbsp;toward the major. A student may follow a general course of studies or a group of courses in the following areas: Spanish Peninsular Literature, Spanish American Literature, Southwest Hispanic Studies or Hispanic Linguistics. Students planning to major in Spanish should consult with the&nbsp;Undergraduate Advisor for Spanish. All grades must be \"C\" or better.</p<p* Spanish Topic Courses 301, 429, 439, 449, and 479 are repeatable as topics change.</p\n\n\t\t\t&nbsp;",
+  "degree_term_items": [
+    {
+      "name": "SPAN  301: Topics in Hispanic Culture and Language",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Freshman Academic Choice",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 302: Developing Spanish Writing Skills",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 307: Introduction to Hispanic Literature",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 350: Spanish Phonetics or SPAN 351: Introduction to Spanish Linguistics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 290 or ENGL 219 or ENGL 220 or CJ 130",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 352: Advanced Grammar",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 411: Survey of Spanish Peninsular Literature I or SPAN 412: Survey of Spanish Peninsular Literature II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 431: Spanish American Literature Survey I or SPAN 432: Spanish American Literature Survey II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 101 or SPAN 275: Accelerated Beginning Spanish or PORT 277: Intensive Portuguese for Spanish Speakers (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN elective above 307",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 101 or SPAN 276: Accelerated Intermediate Spanish (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN elective above 307",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 201 or SPAN 276: Accelerated Intermediate Spanish (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN elective 400 level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 201 or SPAN 276: Accelerated Intermediate Spanish (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 101: Elementary Spanish I or SPAN 111: Elective SHL I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Freshman Academic Choice",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 102: Elementary Spanish II or SPAN 112: Elementary SHL II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 201: Intermediate Spanish I or SPAN 211: Intermediate SHL I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 290 or ENGL 219 or ENGL 220 or CJ 130",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 202: Intermediate Spanish II or SPAN 212: Intermediate SHL II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 301: Topics in Hispanic Culture and Language",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 302: Developing Spanish Writing Skills",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 101 or SPAN 275: Accelerated Beginning Spanish (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 307: Introduction to Hispanic Literature",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 350: Spanish Phonetics or SPAN 351: Introduction to Spanish Linguistics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 352: Advanced Grammar",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 101 or SPAN 275: Accelerated Beginning Spanish (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 411: Survey of Spanish Peninsular Literature I or SPAN 412: Survey of Spanish Peninsular Literature II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN 431: Spanish American Literature Survey I or SPAN 432: Spanish American Literature Survey II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN elective above 307",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 201 or PORT 277: Intensive Portuguese for Spanish Speakers (6 cr)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN elective above 307",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "SPAN elective 400 level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "3rd Language 202",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective any Level",
+      "prerequisites": [
+
+      ]
+    }
+  ]
+}

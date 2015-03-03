@@ -1,0 +1,47 @@
+<h1>Listing academic_programs</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Admission requirements</th>
+      <th>Career opportunities</th>
+      <th>Contact information</th>
+      <th>Degree</th>
+      <th>Keywords</th>
+      <th>Name</th>
+      <th>Online</th>
+      <th>Program description</th>
+      <th>Transfer agreements</th>
+      <th>Minimum course grade</th>
+      <th>Minimum cumulative gpa</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @academic_programs.each do |academic_program| %>
+      <tr>
+        <td><%= academic_program.type %></td>
+        <td><%= academic_program.admission_requirements %></td>
+        <td><%= academic_program.career_opportunities %></td>
+        <td><%= academic_program.contact_information %></td>
+        <td><%= academic_program.degree %></td>
+        <td><%= academic_program.keywords %></td>
+        <td><%= academic_program.name %></td>
+        <td><%= academic_program.online %></td>
+        <td><%= academic_program.program_description %></td>
+        <td><%= academic_program.transfer_agreements %></td>
+        <td><%= academic_program.minimum_course_grade %></td>
+        <td><%= academic_program.minimum_cumulative_gpa %></td>
+        <td><%= link_to 'Show', academic_program %></td>
+        <td><%= link_to 'Edit', edit_academic_program_path(academic_program) %></td>
+        <td><%= link_to 'Destroy', academic_program, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Academic program', new_academic_program_path %>

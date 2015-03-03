@@ -1,0 +1,467 @@
+{
+  "name": "Elementary Education",
+  "college": "College of Education",
+  "dept": "Teacher Education, Educational Leadership and Policy",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BSED",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 111: Mathematics for Elementary and Middle School Teachers I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 111",
+              "title": "Math El Sch Tchr I"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 112: Mathematics for Elementary and Middle School Teachers II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 112",
+              "title": "Math El Sch Tchr II"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "History Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 101 or HIST 102",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            },
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "MATH 215: Mathematics for Elementary and Middle School Teachers III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 215",
+              "title": "Math Elem-Mid School Teachers"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 303: Human Growth and Development",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 303",
+              "title": "Human Growth and Development"
+            }
+          ]
+        },
+        {
+          "name": "Teaching Field Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "LING 101: Introduction to the Study of Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LING 101",
+              "title": "Intro to the Study of Language"
+            }
+          ]
+        },
+        {
+          "name": "HIST 161 or HIST 162",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 161",
+              "title": "US History to 1877"
+            },
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "Teaching Field Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MSET 365: Microcomputers in Schools",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MSET 365",
+              "title": "Microcomp in School"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HIST 260: History of New Mexico",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 260",
+              "title": "History of New Mexico"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "LLSS 443: Childrens Literature (Literatura Infantil)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LLSS 443",
+              "title": "Childrens Literature"
+            }
+          ]
+        },
+        {
+          "name": "Teaching Field Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 130 or CJ 220",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "CJ 220",
+              "title": "Communication for Teachers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EDUC 400: Student Teaching in the Elementary School I",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "EDUC 400",
+              "title": "Student Teaching El Sch"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 330L: Teaching of Reading",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 330L",
+              "title": "Teaching of Reading"
+            }
+          ]
+        },
+        {
+          "name": "LLSS 315: Educating Linguistically and Culturally Diverse Students",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LLSS 315",
+              "title": "Educ Ling & Cultr Diverse Stu"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 333L: Teaching Oral and Written Language in the Elementary School",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 333L",
+              "title": "Tchng Oral Written Lang El Sch"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 361L: Teaching of Mathematics in the Elementary School",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 361L",
+              "title": "Teaching Math El Sch"
+            }
+          ]
+        },
+        {
+          "name": "Teaching Field Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EDUC 400: Student Teaching in the Elementary School II",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "EDUC 400",
+              "title": "Student Teaching El Sch"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 321L: Teaching of Social Studies in the Elementary School",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 321L",
+              "title": "Tchng Social Studies El Sch"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 353L: Teaching of Science in the Elementary School",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 353L",
+              "title": "Teaching Science El Sch"
+            }
+          ]
+        },
+        {
+          "name": "SPCD 489: Introduction to Assistive Technology in Special Education",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "SPCD 481",
+              "title": "Intro Assist Tech"
+            }
+          ]
+        },
+        {
+          "name": "EDUC 331L: Teaching of Reading in the Elementary School",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDUC 331L",
+              "title": "Teaching Reading El Sch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EDUC 400: Student Teaching in the Elementary School III",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 9,
+          "courses": [
+            {
+              "number": "EDUC 400",
+              "title": "Student Teaching El Sch"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 310: Learning and the Classroom",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 310",
+              "title": "Learning and the Classroom"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

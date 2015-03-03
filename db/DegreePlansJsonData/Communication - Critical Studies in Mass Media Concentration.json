@@ -1,0 +1,444 @@
+{
+  "name": "Communication - Critical Studies in Mass Media Concentration",
+  "college": "College of Arts & Sciences",
+  "dept": "Communication & Journalism",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Compositon I: Exposition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "CJ 101L: Introduction to Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 101L",
+              "title": "Intro to Communication Recit"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 105L: Inter and New Media Studies I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 105L",
+              "title": "Inter & New Media I"
+            }
+          ]
+        },
+        {
+          "name": "Hummanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CS 152L: Computer Programming Fundamentals",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 152L",
+              "title": "Comp Program Fund CS Major"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Hummanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CJ 268 or CJ 335 or CJ 365 or CJ 465 or CJ 467 or CJ 469",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 268",
+              "title": "Media Theory and Influence"
+            },
+            {
+              "number": "CJ 365",
+              "title": "Social Foundations of Media"
+            },
+            {
+              "number": "CJ 467",
+              "title": "Mass Comm Intl Perspectives"
+            },
+            {
+              "number": "CJ 469",
+              "title": "Multiculturism Gender & Media"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 265: ",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHIL 156: Reasoning and Critical Thinking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "IFDM 210: Introduction to Modeling and Postproduction",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 210",
+              "title": "Intro Modeling & Postproduct"
+            }
+          ]
+        },
+        {
+          "name": "CJ 332: Business and Professional Speaking or CJ 333: Professional Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 332",
+              "title": "Business Professional Speaking"
+            },
+            {
+              "number": "CJ 333",
+              "title": "Professional Communication"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CJ 300: Theories of Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 300",
+              "title": "Theories of Communication"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 300: Critical Intermediations",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 300",
+              "title": "Critical Intermediations"
+            }
+          ]
+        },
+        {
+          "name": "CJ 268 or CJ 335 or CJ 365 or CJ 465 or CJ 467 or CJ 469",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 268",
+              "title": "Media Theory and Influence"
+            },
+            {
+              "number": "CJ 365",
+              "title": "Social Foundations of Media"
+            },
+            {
+              "number": "CJ 467",
+              "title": "Mass Comm Intl Perspectives"
+            },
+            {
+              "number": "CJ 469",
+              "title": "Multiculturism Gender & Media"
+            }
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CJ 461: Media Criticism",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 461",
+              "title": "Media Criticism"
+            }
+          ]
+        },
+        {
+          "name": "CJ 301: Communication Research Methods",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 301",
+              "title": "Communication Research Methods"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 310: Studio II: Writing Digital Narrative",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 310",
+              "title": "Writing Digital Narrative"
+            }
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CJ 400: Senior Seminar: Perspectives on Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 400",
+              "title": "Sr Sem Perspectives on Comm"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 400: Ethics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 400",
+              "title": "Ethics, Science & Technology"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 450: IFDM Capstone I Senior Projects Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 450",
+              "title": "IFDM Capstone I"
+            }
+          ]
+        },
+        {
+          "name": "Elective any Level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "IFDM 410: The Business and Law of Film and New Media",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 410",
+              "title": "Bus & Law of Film & New Media"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 451: IFDM Capstone II Senior Projects Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 451",
+              "title": "IFDM Capstone II"
+            }
+          ]
+        },
+        {
+          "name": "Elective any Level",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 7,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

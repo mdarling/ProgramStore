@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Institutional entity:</strong>
+  <%= @meta_requirement.institutional_entity_id %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @meta_requirement.description %>
+</p>
+
+<p>
+  <strong>Value:</strong>
+  <%= @meta_requirement.value %>
+</p>
+
+<%= link_to 'Edit', edit_meta_requirement_path(@meta_requirement) %> |
+<%= link_to 'Back', meta_requirements_path %>

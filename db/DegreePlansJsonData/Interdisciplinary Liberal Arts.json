@@ -1,0 +1,341 @@
+{
+  "name": "Interdisciplinary Liberal Arts",
+  "college": "Honors College",
+  "dept": "Honors College",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "Pre-req for 2nd major or minor",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Honors Legacy Seminar",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Core Course",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "2nd Major or Minor Course",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Honors 200-level seminar (Core)",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Core Course",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective or 2nd major",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Experiential Honors Course",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division 2nd Major or Minor Course",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Core Course or Elective",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Upper Division Honors that meets topic term_items",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "2nd Major or Minor Upper Division",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Core if still needed",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Integrative Block in Honors",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 9,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division course in 2nd major or minor",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language or UD Elective or core",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Experiential Honors Course or Topic Seminar",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Honors Seminar",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "2nd Major or Minor",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective or Honors Thesis",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective or core if needed",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Honors Thesis or Project",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "400-level Honors Seminar",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "UD Honors Seminar that meets topic term_items",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "2nd major or minor elective",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 9,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Honors Thesis or Project",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Honors that meets topic term_items",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective or 2nd major",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

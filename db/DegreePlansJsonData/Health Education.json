@@ -1,0 +1,558 @@
+{
+  "name": "Health Education",
+  "college": "College of Education",
+  "dept": "Health, Exercise, and Sports Sciences",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BSED",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HED 164L: Standard First Aid",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 164L",
+              "title": "First Aid Lab"
+            }
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 123 / BIOL 124L: Biology for Health Related Sciences and Non-Majors and Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            },
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HED 171: Personal Health Management",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 171",
+              "title": "Personal Hlth Management"
+            }
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 111: Elements of General Chemistry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 111",
+              "title": "Elem of Gen Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social And Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HED 247: Consumer Health",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "HED 247",
+              "title": "Consumer Health"
+            }
+          ]
+        },
+        {
+          "name": "HED 260: Foundations of Health Promotion",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 260",
+              "title": "Found Health Promotion"
+            }
+          ]
+        },
+        {
+          "name": "HED 209: Education for AIDS Prevention",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "HED 209",
+              "title": "Educ for Aids Prevention"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "PSY 200: Statistical Principles",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 200",
+              "title": "Statistical Principles"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 239L: Microbiology for Health Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 239L",
+              "title": "Microbio Health Sciences Lab"
+            }
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            }
+          ]
+        },
+        {
+          "name": "NUTR 244: Human Nutrition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 244",
+              "title": "Human Nutrition"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 219: Technical Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            }
+          ]
+        },
+        {
+          "name": "PSY 220: Developmental Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 220",
+              "title": "Developmental Psychology"
+            }
+          ]
+        },
+        {
+          "name": "ANTH 130: Cultures of the World",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ANTH 130",
+              "title": "Cultures of the World"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HED 310: Injury Prevention",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "HED 310",
+              "title": "Injury Prevention"
+            }
+          ]
+        },
+        {
+          "name": "HED 333: Emotional Health and Interpersonal Relationships",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 333",
+              "title": "Emot Hlth Interp Rel"
+            }
+          ]
+        },
+        {
+          "name": "HED 321: Violence Prevention",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "HED 321",
+              "title": "Violence Prevention"
+            }
+          ]
+        },
+        {
+          "name": "SOC 322",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HED 306: Conflict Mediation",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "HED 306",
+              "title": "Conflict Mediation"
+            }
+          ]
+        },
+        {
+          "name": "HED 446: Health Promotion Program Planning [Professional Applications in Health Education]",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 446",
+              "title": "Hlth Promotion Prgrm Planning"
+            }
+          ]
+        },
+        {
+          "name": "CJ Upper Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PSY 331: Psychology of Personality",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 331",
+              "title": "Psychology of Personality"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "OILS 483: Instructional Applications: Computer Technology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "OLIT 483",
+              "title": "Instruct Appl:Computer Technol"
+            }
+          ]
+        },
+        {
+          "name": "HED 362: Introduction to Health Behavior Theory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 362",
+              "title": "Theo Skills Dev of Adol"
+            }
+          ]
+        },
+        {
+          "name": "HED 371: Community Health [Introduction to Community Health]",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 371",
+              "title": "Community Health"
+            }
+          ]
+        },
+        {
+          "name": "HED 495: Field Experience",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 495",
+              "title": "Field Experience"
+            }
+          ]
+        },
+        {
+          "name": "HED Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HED 451: Secondary Teaching Methods and Curriculum Development for Health Education [Teaching Strategies and Curriculum for Health Education]",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "HED 451",
+              "title": "Tea Strat & Curr Dev Hlth Ed"
+            }
+          ]
+        },
+        {
+          "name": "OILS 421: Production and Utilization of Instructional Materials",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HED 482: Introduction to Health Education and Multicultural Health Beliefs",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 482",
+              "title": "Hlth Prom Multicul Settings"
+            }
+          ]
+        },
+        {
+          "name": "EDPY 303: Human Growth and Development",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EDPY 303",
+              "title": "Human Growth and Development"
+            }
+          ]
+        },
+        {
+          "name": "HED 495: Field Experience",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HED 495",
+              "title": "Field Experience"
+            }
+          ]
+        },
+        {
+          "name": "Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

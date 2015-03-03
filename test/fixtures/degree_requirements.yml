@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  academic_program_id: 1
+  credits: 1
+  minimum_grade: MyString
+  name: MyString
+  note: MyString
+
+two:
+  academic_program_id: 1
+  credits: 1
+  minimum_grade: MyString
+  name: MyString
+  note: MyString

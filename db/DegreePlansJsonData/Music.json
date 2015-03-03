@@ -1,0 +1,606 @@
+{
+  "name": "Music",
+  "college": "College of Fine Arts",
+  "dept": "Music",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+    {
+      "note": "Students may earn a C in courses in the major provided their comulative grade point average at least a 3.0. \n  Music Electives and Electives in Any Field cannot include Music courses for NON-Majors."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150: Music Theory I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150",
+              "title": "Music Theory I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150L: Aural Lab I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150L",
+              "title": "Music Theory I Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 119: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 119",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble (see UNM Catalog)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152: Music Theory II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152",
+              "title": "Music Theory II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152L: Aural Lab II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152L",
+              "title": "Music Theory II Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 120: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 120",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical & Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250: Music Theory III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250",
+              "title": "Music Theory III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250L: Aural Lab III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250L",
+              "title": "Music Theory III Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 219: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 219",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252: Music Theory IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252",
+              "title": "Music Theory IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252L: Aural Lab IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252L",
+              "title": "Music Theory IV Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 220: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 220",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "HIST 102: Western Civilization post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 105",
+              "title": "Dance Appreciation"
+            },
+            {
+              "number": "THEA 105",
+              "title": "Theatre Appreciation"
+            },
+            {
+              "number": "ARTH 101",
+              "title": "Introduction To Art"
+            },
+            {
+              "number": "ARTH 201",
+              "title": "History of Art I"
+            },
+            {
+              "number": "ARTH 202",
+              "title": "History of Art II"
+            },
+            {
+              "number": "MA 210",
+              "title": "Intro to Film Studies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 361: History of Music I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 361",
+              "title": "History of Music I"
+            }
+          ]
+        },
+        {
+          "name": "Music elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical & Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 362: History of Music II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 362",
+              "title": "History of Music II"
+            }
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Music elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in any field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Music elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Arts & Sciences Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in any field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Music elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in any field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 9,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

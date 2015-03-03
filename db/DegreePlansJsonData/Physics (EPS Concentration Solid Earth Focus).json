@@ -1,0 +1,619 @@
+{
+  "name": "Physics (EPS Concentration Solid Earth Focus)",
+  "college": "College of Arts & Sciences",
+  "dept": "Physics & Astronomy",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Minimunm graduation GPA : 2.00. Keep in mind that minimum grades on road map are for individual cousework only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Arts and Sciences."
+    },
+    {
+      "note": "A Math Minor is automatically earned."
+    },
+    {
+      "note": "*Physics 167, 168, and 267 are 1‐credit hour Recitation Sections associated with \nPhysics 160, 161 and 262, respectively. These recitation sessions are practice in \nsolving problems from the associated lecture courses. They are optional, but very \n**EPS 101 and 105L are recommended, but a motivated student could opt to gain \nthis background on their own by reading.  This should be determined in advising.  \nSuch a student may add another EPS elective instead in an appropriate semester. \n"
+    },
+    {
+      "note": "The Departmental Honors Program requires 2 semesters of an Honors \nSection of Physics 456. The student and faculty mentor present a mutually‐\nagreeable topic to the department for approval. Also, the University requires \na GPA of at least a GPA of at least 3.25. See the Honors web page for more \ninformation at http://panda.unm.edu/AcadAdv/honors.html\n"
+    },
+    {
+      "note": "CONC Electives: This concentration requires a minimum of 6 electives, including EPS \n101 and PHYC 327 as gateway classes. Four additional electives may be chosen from \nthe following list (a student can mix classes across these subject areas, depending on \ninterest, but should work closely with their advisor to determine the best set of \nclasses).  These electives are generally chosen because they require the PHYC 160 \nseries as pre‐reqs, but students are encouraged to contact the instructors of the \nclasses to identify themselves as Physics majors with an EPS concentration.\n"
+    },
+    {
+      "note": "Climate/Atmosphere: EPS 436 Climate Dynamics (3), EPS 437 Applied Meteorology \n(3), EPS 439 Paleoclimatology (3)\nSolid Earth Geophysics: PHYS 327 Introduction to Solid Earth Geophysics (3); EPS \n488 Scanning Electron Microscopy (3); PHYC 4XX/EPS 564? ‐ Geodynamics or \ngeological fluid mechanics (Roy ‐ course number TBD); EPS 457L Mathematical \nModeling in the Geosciences (3);  Introduction to Seismology, Applied Seismology, \nSignal Processing, Inverse Theory ‐‐ these course numbers TBD by newly hired \ngeophysics faculty; EPS 450 Volcanology (with permission of instructor) (3)\nHydrology: EPS 476 Physical Hydrology (3), EPS 462 Hydrogeology (3), or with \npermission of instructor, EPS 443 Aquifers and Reservoirs (3).\n"
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "PHYC 160: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 160L: General Physics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 160L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            }
+          ]
+        },
+        {
+          "name": "MATH 162: Calculus I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 162",
+              "title": "Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 167: Problems in General Physics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 167",
+              "title": "Prob in Gen Physics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PHYC 161: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 161L: General Physics Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 163: Calculus II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 163",
+              "title": "Calculus II"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 122: General Chemistry II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 124L: General Chemistry II lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHYC 168: Problems in General Physics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 168",
+              "title": "Prob in Gen Physics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CJ 130 or PHIL 156 or ENGL 219 or ENGL 220",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            },
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        },
+        {
+          "name": "EPS 101: How the Earth Works–An Introduction to Geology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EPS 101",
+              "title": "Intro Geology How Earth Works"
+            }
+          ]
+        },
+        {
+          "name": "EPS 105L: Physical Geology Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "EPS 105L",
+              "title": "Physical Geology Lab"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 262: General Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 262",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 262L: General Physics Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 262L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 267: Problems in General Physics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 267",
+              "title": "Prob in Gen Physics"
+            }
+          ]
+        },
+        {
+          "name": "MATH 264: Calculus III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 264",
+              "title": "Calculus III"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 202L",
+              "title": "Genetics Lab"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 330: Introduction to Modern Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 330",
+              "title": "Intro Modern Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 331: Problems in Introduction to Modern Physics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 331",
+              "title": "Problems in Modern Physics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 327: Geophysics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 327",
+              "title": "Geophysics"
+            }
+          ]
+        },
+        {
+          "name": "MATH 316: Applied Ordinary Differential Equations",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 316",
+              "title": "Applied Ordinary Diff Equas"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 290: Computational Physics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 290",
+              "title": "Computational Physics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "PHYC 303: Analytical Mechanics I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 303",
+              "title": "Analytical Mechanics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 313: Problems in Analytical Mechanics I",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 313",
+              "title": "Prob Analytical Mechanics I"
+            }
+          ]
+        },
+        {
+          "name": "EPS Elective 1",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHYC 366: ",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "PHYC 366",
+              "title": "Mathematical Methods of Physics"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EPS Elective 2",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHYC 304: Analytical Mechanics II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 304",
+              "title": "Analytical Mechanics"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 314: Aproblems in Analytical Mechanics II",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 314",
+              "title": "Prob Analytical Mechanics II"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 314: Linear Algebra with Applications",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 314",
+              "title": "Linear Algebra with Apps"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 405: Electricity and Magnetism I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 405",
+              "title": "Electricity & Magnetism I"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 415: Problems in Electricity and Magnetism I",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 415",
+              "title": "Problems in E&M I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EPS Elective 3",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHYC 301: Thermodynamics and Statistical Mechanics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 301",
+              "title": "Thermodynamics & Stat Mech"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 311: Problems in Thermodynamics and Statistical Mechanics",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "PHYC 311",
+              "title": "Prob Thermo & Stat Mechanics"
+            }
+          ]
+        },
+        {
+          "name": "Math Minor Elective I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "EPS Elective 4",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHYC 307L: Junior Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 307L",
+              "title": "Junior Laboratory"
+            }
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Math Minor Elective II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

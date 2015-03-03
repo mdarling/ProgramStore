@@ -1,0 +1,490 @@
+{
+  "name": "Organizational Leadership",
+  "college": "Anderson School of Management",
+  "dept": "Department of Organizational Studies",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BBA",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual coursework only. Students must maintain a minimum of a 2.0 cumulative grade point average\n  \t\t\tfrom admission and graduation from the Anderson School of Management."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Phsyical & Natural Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MATH 180: Elements of Calculus I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 180",
+              "title": "Elements of Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science with Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECON 105: Macroeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CS 150L: Computing for Business",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 150L",
+              "title": "Computing for Bus Students"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECON 106: Microeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 106",
+              "title": "Introductory Microeconomics"
+            }
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics or STAT 245: or STAT 345: Elements of Mathematical Statistics and Probability Theory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            },
+            {
+              "number": "STAT 345",
+              "title": "Elements of Math Stat & Prob"
+            }
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology or SOC 101: Introduction to Sociology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            },
+            {
+              "number": "SOC 101",
+              "title": "Introduction to Sociology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 219: Technical Writing or ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MGMT 202: Principles of Financial Accounting",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 202",
+              "title": "Principles of Financial Acct"
+            }
+          ]
+        },
+        {
+          "name": "Free Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MGMT 300: Operations Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 300",
+              "title": "Operations Management"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 303: Managerial Accounting",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 303",
+              "title": "Managerial Accounting"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 306: Organizational Behavior and Diversity",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 306",
+              "title": "Org Behavior & Diversity"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 322: Marketing Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 322",
+              "title": "Marketing Management"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 398: Career Management Skills",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MGMT 398",
+              "title": "Career Management Skills"
+            }
+          ]
+        },
+        {
+          "name": "Free Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MGMT 308: Ethical, Political and Social Environment",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 308",
+              "title": "Ethical Pol & Social Envir"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 310: Legal Issues-Managers",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 310",
+              "title": "Legal Issues for Managers"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 326: Financial Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 326",
+              "title": "Financial Management"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 362: Leadership Development",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 362",
+              "title": "Leadership Development"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 497: Internship (free elective)",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 497",
+              "title": "Internship"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MGMT 328: International Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 328",
+              "title": "International Management"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 307: Organizational Change and Innovation",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 307",
+              "title": "Organization Change & Innov"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 458: Managerial Ethics",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 458",
+              "title": "Managerial Ethics"
+            }
+          ]
+        },
+        {
+          "name": "Organizational Leadership Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Free Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MGMT 450: Computer-Based Information Systems",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 450",
+              "title": "Computer-Based Info Systems"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 498: Strategic Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 498",
+              "title": "Strategic Management"
+            }
+          ]
+        },
+        {
+          "name": "Organizational Leadership Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Free Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

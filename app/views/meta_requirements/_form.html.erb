@@ -1,0 +1,29 @@
+<%= form_for(@meta_requirement) do |f| %>
+  <% if @meta_requirement.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@meta_requirement.errors.count, "error") %> prohibited this meta_requirement from being saved:</h2>
+
+      <ul>
+      <% @meta_requirement.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :institutional_entity_id %><br>
+    <%= f.number_field :institutional_entity_id %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br>
+    <%= f.text_field :description %>
+  </div>
+  <div class="field">
+    <%= f.label :value %><br>
+    <%= f.text_field :value %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

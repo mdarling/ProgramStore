@@ -1,0 +1,65 @@
+<%= form_for(@academic_program) do |f| %>
+  <% if @academic_program.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@academic_program.errors.count, "error") %> prohibited this academic_program from being saved:</h2>
+
+      <ul>
+      <% @academic_program.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :type %><br>
+    <%= f.text_field :type %>
+  </div>
+  <div class="field">
+    <%= f.label :admission_requirements %><br>
+    <%= f.text_area :admission_requirements %>
+  </div>
+  <div class="field">
+    <%= f.label :career_opportunities %><br>
+    <%= f.text_area :career_opportunities %>
+  </div>
+  <div class="field">
+    <%= f.label :contact_information %><br>
+    <%= f.text_area :contact_information %>
+  </div>
+  <div class="field">
+    <%= f.label :degree %><br>
+    <%= f.text_field :degree %>
+  </div>
+  <div class="field">
+    <%= f.label :keywords %><br>
+    <%= f.text_area :keywords %>
+  </div>
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :online %><br>
+    <%= f.text_field :online %>
+  </div>
+  <div class="field">
+    <%= f.label :program_description %><br>
+    <%= f.text_area :program_description %>
+  </div>
+  <div class="field">
+    <%= f.label :transfer_agreements %><br>
+    <%= f.text_area :transfer_agreements %>
+  </div>
+  <div class="field">
+    <%= f.label :minimum_course_grade %><br>
+    <%= f.text_field :minimum_course_grade %>
+  </div>
+  <div class="field">
+    <%= f.label :minimum_cumulative_gpa %><br>
+    <%= f.text_field :minimum_cumulative_gpa %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

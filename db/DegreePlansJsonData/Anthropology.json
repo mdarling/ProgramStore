@@ -1,0 +1,500 @@
+{
+  "name": "Anthropology",
+  "type": "UndergradProgram",
+  "degree": "BA",
+  "program_description": "Our educational program is based on the premise that Anthropology more than any other discipline provides insights into who we are, how we became this way, and what our future might be. The more students understand about both the past and current nature of biological and cultural diversity, the better able they are to cope with complex problems and make meaningful contributions to society locally, nationally and internationally. Whether undergraduates choose to pursue graduate training in anthropology or some other field, or move directly into the workforce, we seek to provide them with a broad education by offering large and small lecture classes and a variety of laboratories and field classes across the concentrations of anthropology. Our graduate degrees prepare students to follow either academic or applied careers in Anthropology. <br",
+  "degree_term_items": [
+    {
+      "name": "ANTH Core Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH 120: Archaeological Method and Theory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH 122L: Archaeological Method and Theory Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Freshman Academic Choice",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities or Social Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH 220: World Archaeology",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Core Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH 320: Strategy of Archaeology",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Group A, B or C Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 290 or ENGL 219 or ENGL 220 or CJ 130",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Second Language",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Group A, B or C Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH 3rd Concentration Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Group A, B or C Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Core Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major of Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities or Social Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities or Social Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities or Social Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH 150: Evolution and Human Emergence or ANTH 160: Human Life Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH 151L: Human Evolution Laboratory or ANTH 161L: Computer Laboratory in Human Evolutionary Ecology",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Freshman Academic Choice",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities or Social Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Core Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Second Language",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH 350: Human Biology or ANTH 360: Human Behavioral Ecology",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Laboratory Topics Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 290 or ENGL 219 or ENGL 220 or CJ 130",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities or Social Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Additional Topics Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Core Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities or Social Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Subfield Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Elective Course",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major of Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper-Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities or Social Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ANTH Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective Any Level",
+      "prerequisites": [
+
+      ]
+    }
+  ]
+}

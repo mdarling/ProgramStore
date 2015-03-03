@@ -1,0 +1,826 @@
+{
+  "name": "Music (Theory and Composition Concentration)",
+  "college": "College of Fine Arts",
+  "dept": "Music",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BM",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150: Music Theory I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150",
+              "title": "Music Theory I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 150L: Music Theory I Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 150L",
+              "title": "Music Theory I Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 119: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 119",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152: Music Theory II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152",
+              "title": "Music Theory II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 152L: Music Theory II Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 152L",
+              "title": "Music Theory II Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 120: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 120",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical & Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250: Music Theory III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250",
+              "title": "Music Theory III"
+            }
+          ]
+        },
+        {
+          "name": "MUS 250L: Music Theory III Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 250L",
+              "title": "Music Theory III Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 219: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 219",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 453: Orchestration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 453",
+              "title": "Orchestration"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 220: Expository writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Social & Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 254: Introduction to Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 254",
+              "title": "Intro to Comp in Western Trad"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252: Music Theory IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252",
+              "title": "Music Theory IV"
+            }
+          ]
+        },
+        {
+          "name": "MUS 252L: Music Theory IV Aural Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 252L",
+              "title": "Music Theory IV Aural Lab"
+            }
+          ]
+        },
+        {
+          "name": "APMS 220: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 220",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 214: Piano Proficiency",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 214",
+              "title": "Piano Proficiency"
+            }
+          ]
+        },
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Physical & Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 305: Composition I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 305",
+              "title": "Composition I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 361: History of Music I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 361",
+              "title": "History of Music I"
+            }
+          ]
+        },
+        {
+          "name": "MUS 363: Conducting",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 363",
+              "title": "Conducting"
+            }
+          ]
+        },
+        {
+          "name": "APMS 319: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "APMS 319",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MUS 405: Sixteenth-Century Counterpoint OR MUS 406: Eighteenth-Century Counterpoint",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 405",
+              "title": "16th-Century Counterpoint"
+            },
+            {
+              "number": "MUS 406",
+              "title": "18th-Century Counterpoint"
+            }
+          ]
+        },
+        {
+          "name": "MUS 311 OR MUS 380 OR MUS 412 OR MUS 421 OR MUS 481",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 481",
+              "title": "Recording Techniques II"
+            },
+            {
+              "number": "MUS 311",
+              "title": "Computer Applications I"
+            },
+            {
+              "number": "MUS 380",
+              "title": "Recording Techniques I"
+            },
+            {
+              "number": "MUS 412",
+              "title": "Computer Applications II"
+            },
+            {
+              "number": "MUS 421",
+              "title": "Max Programming for Musicians"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 101: Concert Music",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "MUS 101",
+              "title": "Concert Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 306: Composition II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 306",
+              "title": "Composition II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 362: History of Music II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 362",
+              "title": "History of Music II"
+            }
+          ]
+        },
+        {
+          "name": "MUS 365: Instrumental Conducting",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 365",
+              "title": "Instrumental Conducting"
+            }
+          ]
+        },
+        {
+          "name": "MUS 309 OR MUS 325 OR MUS 405 OR MUS 406 OR MUS 439",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 309",
+              "title": "Form and Analysis"
+            },
+            {
+              "number": "MUS 325",
+              "title": "Post-Tonal Theory"
+            },
+            {
+              "number": "MUS 439",
+              "title": "ST:Music Theory"
+            }
+          ]
+        },
+        {
+          "name": "Major Ensemble",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Music elective (not Non-Major course)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PHYC 108: Introduction to Musical Acoustics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 108",
+              "title": "Intro Musical Acoustics"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts outside the major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 407: Special Topics in Music Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 407",
+              "title": "Special Topics in Music Composition"
+            }
+          ]
+        },
+        {
+          "name": "MUS 416: Studies in Twentieth Century Music",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 416",
+              "title": "St in Twentieth-Century Music"
+            }
+          ]
+        },
+        {
+          "name": "MUS 309 OR MUS 325 OR MUS 405 OR MUS 406 OR MUS 439",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MUS 309",
+              "title": "Form and Analysis"
+            },
+            {
+              "number": "MUS 325",
+              "title": "Post-Tonal Theory"
+            },
+            {
+              "number": "MUS 439",
+              "title": "ST:Music Theory"
+            }
+          ]
+        },
+        {
+          "name": "APMS 419: Studio Instruction for the Non-Performance Concentration",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 419",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "MUS 417 OR MUS 418 OR MUS 422 OR MUS 436 OR MUS 444 OR MUS 448",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Music elective (not Non-Major course)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MUS 407: Special Topics in Music Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 407",
+              "title": "Special Topics in Music Composition"
+            }
+          ]
+        },
+        {
+          "name": "MUS 413 OR MUS 414 OR MUS 415 OR MUS 437",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MUS 413",
+              "title": "St in Medieval & Renaiss Music"
+            },
+            {
+              "number": "MUS 414",
+              "title": "Studies in Baroque Music"
+            },
+            {
+              "number": "MUS 415",
+              "title": "St in Classic & Romantic Music"
+            },
+            {
+              "number": "MUS 437",
+              "title": "ST: Music Lit"
+            }
+          ]
+        },
+        {
+          "name": "MUS 309 OR MUS 325 OR MUS 405 OR MUS 406 OR MUS 439",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "MUS 309",
+              "title": "Form and Analysis"
+            },
+            {
+              "number": "MUS 325",
+              "title": "Post-Tonal Theory"
+            },
+            {
+              "number": "MUS 439",
+              "title": "ST:Music Theory"
+            }
+          ]
+        },
+        {
+          "name": "APMS 420: Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "APMS 420",
+              "title": "Nonperf Concntratn:"
+            }
+          ]
+        },
+        {
+          "name": "APMS 491: Senior Recital",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "APMS 491",
+              "title": "Sr Recital:"
+            }
+          ]
+        },
+        {
+          "name": "Music elective (not Non-Major course)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective outside the major department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

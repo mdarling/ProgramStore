@@ -1,0 +1,576 @@
+{
+  "name": "Dental Hygiene",
+  "college": "School of Medicine",
+  "dept": "Health Sciences",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BSDH",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "BIOL 123 and BIOL 124L: Biology for Health Related Sciences and Non-Majors and Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 111: Elements of General Chemistry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 111",
+              "title": "Elem of Gen Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 247L: Human Anatomy and Physiology Laboratory I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 247L",
+              "title": "Anatomy & Physiology Lab I"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 212L: Integrated Organic Chemistry and Biochemistry Laboratory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 130: Public Speaking or CJ 221: Interpersonal Communication",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "CJ 221",
+              "title": "Interpersonal Communication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "SOC 101: Introduction to Sociology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "SOC 101",
+              "title": "Introduction to Sociology"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 239L: Microbiology for Health Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 239L",
+              "title": "Microbio Health Sciences Lab"
+            }
+          ]
+        },
+        {
+          "name": "NUTR 244: Human Nutrition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 244",
+              "title": "Human Nutrition"
+            }
+          ]
+        },
+        {
+          "name": "STATS 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 238: Human Anatomy and Physiology II for the Health Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 238",
+              "title": "Hum Anat & Physio II Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIO 248L: Human Anatomy and Physiology Laboratory II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 248L",
+              "title": "Anatomy & Physiology Lab II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "DEHY 205: Introduction to Dental Hygiene",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 205",
+              "title": "Intro To Dent Hygn"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 210: Head and Neck Anatomy",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 210",
+              "title": "Head & Neck Anatomy"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 211",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DEHY 250: Gen/Oral Hist and Embrey",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 250",
+              "title": "Gen Oral Hist & Embr"
+            }
+          ]
+        },
+        {
+          "name": "Humanities Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "c",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "DEHY 301: Clinical Dental Hygiene Lecture I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 301",
+              "title": "Clinical DH Lec I"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 302: Clinical Dental Hygiene I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 302",
+              "title": "Clinical DH I"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 330: Dental Health Education I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 330",
+              "title": "Dental Health Ed I"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 340: General and Oral Pathology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 340",
+              "title": "Gen Oral Pathology"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 312: Dental Radiology/Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 312",
+              "title": "Dental Radiology"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 335: Dental Office Emergencies",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 335",
+              "title": "Dental Office Emerg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "DEHY 303: Clinical Dental Hygiene Lecture II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 303",
+              "title": "Clinical DH Lec II"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 304: Clinical Dental Hygiene II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 304",
+              "title": "Clinical DH II"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 320: Dental Bio-Materials",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 320",
+              "title": "Dental Bio-Materials"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 470: Periodontology I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 470",
+              "title": "Periodontology I"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 370: Special Care in Dental Hygiene",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 370",
+              "title": "Special Care D Hygn"
+            }
+          ]
+        },
+        {
+          "name": "NURS 238: Pharmacology in Nursing and the Health Professions",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 238",
+              "title": "Pharm in Nurs & Hlth Prof"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 440: Extramural Experience",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 440",
+              "title": "Extramural Exper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "DEHY 401: Clinical Dental Hygiene Lecture III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 401",
+              "title": "Clinical DH Lec III"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 402: Clinical Dental Hygiene III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 402",
+              "title": "Clinical DH III"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 422: Dental Public Health I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 422",
+              "title": "Dental Public Health I"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 410: Dental Hygiene Research Methodology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 410",
+              "title": "DH Research Methods"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 480: Local Anesthesia and Pain Control",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 480",
+              "title": "Local Anes & Pain Control"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "DEHY 403: Clinical Dental Hygiene Lecture IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 403",
+              "title": "Clinical DH Lec IV"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 404: Clinical Dental Hygiene IV",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "DEHY 404",
+              "title": "Clinical DH IV"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 442: Principles of Practice",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "DEHY 442",
+              "title": "Prin of Practice"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 400: Current Issues in Dental Hygiene",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 400",
+              "title": "Current Issues"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 423: Dental Public Health II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "DEHY 423",
+              "title": "Dental Public Health II"
+            }
+          ]
+        },
+        {
+          "name": "DEHY 440: Extramural Experience",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DEHY 440",
+              "title": "Extramural Exper"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

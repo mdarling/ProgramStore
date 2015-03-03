@@ -1,0 +1,632 @@
+{
+  "name": "Health, Medicine, and Human Values",
+  "type": "UndergradProgram",
+  "degree": "BA",
+  "program_description": "<pThe Health, Medicine and Human Values (HMHV) program, the undergraduate component of UNM’s Combined B.A./M.D. Degree Program, presents a unique opportunity for a select group of qualified freshmen who wish to become physicians in New Mexico. The program is open to 28 students each Fall (application and eligibility criteria are described below). Following an integrated curriculum that covers a broad base of interdisciplinary course work in the humanities, social sciences, mathematics, and physical sciences, program participants&nbsp;complete a Bachelor’s degree at the end of four years, after which they&nbsp;complete their Doctor of Medicine (M.D.) degree in the School of Medicine at UNM where a seat has&nbsp;been reserved for them.</p<pThe HMHV program offers students flexibility in choosing an undergraduate major while providing them with a structured pre-medical core of special seminars focusing upon humanities, fine arts, and social/behavioral sciences studies in the context of health science and medicine; with experiential learning practica; and with a suite of mathematics and physical/natural science courses that will prepare them for medical school.</p<pIn consultation with a B.A./M.D. advisor, program participants choose one of the following options: Option I: an Arts and Sciences major;&nbsp;Option II:&nbsp;the Health, Medicine and Human Values major: Health, Humanities and Society concentration, or&nbsp;Option III:&nbsp;the Health, Medicine and Human Values major: Biomedical Sciences concentration. Option I is designed for students who wish to receive a B.A. (or B.S.) degree in a liberal arts field, such as Anthropology, Biology, English, History, Psychology, or Sociology. Option II is designed for students who prefer a distributed liberal arts and sciences program of study. And Option III is designed for those students who wish to pursue a rigorous program of study in the physical and natural sciences. All three options include a suite of courses in the humanities, social sciences, mathematics, and physical and natural sciences that prepare the student for medical school.</p&nbsp;",
+  "degree_term_items": [
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 101: Contours of Health in New Mexico",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 298: Health, Medicine, and Human Values",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH 180: Elements of Calculus I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 121: General Chemistry I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 123L: General Chemistry I Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social and Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 201L: Molecular and Cell Biology",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 122: General Chemistry II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 124L: General Chemistry II Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 298: Health, Medicine, and Human Values",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH 181: Elements of Calculus II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 202L: Genetics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 301: Organic Chemistry",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 303L: Organic Chemistry Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 201: Literature, Fine Arts, and Medicine",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CJ 130 or PHIL 156 or ENGL 219 or 220",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Second Language Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 203L: Ecology and Evolution",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 302: Organic Chemistry",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 304L: Organic Chemistry Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 398: Community Service/Public Health Workshop",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social and Behavioral Sciences Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 350: Community Health Practicum I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 450: Community Health Practicum II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOC 423: Introductory Biochemistry (See Biology Dept. for Rules)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PHYC 151: General Physics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PHYC 151L: General Physics Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 204: Plant and Animal Form and Function",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 204L: Plant and Animal Form and Function Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 301: Health Economics, Politics, and Policy",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PHYC 152: General Physics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PHYC 152L: General Physics Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 310: Health and Cultural Diversity",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 247L: Human Anatomy and Physiology Laboratory I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 401: Ethics, Medicine, and Health",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 238: Human Anatomy and Physiology II for the Health Sciences",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 248L: Human Anatomy and Physiology Laboratory II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 351: General Microbiology",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 352L: General Microbiology Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective for Major",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective for Major",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective for Major",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective for Major",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective for Major",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective for Major",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 101: Contours of Health in New Mexico",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 298: Health, Medicine, and Human Values",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH 180: Elements of Calculus I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 121: General Chemistry I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 123L: General Chemistry I Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social and Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 201L: Molecular and Cell Biology",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 122: General Chemistry II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 124L: General Chemistry II Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 298: Health, Medicine, and Human Values",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "STAT 145: Introduction to Statistics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 202L: Genetics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 301: Organic Chemistry",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 303L: Organic Chemistry Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 201: Literature, Fine Arts, and Medicine",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CJ 130 or PHIL 156 or ENGL 219 or 220",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 204: Plant and Animal Form and Function",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOL 204L: Plant and Animal Form and Function Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 302: Organic Chemistry",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CHEM 304L: Organic Chemistry Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 398: Community Service/Public Health Workshop",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social and Behavioral Sciences Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities/Fine Arts (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 350: Community Health Practicum I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 450: Community Health Practicum II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "BIOC 423: Introductory Biochemistry (See Biology Dept. for Rules)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PHYC 151: General Physics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PHYC 151L: General Physics Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 301: Health Economics, Politics, and Policy",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social and Behavioral Science (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Second Language Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PHYC 152: General Physics",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "PHYC 152L: General Physics Laboratory",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 310: Health and Cultural Diversity",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities/Fine Arts (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities Core",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "HMHV 401: Ethics, Medicine, and Health",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social and Behavioral Science (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Math and Physical Science (Lower or Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective for Major (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Math and Physical Science (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Math and Physical Science (Lower or Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective (Upper Division)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Elective",
+      "prerequisites": [
+
+      ]
+    }
+  ]
+}

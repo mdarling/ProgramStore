@@ -1,0 +1,548 @@
+{
+  "name": "Art Studio",
+  "college": "College of Fine Arts",
+  "dept": "Art & Art History",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BFA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social/Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS 106: Drawing I",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 106",
+              "title": "Drawing I"
+            }
+          ]
+        },
+        {
+          "name": "ARTS 125: Art Practices I",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 125",
+              "title": "Art Practices I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical/Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts Outside the Major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS 126: Art Practices II",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 126",
+              "title": "Art Practices II"
+            }
+          ]
+        },
+        {
+          "name": "ARTS: 130 OR ARTS 141 OR ARTS 157 OR ARTS 168 OR ARTS 187 OR ARTS 207 OR ARTS 213 OR ARTS 274",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 130",
+              "title": "Introduction to Electronic Art"
+            },
+            {
+              "number": "ARTS 141",
+              "title": "Intro to Art and Ecology"
+            },
+            {
+              "number": "ARTS 157",
+              "title": "Small Metal Const I"
+            },
+            {
+              "number": "ARTS 168",
+              "title": "Introduction to Ceramics"
+            },
+            {
+              "number": "ARTS 187",
+              "title": "Introduction to Photography"
+            },
+            {
+              "number": "ARTS 207",
+              "title": "Painting I"
+            },
+            {
+              "number": "ARTS 213",
+              "title": "Sculpture I"
+            },
+            {
+              "number": "ARTS 274",
+              "title": "Introduction to Printmaking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS: 130 OR ARTS 141 OR ARTS 157 OR ARTS 168 OR ARTS 187 OR ARTS 207 OR ARTS 213 OR ARTS 274",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 130",
+              "title": "Introduction to Electronic Art"
+            },
+            {
+              "number": "ARTS 141",
+              "title": "Intro to Art and Ecology"
+            },
+            {
+              "number": "ARTS 157",
+              "title": "Small Metal Const I"
+            },
+            {
+              "number": "ARTS 168",
+              "title": "Introduction to Ceramics"
+            },
+            {
+              "number": "ARTS 187",
+              "title": "Introduction to Photography"
+            },
+            {
+              "number": "ARTS 207",
+              "title": "Painting I"
+            },
+            {
+              "number": "ARTS 213",
+              "title": "Sculpture I"
+            },
+            {
+              "number": "ARTS 274",
+              "title": "Introduction to Printmaking"
+            }
+          ]
+        },
+        {
+          "name": "ARTH 201 OR ARTH 202 OR ARTH 250",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 201",
+              "title": "History of Art I"
+            },
+            {
+              "number": "ARTH 202",
+              "title": "History of Art II"
+            },
+            {
+              "number": "ARTH 250",
+              "title": "Modern Art"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Physical/Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social/Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS: 130 OR ARTS 141 OR ARTS 157 OR ARTS 168 OR ARTS 187 OR ARTS 207 OR ARTS 213 OR ARTS 274",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 130",
+              "title": "Introduction to Electronic Art"
+            },
+            {
+              "number": "ARTS 141",
+              "title": "Intro to Art and Ecology"
+            },
+            {
+              "number": "ARTS 157",
+              "title": "Small Metal Const I"
+            },
+            {
+              "number": "ARTS 168",
+              "title": "Introduction to Ceramics"
+            },
+            {
+              "number": "ARTS 187",
+              "title": "Introduction to Photography"
+            },
+            {
+              "number": "ARTS 207",
+              "title": "Painting I"
+            },
+            {
+              "number": "ARTS 213",
+              "title": "Sculpture I"
+            },
+            {
+              "number": "ARTS 274",
+              "title": "Introduction to Printmaking"
+            }
+          ]
+        },
+        {
+          "name": "ARTS Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS: 130 OR ARTS 141 OR ARTS 157 OR ARTS 168 OR ARTS 187 OR ARTS 207 OR ARTS 213 OR ARTS 274",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 130",
+              "title": "Introduction to Electronic Art"
+            },
+            {
+              "number": "ARTS 141",
+              "title": "Intro to Art and Ecology"
+            },
+            {
+              "number": "ARTS 157",
+              "title": "Small Metal Const I"
+            },
+            {
+              "number": "ARTS 168",
+              "title": "Introduction to Ceramics"
+            },
+            {
+              "number": "ARTS 187",
+              "title": "Introduction to Photography"
+            },
+            {
+              "number": "ARTS 207",
+              "title": "Painting I"
+            },
+            {
+              "number": "ARTS 213",
+              "title": "Sculpture I"
+            },
+            {
+              "number": "ARTS 274",
+              "title": "Introduction to Printmaking"
+            }
+          ]
+        },
+        {
+          "name": "ARTS Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS 400 Level Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH 400 Level Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS 400 Level Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH 400 Level Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

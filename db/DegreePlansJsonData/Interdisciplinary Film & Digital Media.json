@@ -1,0 +1,570 @@
+{
+  "name": "Interdisciplinary Film & Digital Media",
+  "college": "Anderson School of Management",
+  "dept": "Marketing, Information and Decision Sciences",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BBA",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual coursework only. Students must maintain a minimum of a 2.0 cumulative grade point average\n  \t\t\tfrom admission and graduation from the Anderson School of Management."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "MATH 121: College Algebra",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 121",
+              "title": "College Algebra"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology or SOC 101: Introduction to Sociology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            },
+            {
+              "number": "SOC 101",
+              "title": "Introduction to Sociology"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 105L: Inter and New Media Studies I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 105L",
+              "title": "Inter & New Media I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MATH 180: Elements of Calculus I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 180",
+              "title": "Elements of Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science with Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECON 105: Macroeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            }
+          ]
+        },
+        {
+          "name": "CS 105L: Introduction to Computer Programming",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 105L",
+              "title": "Introduction to Computer Programming"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 219: Technical Writing or ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECON 106: Microeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 106",
+              "title": "Introductory Microeconomics"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Sciences Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "IFDM 205L: Studio I: Activating Digital Space",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 205L",
+              "title": "Activating Digital Space"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CS 150L: Computing for Business Students",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 150L",
+              "title": "Computing for Bus Students"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Sciences Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MGMT 202: Principles of Financial Accounting",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 202",
+              "title": "Principles of Financial Acct"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 210: Introduction to Modeling and Postproduction",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 210",
+              "title": "Intro Modeling & Postproduct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MGMT 300: Operations Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 300",
+              "title": "Operations Management"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 303: Managerial Accounting",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 303",
+              "title": "Managerial Accounting"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 306: Organizational Behavior and Diversity",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 306",
+              "title": "Org Behavior & Diversity"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 322: Marketing Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 322",
+              "title": "Marketing Management"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 328: International Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 328",
+              "title": "International Management"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 300: Critical Intermediations",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 300",
+              "title": "Critical Intermediations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MGMT 308: Ethical, Political and Social Environment",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 308",
+              "title": "Ethical Pol & Social Envir"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 310: Legal Issues-Managers",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 310",
+              "title": "Legal Issues for Managers"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 324: New Venture Strategies",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 324",
+              "title": "New Venture Strategies"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 384: Professional Selling",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 384",
+              "title": "Professional Selling"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 433: Management of Service Operations",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 433",
+              "title": "Mgmt of Service Operations"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 310: Studio II: Writing Digital Narrative",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 310",
+              "title": "Writing Digital Narrative"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 497: Internship (free elective)",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 497",
+              "title": "Internship"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MGMT 326: Financial Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 326",
+              "title": "Financial Management"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 450: Computer-Based Information Systems",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 450",
+              "title": "Computer-Based Info Systems"
+            }
+          ]
+        },
+        {
+          "name": "IFDM MGMT Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "IFDM 400: Ethics, Science and Technology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 400",
+              "title": "Ethics, Science & Technology"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 450: IFDM Capstone I Senior Projects Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "IFDM 450",
+              "title": "IFDM Capstone I"
+            }
+          ]
+        },
+        {
+          "name": "MGMT 398: Career Management Skills",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "MGMT 398",
+              "title": "Career Management Skills"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "MGMT 498: Strategic Management",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MGMT 498",
+              "title": "Strategic Management"
+            }
+          ]
+        },
+        {
+          "name": "IFDM MGMT Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "IFDM 410: The Business and Law of Film and New Media",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "IFDM 410",
+              "title": "Bus & Law of Film & New Media"
+            }
+          ]
+        },
+        {
+          "name": "IFDM 451: IFDM Capstone II Senior Projects Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "IFDM 451",
+              "title": "IFDM Capstone II"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "name": "Art History",
+  "college": "College of Fine Arts",
+  "dept": "Art & Art History",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "ARTS 106: Drawing I",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 106",
+              "title": "Drawing I"
+            }
+          ]
+        },
+        {
+          "name": "ARTH 201: History of Art I",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 201",
+              "title": "History of Art I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Arts & Sciences Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS 125: Art Practices I OR ARTS 126: Art Practices II",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTS 125",
+              "title": "Art Practices I"
+            },
+            {
+              "number": "ARTS 126",
+              "title": "Art Practices II"
+            }
+          ]
+        },
+        {
+          "name": "ARTH 202: History of Art II",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 202",
+              "title": "History of Art II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 220: Expository Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Arts & Sciences Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH 250: Modern Art",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 250",
+              "title": "Modern Art"
+            }
+          ]
+        },
+        {
+          "name": "ARTH 323 or ARTH 324 or ARTH 315 or ARTH 321 or ARTH 322 or ARTH 330 or ARTH 340 or ARTH 431",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 315",
+              "title": "Ancient Art"
+            },
+            {
+              "number": "ARTH 321",
+              "title": "Early Medieval Art"
+            },
+            {
+              "number": "ARTH 322",
+              "title": "High Medieval Art"
+            },
+            {
+              "number": "ARTH 324",
+              "title": "World Architecture II"
+            },
+            {
+              "number": "ARTH 330",
+              "title": "Renaissance Art & Architecture"
+            },
+            {
+              "number": "ARTH 340",
+              "title": "Baroque Art"
+            },
+            {
+              "number": "ARTH 323",
+              "title": "World Architecture I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH 323 or ARTH 324 or ARTH 315 or ARTH 321 or ARTH 322 or ARTH 330 or ARTH 340 or ARTH 431",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 315",
+              "title": "Ancient Art"
+            },
+            {
+              "number": "ARTH 321",
+              "title": "Early Medieval Art"
+            },
+            {
+              "number": "ARTH 322",
+              "title": "High Medieval Art"
+            },
+            {
+              "number": "ARTH 324",
+              "title": "World Architecture II"
+            },
+            {
+              "number": "ARTH 330",
+              "title": "Renaissance Art & Architecture"
+            },
+            {
+              "number": "ARTH 340",
+              "title": "Baroque Art"
+            },
+            {
+              "number": "ARTH 323",
+              "title": "World Architecture I"
+            }
+          ]
+        },
+        {
+          "name": "ARTH 351 or ARTH 303 or ARTH 343 or ARTH 402 or ARTH 406 or ARTH 411 or ARTH 412 or ARTH 415 or ARTH 432",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 343",
+              "title": "Pre-Columbian Architecture"
+            },
+            {
+              "number": "ARTH 402",
+              "title": "Native American Art I"
+            },
+            {
+              "number": "ARTH 406",
+              "title": "Native American Art II"
+            },
+            {
+              "number": "ARTH 411",
+              "title": "Pre-Columbian Art: Mesoamerica"
+            },
+            {
+              "number": "ARTH 412",
+              "title": "Pre-Columbian Art: S. America"
+            },
+            {
+              "number": "ARTH 415",
+              "title": "Modern Native American Art"
+            },
+            {
+              "number": "ARTH 432",
+              "title": "Islamic Art & Architecture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts Outside the Major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH 323 or ARTH 324 or ARTH 315 or ARTH 321 or ARTH 322 or ARTH 330 or ARTH 340 or ARTH 431",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 315",
+              "title": "Ancient Art"
+            },
+            {
+              "number": "ARTH 321",
+              "title": "Early Medieval Art"
+            },
+            {
+              "number": "ARTH 322",
+              "title": "High Medieval Art"
+            },
+            {
+              "number": "ARTH 324",
+              "title": "World Architecture II"
+            },
+            {
+              "number": "ARTH 330",
+              "title": "Renaissance Art & Architecture"
+            },
+            {
+              "number": "ARTH 340",
+              "title": "Baroque Art"
+            },
+            {
+              "number": "ARTH 323",
+              "title": "World Architecture I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTS Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts Outside the Major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

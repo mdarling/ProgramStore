@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  admission_requirements: MyText
+  career_opportunities: MyText
+  contact_information: MyText
+  degree: MyString
+  keywords: MyText
+  name: MyString
+  online: MyString
+  program_description: MyText
+  transfer_agreements: MyText
+  minimum_course_grade: MyString
+  minimum_cumulative_gpa: MyString
+
+two:
+  type: 
+  admission_requirements: MyText
+  career_opportunities: MyText
+  contact_information: MyText
+  degree: MyString
+  keywords: MyText
+  name: MyString
+  online: MyString
+  program_description: MyText
+  transfer_agreements: MyText
+  minimum_course_grade: MyString
+  minimum_cumulative_gpa: MyString

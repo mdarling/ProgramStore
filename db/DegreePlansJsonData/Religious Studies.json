@@ -1,0 +1,519 @@
+{
+  "name": "Religious Studies",
+  "college": "College of Arts & Sciences",
+  "dept": "multidisciplinary",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+    {
+      "note": "Minimum graduation GPA : 2.00. Keep in mind that minimum grades on road map are for individual coursework only. Students must maintain a minimum of a 2.0 cumulative GPA for admisssion to and graduation from the College of Art & Science."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "RELG 263: Eastern Religions",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "RELG 263",
+              "title": "Eastern Religions"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Freshman Academic Choice",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "RELG 264: Western Religions",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "RELG 264",
+              "title": "Western Religions"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective any level or SPAN for prerequisites",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "RELG 232: Christian Scriptures",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "RELG 230 or RELG 231: Hebrew Scriptures or Hebrew Prophets",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CJ 130 or PHIL 156 or ENGL 219 or ENGL 220",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            },
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "RELG Course in Sacred Text Group",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "RELG 103",
+              "title": "Intro To Bible"
+            },
+            {
+              "number": "RELG 104",
+              "title": "New Testament Greek"
+            },
+            {
+              "number": "RELG 106",
+              "title": "Inter New Testament Greek"
+            },
+            {
+              "number": "RELG 109",
+              "title": "Biblical Hebrew I"
+            },
+            {
+              "number": "RELG 407",
+              "title": "Sanskrit I"
+            },
+            {
+              "number": "RELG 440",
+              "title": "Buddhist Sutra Seminar"
+            },
+            {
+              "number": "RELG 463",
+              "title": "Seminar in Biblical Studies"
+            }
+          ]
+        },
+        {
+          "name": "RELG Course in Asian Group",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "RELG 107",
+              "title": "Living World Religions"
+            },
+            {
+              "number": "RELG 438",
+              "title": "Buddhist Philosophy - India"
+            },
+            {
+              "number": "RELG 440",
+              "title": "Buddhist Sutra Seminar"
+            },
+            {
+              "number": "RELG 453",
+              "title": "Asian Studies Thesis"
+            },
+            {
+              "number": "RELG 457",
+              "title": "Seminar in Islamic Tradition"
+            }
+          ]
+        },
+        {
+          "name": "RELG Course in Western Group Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "RELG 413",
+              "title": "Kierkegaard"
+            },
+            {
+              "number": "RELG 326",
+              "title": "Christianity to 1517"
+            },
+            {
+              "number": "RELG 350",
+              "title": "Religion and Literature"
+            },
+            {
+              "number": "RELG 361",
+              "title": "Modern Christian Thought"
+            },
+            {
+              "number": "RELG 365",
+              "title": "Philosophy of Religion"
+            },
+            {
+              "number": "RELG 426",
+              "title": "History of Holocaust"
+            },
+            {
+              "number": "RELG 450",
+              "title": "Spanish Mysticism"
+            },
+            {
+              "number": "RELG 457",
+              "title": "Seminar in Islamic Tradition"
+            },
+            {
+              "number": "RELG 475",
+              "title": "Dante in Translation"
+            }
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "RELG Course in Religion in America Group",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "RELG 303",
+              "title": "Intr Black Lib Relig"
+            },
+            {
+              "number": "RELG 333",
+              "title": "Ritual Symbols & Beh"
+            },
+            {
+              "number": "RELG 390",
+              "title": "Latin American Thought II"
+            },
+            {
+              "number": "RELG 422",
+              "title": "Sociology of Religion"
+            },
+            {
+              "number": "RELG 430",
+              "title": "Amer Religious Comm"
+            },
+            {
+              "number": "RELG 441",
+              "title": "Hist of Religion USA"
+            },
+            {
+              "number": "RELG 482",
+              "title": "N Mex Hispanic Religious Arts"
+            },
+            {
+              "number": "RELG 483",
+              "title": "NM Hispanic Rituals"
+            },
+            {
+              "number": "RELG 491",
+              "title": "Af Am Relig Traditio"
+            }
+          ]
+        },
+        {
+          "name": "RELG course 300 or above",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "RELG course 300 or above",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "RELG course 300 or above (if needed)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "RELG 447: Seminar in Religious Studies or RELG 400-level seminar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "RELG 447",
+              "title": "Seminar in Relig St"
+            }
+          ]
+        },
+        {
+          "name": "Minor or 2nd Major Requirement",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "2nd Major or Elective any level",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "2nd Major or Upper-Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "RELG course 300 and above (if needed)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Upper Division Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "2nd Major or Upper-Division Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 9,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

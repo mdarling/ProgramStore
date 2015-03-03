@@ -1,0 +1,519 @@
+{
+  "name": "Dance",
+  "college": "College of Fine Arts",
+  "dept": "Theatre & Dance",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+    {
+      "note": "Students may earn a C- in courses in the major provided their comulative grade point average at least a 3.0. \n  Additionlly, while students may earn a C- in courses in the major, some classes may require a student to earn a C or better if it serves as a prerequisite for other courses."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Math (see core curriculum)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social and Beahvioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 110 or DANC 149 or DANC 169",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 105: Dance Appreciation",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 240: Music Essentials for Contemporary Dance",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 240",
+              "title": "Music for Dancers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 110 or DANC 149 or DANC 169",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 196: Introduction to Stage Lighting",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 196",
+              "title": "Introduction to Stage Lighting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 110 or DANC 149 or DANC 169",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 204: Streching, Strengthening and Conditioning for the Performing Arts",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 204",
+              "title": "Stretch and Strength"
+            }
+          ]
+        },
+        {
+          "name": "DANC 212: Improvisation",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 212",
+              "title": "Improvisation"
+            }
+          ]
+        },
+        {
+          "name": "THEA 194: Introduction to Costuming for Performance and New Media [Introduction to Costuming]",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 194",
+              "title": "Introduction to Costuming"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 219 or ENGL 220 or CJ 130 or PHIL 156",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            },
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "DANC technique",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 201: Crew Practicum",
+          "crucial": false,
+          "min_grade": "CR",
+          "credits": 0,
+          "courses": [
+            {
+              "number": "DANC 201",
+              "title": "Crew Practicum"
+            }
+          ]
+        },
+        {
+          "name": "DANC 311: Choreography I or DANC 379: Flamenco Structure/Improvisation",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC technique",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 130 or THEA 231 or THEA 328 or THEA 434",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 130",
+              "title": "Acting I"
+            },
+            {
+              "number": "THEA 231",
+              "title": "Voice and Movement I"
+            },
+            {
+              "number": "THEA 328",
+              "title": "Musical Theatre"
+            },
+            {
+              "number": "THEA 434",
+              "title": "Performance Art"
+            }
+          ]
+        },
+        {
+          "name": "DANC 411: Choreography II or DANC 479: Flamenco Choreography",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 313: Kinesiology",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 313",
+              "title": "Kinesiology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Fine Arts Outside the Major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Arts & Sciences Elective",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC technique",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 462-467 or DANC 466 (depending on concentration)",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 462",
+              "title": "Dance History I"
+            },
+            {
+              "number": "DANC 463",
+              "title": "Dance History II"
+            },
+            {
+              "number": "DANC 464",
+              "title": "Dance History III"
+            },
+            {
+              "number": "DANC 466",
+              "title": "Flamenco History"
+            },
+            {
+              "number": "DANC 467",
+              "title": "Dance History IV"
+            }
+          ]
+        },
+        {
+          "name": "THEA 431: Advanced Acting: Classical Styles",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 431",
+              "title": "Adv Acting Classical Styles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL elective - upper division",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts Outside Major",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC technique",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC technique",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Dept",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC technique",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "DANC 416: Dance Pedagogy or DANC 431: Writing about Dance",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 416",
+              "title": "Dance Pedagogy"
+            },
+            {
+              "number": "DANC 431",
+              "title": "Dance Criticism"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

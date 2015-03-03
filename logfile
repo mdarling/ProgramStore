@@ -1,0 +1,37 @@
+LOG:  database system was shut down at 2015-02-21 17:38:18 MST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  column "instiutional_entitiy_id" does not exist
+STATEMENT:  CREATE  INDEX  "ap_ie_index" ON "academic_programs_institutional_entities"  ("academic_program_id", "instiutional_entitiy_id")
+ERROR:  column "instiutional_entitiy_id" does not exist
+STATEMENT:  CREATE  INDEX  "ap_ie_index" ON "academic_programs_institutional_entities"  ("academic_program_id", "instiutional_entitiy_id")
+ERROR:  column "institutional_entitiy_id" does not exist
+STATEMENT:  CREATE  INDEX  "ap_ie_index" ON "academic_programs_institutional_entities"  ("academic_program_id", "institutional_entitiy_id")
+ERROR:  column "institutional_entitiy_id" does not exist
+STATEMENT:  CREATE  INDEX  "ap_ie_index" ON "academic_programs_institutional_entities"  ("academic_program_id", "institutional_entitiy_id")
+LOG:  autovacuum launcher shutting down
+LOG:  received smart shutdown request
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2015-02-26 07:41:04 MST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  lock file "postmaster.pid" already exists
+HINT:  Is another postmaster (PID 2451) running in data directory "/usr/local/var/postgres-4.1"?
+ERROR:  relation "institutional_entities" already exists
+STATEMENT:  CREATE TABLE "institutional_entities" ("id" serial primary key, "parent_entity_id" integer, "type" character varying(255), "level" integer, "acronym" character varying(255), "grad_programs" boolean, "name" character varying(255), "org_code" character varying(255), "undergrad_programs" boolean, "url" character varying(255), "created_at" timestamp, "updated_at" timestamp) 
+FATAL:  database "ProgramStore_development" does not exist
+ERROR:  relation "academic_programs_institutional_entities" already exists
+STATEMENT:  CREATE TABLE "academic_programs_institutional_entities" ("academic_program_id" integer NOT NULL, "institutional_entity_id" integer NOT NULL) 
+ERROR:  relation "academic_programs_institutional_entities" already exists
+STATEMENT:  CREATE TABLE "academic_programs_institutional_entities" ("academic_program_id" integer NOT NULL, "institutional_entity_id" integer NOT NULL) 
+FATAL:  database "ProgramStore_development" does not exist
+ERROR:  relation "meta_requirements" already exists
+STATEMENT:  CREATE TABLE "meta_requirements" ("id" serial primary key, "institutional_entity_id" integer, "description" character varying(255), "value" character varying(255), "created_at" timestamp, "updated_at" timestamp) 
+LOG:  autovacuum launcher shutting down
+LOG:  received smart shutdown request
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2015-02-28 18:50:04 MST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started

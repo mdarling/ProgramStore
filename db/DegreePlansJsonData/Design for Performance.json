@@ -1,0 +1,801 @@
+{
+  "name": "Design for Performance",
+  "college": "College of Fine Arts",
+  "dept": "Theatre & Dance",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BA",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            }
+          ]
+        },
+        {
+          "name": "MATH",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 105: Theatre Appreciation",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 105",
+              "title": "Theatre Appreciation"
+            }
+          ]
+        },
+        {
+          "name": "THEA 192 OR THEA 194 OR THEA 196",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 192",
+              "title": "Stagecraft I"
+            },
+            {
+              "number": "THEA 194",
+              "title": "Introduction to Costuming"
+            },
+            {
+              "number": "THEA 196",
+              "title": "Introduction to Stage Lighting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social and Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 192 OR THEA 194 OR THEA 196",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 192",
+              "title": "Stagecraft I"
+            },
+            {
+              "number": "THEA 194",
+              "title": "Introduction to Costuming"
+            },
+            {
+              "number": "THEA 196",
+              "title": "Introduction to Stage Lighting"
+            }
+          ]
+        },
+        {
+          "name": "THEA 130: Acting I",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ARTH 101 OR ARTH 201 OR ARTH 202",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 101",
+              "title": "Introduction To Art"
+            },
+            {
+              "number": "ARTH 201",
+              "title": "History of Art I"
+            },
+            {
+              "number": "ARTH 202",
+              "title": "History of Art II"
+            }
+          ]
+        },
+        {
+          "name": "THEA 192 OR THEA 194 OR THEA 196",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 192",
+              "title": "Stagecraft I"
+            },
+            {
+              "number": "THEA 194",
+              "title": "Introduction to Costuming"
+            },
+            {
+              "number": "THEA 196",
+              "title": "Introduction to Stage Lighting"
+            }
+          ]
+        },
+        {
+          "name": "THEA 292: Rendering for Stage, Screen, and New Media",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 292",
+              "title": "Design Drawing Skils"
+            }
+          ]
+        },
+        {
+          "name": "THEA 345: Theatre History I",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 345",
+              "title": "Theatre History I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ARTH 101 OR ARTH 201 OR ARTH 202",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ARTH 101",
+              "title": "Introduction To Art"
+            },
+            {
+              "number": "ARTH 201",
+              "title": "History of Art I"
+            },
+            {
+              "number": "ARTH 202",
+              "title": "History of Art II"
+            }
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 346: Theatre History II",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 366 OR THEA 367 OR THEA 396",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 366",
+              "title": "Stage Management"
+            },
+            {
+              "number": "THEA 367",
+              "title": "Stage Mgmt Production Lab"
+            },
+            {
+              "number": "THEA 396",
+              "title": "Lighting Design I"
+            }
+          ]
+        },
+        {
+          "name": "THEA 370: 2-D CAD and 3-D Viz",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 482 OR THEA 488 OR THEA 496",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 482",
+              "title": "Scene Design Project"
+            },
+            {
+              "number": "THEA 488",
+              "title": "Lighting Design Project"
+            },
+            {
+              "number": "THEA 496",
+              "title": "Student Production Project"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 219 OR ENGL 220 OR CJ 130 OR PHIL 156",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            },
+            {
+              "number": "ENGL 220",
+              "title": "Expository Writing"
+            },
+            {
+              "number": "CJ 130",
+              "title": "Public Speaking"
+            },
+            {
+              "number": "PHIL 156",
+              "title": "Reasoning & Critical Thinking"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behaviorial Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 2,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 387: Design History and Styles for Performance and New Media [Design History and Styles]",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 387",
+              "title": "Design History & Styles"
+            }
+          ]
+        },
+        {
+          "name": "THEA 392: Introduction to Scenic Design for Performance and New Media",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 392",
+              "title": "Scene Design I: Concept"
+            }
+          ]
+        },
+        {
+          "name": "THEA 394: Costume Design for Performance and New Media [Costume Design I]",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 394",
+              "title": "Costume Design I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Physical and Natural Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ENGL 352: Early Shakespeare OR ENGL 353: Later Shakespeare",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 352",
+              "title": "Early Shakespeare"
+            },
+            {
+              "number": "ENGL 353",
+              "title": "Later Shakespeare"
+            }
+          ]
+        },
+        {
+          "name": "THEA 366 OR THEA 367 OR THEA 396",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 366",
+              "title": "Stage Management"
+            },
+            {
+              "number": "THEA 367",
+              "title": "Stage Mgmt Production Lab"
+            },
+            {
+              "number": "THEA 396",
+              "title": "Lighting Design I"
+            }
+          ]
+        },
+        {
+          "name": "THEA Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 290",
+              "title": "Stagecraft II"
+            },
+            {
+              "number": "THEA 296",
+              "title": "Light Meth & Equip"
+            },
+            {
+              "number": "THEA 304",
+              "title": "Make-Up Design"
+            },
+            {
+              "number": "THEA 314",
+              "title": "Pattern Development"
+            },
+            {
+              "number": "THEA 334",
+              "title": "The Decorated Body"
+            },
+            {
+              "number": "THEA 371",
+              "title": "Digital Image & Prod"
+            },
+            {
+              "number": "THEA 390",
+              "title": "Scenic Painting"
+            },
+            {
+              "number": "THEA 397",
+              "title": "Sound for Performance"
+            },
+            {
+              "number": "THEA 398",
+              "title": "Costume Techniques"
+            },
+            {
+              "number": "THEA 399",
+              "title": "Sp Prob Thea & Production"
+            },
+            {
+              "number": "THEA 470",
+              "title": "Arch Mod Vis & Pres"
+            },
+            {
+              "number": "THEA 471",
+              "title": "Multi-Media Production"
+            },
+            {
+              "number": "THEA 473",
+              "title": "Interact Des & Techn"
+            },
+            {
+              "number": "THEA 475",
+              "title": "T: Comput for Design"
+            },
+            {
+              "number": "THEA 483",
+              "title": "Lighting Design II"
+            },
+            {
+              "number": "THEA 391",
+              "title": "Advanced Scenic Techniques"
+            },
+            {
+              "number": "THEA 494",
+              "title": "Costume Design II"
+            },
+            {
+              "number": "THEA 491",
+              "title": "Prof Apprenticeship"
+            },
+            {
+              "number": "THEA 492",
+              "title": "Scene Design II: Theatre"
+            },
+            {
+              "number": "THEA 493",
+              "title": "Art Direction TV Film"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA 403: Directing I",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 403",
+              "title": "Principles of Directing"
+            }
+          ]
+        },
+        {
+          "name": "THEA 498: Design Seminar",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 498",
+              "title": "Design Seminar"
+            }
+          ]
+        },
+        {
+          "name": "DANC 462 OR DANC 463 OR DANC 464",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "DANC 462",
+              "title": "Dance History I"
+            },
+            {
+              "number": "DANC 463",
+              "title": "Dance History II"
+            },
+            {
+              "number": "DANC 464",
+              "title": "Dance History III"
+            }
+          ]
+        },
+        {
+          "name": "THEA Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "THEA 290",
+              "title": "Stagecraft II"
+            },
+            {
+              "number": "THEA 296",
+              "title": "Light Meth & Equip"
+            },
+            {
+              "number": "THEA 304",
+              "title": "Make-Up Design"
+            },
+            {
+              "number": "THEA 314",
+              "title": "Pattern Development"
+            },
+            {
+              "number": "THEA 334",
+              "title": "The Decorated Body"
+            },
+            {
+              "number": "THEA 371",
+              "title": "Digital Image & Prod"
+            },
+            {
+              "number": "THEA 390",
+              "title": "Scenic Painting"
+            },
+            {
+              "number": "THEA 397",
+              "title": "Sound for Performance"
+            },
+            {
+              "number": "THEA 398",
+              "title": "Costume Techniques"
+            },
+            {
+              "number": "THEA 399",
+              "title": "Sp Prob Thea & Production"
+            },
+            {
+              "number": "THEA 470",
+              "title": "Arch Mod Vis & Pres"
+            },
+            {
+              "number": "THEA 471",
+              "title": "Multi-Media Production"
+            },
+            {
+              "number": "THEA 473",
+              "title": "Interact Des & Techn"
+            },
+            {
+              "number": "THEA 475",
+              "title": "T: Comput for Design"
+            },
+            {
+              "number": "THEA 483",
+              "title": "Lighting Design II"
+            },
+            {
+              "number": "THEA 391",
+              "title": "Advanced Scenic Techniques"
+            },
+            {
+              "number": "THEA 494",
+              "title": "Costume Design II"
+            },
+            {
+              "number": "THEA 491",
+              "title": "Prof Apprenticeship"
+            },
+            {
+              "number": "THEA 492",
+              "title": "Scene Design II: Theatre"
+            },
+            {
+              "number": "THEA 493",
+              "title": "Art Direction TV Film"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Elective in Any Field",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 9,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Elective Outside the Major Department",
+          "crucial": false,
+          "min_grade": "D-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "THEA Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 6,
+          "courses": [
+            {
+              "number": "THEA 290",
+              "title": "Stagecraft II"
+            },
+            {
+              "number": "THEA 296",
+              "title": "Light Meth & Equip"
+            },
+            {
+              "number": "THEA 304",
+              "title": "Make-Up Design"
+            },
+            {
+              "number": "THEA 314",
+              "title": "Pattern Development"
+            },
+            {
+              "number": "THEA 334",
+              "title": "The Decorated Body"
+            },
+            {
+              "number": "THEA 371",
+              "title": "Digital Image & Prod"
+            },
+            {
+              "number": "THEA 390",
+              "title": "Scenic Painting"
+            },
+            {
+              "number": "THEA 397",
+              "title": "Sound for Performance"
+            },
+            {
+              "number": "THEA 398",
+              "title": "Costume Techniques"
+            },
+            {
+              "number": "THEA 399",
+              "title": "Sp Prob Thea & Production"
+            },
+            {
+              "number": "THEA 470",
+              "title": "Arch Mod Vis & Pres"
+            },
+            {
+              "number": "THEA 471",
+              "title": "Multi-Media Production"
+            },
+            {
+              "number": "THEA 473",
+              "title": "Interact Des & Techn"
+            },
+            {
+              "number": "THEA 475",
+              "title": "T: Comput for Design"
+            },
+            {
+              "number": "THEA 483",
+              "title": "Lighting Design II"
+            },
+            {
+              "number": "THEA 391",
+              "title": "Advanced Scenic Techniques"
+            },
+            {
+              "number": "THEA 494",
+              "title": "Costume Design II"
+            },
+            {
+              "number": "THEA 491",
+              "title": "Prof Apprenticeship"
+            },
+            {
+              "number": "THEA 492",
+              "title": "Scene Design II: Theatre"
+            },
+            {
+              "number": "THEA 493",
+              "title": "Art Direction TV Film"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

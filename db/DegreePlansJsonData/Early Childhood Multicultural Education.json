@@ -1,0 +1,576 @@
+{
+  "name": "Early Childhood Multicultural Education",
+  "college": "College of Education",
+  "dept": "Individual, Family, and Community Education",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 111: Mathematics for Elementary and Middle School Teachers I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 111",
+              "title": "Math El Sch Tchr I"
+            }
+          ]
+        },
+        {
+          "name": "HIST 101: Western Civilization to 1648 or HIST 102: Western Civilization Post 1648",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 101",
+              "title": "Western Civilization to 1648"
+            },
+            {
+              "number": "HIST 102",
+              "title": "Western Civilization post 1648"
+            }
+          ]
+        },
+        {
+          "name": "ECME 101: Child Growth Development and Learning",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 101",
+              "title": "Child Growth Dev & Learning"
+            }
+          ]
+        },
+        {
+          "name": "ECME 103: Health Safety and Nutrition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ECME 103",
+              "title": "Health Safety & Nutrition"
+            }
+          ]
+        },
+        {
+          "name": "Social or Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            },
+            {
+              "number": "SOC 101",
+              "title": "Introduction to Sociology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 112: Mathematics for Elementary and Middle School Teachers II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 112",
+              "title": "Math El Sch Tchr II"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "HIST 161: History of the United States to 1877 or HIST 162: History of the United States Since 1877",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 161",
+              "title": "US History to 1877"
+            },
+            {
+              "number": "HIST 162",
+              "title": "US History since 1877"
+            }
+          ]
+        },
+        {
+          "name": "ECME 111: Family and Community Collaboration I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 111",
+              "title": "Family & Comm Collab"
+            }
+          ]
+        },
+        {
+          "name": "ECME 115: Guiding Young Children",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 115",
+              "title": "Guiding Young Children"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NTSC 261L: Physical Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NTSC 261L",
+              "title": "Physical Science"
+            }
+          ]
+        },
+        {
+          "name": "HIST 260: History of New Mexico",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "HIST 260",
+              "title": "History of New Mexico"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 290: Introduction to Professional Writing OR LING 101: Introduction to the Study of Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "LING 101",
+              "title": "Intro to the Study of Language"
+            },
+            {
+              "number": "ENGL 290",
+              "title": "Intro to Professional Writing"
+            }
+          ]
+        },
+        {
+          "name": "ECME 117: Curriculum and Implementation I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 117",
+              "title": "Curriculum Dev Implement I"
+            }
+          ]
+        },
+        {
+          "name": "ECME 117L: Curriculum and Implementation Practicum I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ECME 117L",
+              "title": "Curr Dev Implement Practicum I"
+            }
+          ]
+        },
+        {
+          "name": "ECME 220: Assessment of Children and Evaluation of Programs I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 220",
+              "title": "Assess Child Eval Program I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NTSC 262L: Life Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NTSC 262L",
+              "title": "Life Science"
+            }
+          ]
+        },
+        {
+          "name": "History Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECME 217: Curriculum and Implementation II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 217",
+              "title": "Curriculum Dev Implement II"
+            }
+          ]
+        },
+        {
+          "name": "ECME 217L: Curriculum and Implementation Practicum II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ECME 217L",
+              "title": "Curr Dev Implement Pract II"
+            }
+          ]
+        },
+        {
+          "name": "ECME 202: Introduction to Reading and Literacy Development",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 202",
+              "title": "Intro Reading & Literacy Dev"
+            }
+          ]
+        },
+        {
+          "name": "MATH 215 OR MATH 129 OR STAT 145",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 129",
+              "title": "Survey of Math"
+            },
+            {
+              "number": "MATH 215",
+              "title": "Math Elem-Mid School Teachers"
+            },
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CJ 220: Communication for Teachers",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CJ 220",
+              "title": "Communication for Teachers"
+            }
+          ]
+        },
+        {
+          "name": "NTSC 263L: Environmental Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NTSC 263L",
+              "title": "Environmental Science"
+            }
+          ]
+        },
+        {
+          "name": "Social or Behavioral Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECME 230: Professionalism",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ECME 230",
+              "title": "Professionalism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECME 305 OR ECME 315 OR ECME 325",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 305",
+              "title": "Res & Eval in Early Childhood"
+            },
+            {
+              "number": "ECME 315",
+              "title": "Pol Ldr Eth Rfm ECE"
+            },
+            {
+              "number": "ECME 325",
+              "title": "Soc Pol Cult Context"
+            }
+          ]
+        },
+        {
+          "name": "ECME 317: Integrated Early Childhood Curriculum",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 317",
+              "title": "Integ Early Childhood Curr"
+            }
+          ]
+        },
+        {
+          "name": "ECME 317L: Integrated Early Childhood Curriculum Practicum",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ECME 317L",
+              "title": "Integ Early Ch Curr Prac"
+            }
+          ]
+        },
+        {
+          "name": "ECME 401: Research in Child Growth Development and Learning",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 401",
+              "title": "Research Ch Grth Dev & Lrng"
+            }
+          ]
+        },
+        {
+          "name": "Upper Division Elective (per program)",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECME 417: Methods and Materials for the Early Primary Grades",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 417",
+              "title": "Methods & Materials Primary"
+            }
+          ]
+        },
+        {
+          "name": "ECME 417L: Methods and Materials for the Early Primary Grades Practicum",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ECME 417L",
+              "title": "Methods & Materials Practicum"
+            }
+          ]
+        },
+        {
+          "name": "ECME 402: Teaching Reading and Writing",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 402",
+              "title": "Teaching Reading and Writing"
+            }
+          ]
+        },
+        {
+          "name": "ECME 402L: Teaching Reading and Writing Practicum",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "ECME 402L",
+              "title": "Teach Read & Writ Lab"
+            }
+          ]
+        },
+        {
+          "name": "ECME 311: Family and Community Collaboration II",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "ECME 311",
+              "title": "Fam & Comm Collaboration II"
+            }
+          ]
+        },
+        {
+          "name": "ECME 320: Assessment of Childhood and Evaluation of Programs II",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 320",
+              "title": "Assess Children & Prog Eval II"
+            }
+          ]
+        },
+        {
+          "name": "ECME 305 OR ECME 315 OR ECME 325",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECME 305",
+              "title": "Res & Eval in Early Childhood"
+            },
+            {
+              "number": "ECME 315",
+              "title": "Pol Ldr Eth Rfm ECE"
+            },
+            {
+              "number": "ECME 325",
+              "title": "Soc Pol Cult Context"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECME 440L: Student Teaching in Early Childhood Education",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 12,
+          "courses": [
+            {
+              "number": "ECME 440L",
+              "title": "Student Teach Early Edu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

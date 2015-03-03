@@ -1,0 +1,565 @@
+{
+  "name": "Nuclear Engineering",
+  "college": "School of Engineering",
+  "dept": "Nuclear Engineering",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual coursework only.  Students must maintain a minimum of a 2.0 cumulative grade point average for admission to and graduation from the College of Arts and Sciences.  Minimums listed for the individual courses do NOT meet the cumulative minimum."
+    },
+    {
+      "note": ""
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Compositions",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 162: Calculus I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 162",
+              "title": "Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "NE 101: Introduction to Chemical Engineering and Nuclear Engineering",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NE 101",
+              "title": "Introduction to NE"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 163: Calculus II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 163",
+              "title": "Calculus II"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 160: General Physics I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "CS 151L: Computer Programming Fundamentals",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 122: General Chemistry II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 124L: General Chemistry II Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NE 230: Principles of Radiation Protection",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 230",
+              "title": "Princ Radiation Protection"
+            }
+          ]
+        },
+        {
+          "name": "ECON 105: Macroeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            }
+          ]
+        },
+        {
+          "name": "MATH 264: Calculus III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 264",
+              "title": "Calculus III"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 161: General Physics II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 219: Technical Writing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NE 231: Principles of Nuclear Engineering",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 231",
+              "title": "Princ of Nuclear Engineering"
+            }
+          ]
+        },
+        {
+          "name": "NE 213: Laboratory Electronics for Chemical and Nuclear Engineers",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 213",
+              "title": "Lab Electronics for NEs"
+            }
+          ]
+        },
+        {
+          "name": "NE 372: Nuclear Materials Engineering",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "NE 372",
+              "title": "Nuclear Materials Engineering"
+            }
+          ]
+        },
+        {
+          "name": "NE 314: Thermodynamics and Nuclear Systems",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 314",
+              "title": "Nuclear Systems"
+            }
+          ]
+        },
+        {
+          "name": "MATH 316: Differential Equations",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 316",
+              "title": "Applied Ordinary Diff Equas"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 262: General Physics III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 262",
+              "title": "General Physics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NE 311: Introduction to Transport Phenomena",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NE 311",
+              "title": "Intro Transport Phenomena"
+            }
+          ]
+        },
+        {
+          "name": "NE 317: Chemical and Nuclear Engineering Analysis",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 317",
+              "title": "NE Analysis"
+            }
+          ]
+        },
+        {
+          "name": "NE 323L: Radiation Detection and Measurement",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 323L",
+              "title": "Radiation Detection Measuremnt"
+            }
+          ]
+        },
+        {
+          "name": "Social/Behavioral Core",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CE 202: Engineering Statics",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CE 202",
+              "title": "Engineering Statics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NE 312: Unit Operations",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 312",
+              "title": "Unit Operations"
+            }
+          ]
+        },
+        {
+          "name": "NE 313L: Introduction to Laboratory Techniques",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 313L",
+              "title": "Intro Lab Techniques for NE"
+            }
+          ]
+        },
+        {
+          "name": "NE 310: Neutron Diffusion",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 310",
+              "title": "Neutron Diffusion Theory"
+            }
+          ]
+        },
+        {
+          "name": "NE 330: Nuclear Engineering Science",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "NE 330",
+              "title": "Nuclear Engr Science"
+            }
+          ]
+        },
+        {
+          "name": "Technical Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language Core",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NE 410: Nuclear Reactor Theory I",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 410",
+              "title": "Nuclear Reactor Theory I"
+            }
+          ]
+        },
+        {
+          "name": "NE 464: Thermal Hydraulics of System",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 464",
+              "title": "Thermal-Hydraulic Nuclear Systems"
+            }
+          ]
+        },
+        {
+          "name": "NE 497L: Introduction to Nuclear Engineering Design",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 497L",
+              "title": "Intro NE Design Lab"
+            }
+          ]
+        },
+        {
+          "name": "NE 462: Monte Carlo Techniques",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 462",
+              "title": "Monte Carlo Techniques for Nuclear Systems"
+            }
+          ]
+        },
+        {
+          "name": "Technical Elective",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities Core",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NE 413L: Nuclear Engineering Lab",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 413L",
+              "title": "Nuclear Engr Lab I"
+            }
+          ]
+        },
+        {
+          "name": "NE 452: Senior Seminar",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NE 452",
+              "title": "Senior Seminar"
+            }
+          ]
+        },
+        {
+          "name": "NE 498L: Nuclear Engineering Design",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NE 498L",
+              "title": "Nuclear Engr Design"
+            }
+          ]
+        },
+        {
+          "name": "Nuclear Engineering Technical Elective",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NE 470: Nuclear Fuel Cycle and Materials",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NE 470",
+              "title": "Nuclear Fuel Cycle & Materials"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts Core",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

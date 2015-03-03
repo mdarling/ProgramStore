@@ -1,0 +1,667 @@
+{
+  "name": "Computer Science",
+  "college": "School of Engineering",
+  "dept": "Computer Science",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Minimum graduation GPA : 2.00. Keep in mind that minimum grades on road map are for individual coursework only. Students must maintain a minimum of a 2.0 cumulative GPA for admisssion to and graduation from the College of Art & Science."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 162: Calculus I",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 162",
+              "title": "Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "CS 152L: Computer Programming Fundamentals",
+          "crucial": true,
+          "min_grade": "B-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 152L",
+              "title": "Comp Program Fund CS Major"
+            }
+          ]
+        },
+        {
+          "name": "Lab Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "EPS 101",
+              "title": "Intro Geology How Earth Works"
+            },
+            {
+              "number": "EPS 105L",
+              "title": "Physical Geology Lab"
+            },
+            {
+              "number": "EPS 201L",
+              "title": "Earth History Lab"
+            },
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            },
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            },
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            },
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            },
+            {
+              "number": "ASTR 270",
+              "title": "General Astronomy"
+            },
+            {
+              "number": "ASTR 270L",
+              "title": "Gen Astronomy Lab I"
+            },
+            {
+              "number": "ASTR 271",
+              "title": "General Astronomy"
+            },
+            {
+              "number": "ASTR 271L",
+              "title": "Gen Astronomy Lab II"
+            },
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 160L",
+              "title": "General Physics Lab"
+            },
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 163: Calculus II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 163",
+              "title": "Calculus II"
+            }
+          ]
+        },
+        {
+          "name": "CS 251L: Data Organization",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 251L",
+              "title": "Intermediate Programming"
+            }
+          ]
+        },
+        {
+          "name": "Lab Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "EPS 101",
+              "title": "Intro Geology How Earth Works"
+            },
+            {
+              "number": "EPS 105L",
+              "title": "Physical Geology Lab"
+            },
+            {
+              "number": "EPS 201L",
+              "title": "Earth History Lab"
+            },
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            },
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            },
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            },
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            },
+            {
+              "number": "ASTR 270",
+              "title": "General Astronomy"
+            },
+            {
+              "number": "ASTR 270L",
+              "title": "Gen Astronomy Lab I"
+            },
+            {
+              "number": "ASTR 271",
+              "title": "General Astronomy"
+            },
+            {
+              "number": "ASTR 271L",
+              "title": "Gen Astronomy Lab II"
+            },
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 160L",
+              "title": "General Physics Lab"
+            },
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "CS 261: Mathematical Foundations of Computer Science",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 261",
+              "title": "Math Foundations of CS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ECE 238L: Computer Logic Design",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ECE 238L",
+              "title": "Computer Logic Design"
+            }
+          ]
+        },
+        {
+          "name": "CS 241L: Data Organization",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 241L",
+              "title": "Data Organization"
+            }
+          ]
+        },
+        {
+          "name": "CS 293: Social and Ethical Issues in Computing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CS 293",
+              "title": "Soc & Ethical Issues in Comp"
+            }
+          ]
+        },
+        {
+          "name": "MATH 314: Linear Algebra with Applications or 321: Linear Algebra",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 314",
+              "title": "Linear Algebra with Apps"
+            },
+            {
+              "number": "MATH 321",
+              "title": "Linear Algebra"
+            }
+          ]
+        },
+        {
+          "name": "Lab Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EPS 101",
+              "title": "Intro Geology How Earth Works"
+            },
+            {
+              "number": "EPS 105L",
+              "title": "Physical Geology Lab"
+            },
+            {
+              "number": "EPS 201L",
+              "title": "Earth History Lab"
+            },
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            },
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            },
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            },
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            },
+            {
+              "number": "ASTR 270",
+              "title": "General Astronomy"
+            },
+            {
+              "number": "ASTR 270L",
+              "title": "Gen Astronomy Lab I"
+            },
+            {
+              "number": "ASTR 271",
+              "title": "General Astronomy"
+            },
+            {
+              "number": "ASTR 271L",
+              "title": "Gen Astronomy Lab II"
+            },
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 160L",
+              "title": "General Physics Lab"
+            },
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CS 351L: Design of Large Programs",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CS 351L",
+              "title": "Design of Large Programs"
+            }
+          ]
+        },
+        {
+          "name": "Lab Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "EPS 101",
+              "title": "Intro Geology How Earth Works"
+            },
+            {
+              "number": "EPS 105L",
+              "title": "Physical Geology Lab"
+            },
+            {
+              "number": "EPS 201L",
+              "title": "Earth History Lab"
+            },
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            },
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            },
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            },
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            },
+            {
+              "number": "ASTR 270",
+              "title": "General Astronomy"
+            },
+            {
+              "number": "ASTR 270L",
+              "title": "Gen Astronomy Lab I"
+            },
+            {
+              "number": "ASTR 271",
+              "title": "General Astronomy"
+            },
+            {
+              "number": "ASTR 271L",
+              "title": "Gen Astronomy Lab II"
+            },
+            {
+              "number": "PHYC 160",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 160L",
+              "title": "General Physics Lab"
+            },
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            },
+            {
+              "number": "PHYC 161L",
+              "title": "General Physics Lab"
+            }
+          ]
+        },
+        {
+          "name": "Writing and Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Social Science",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CS 375: Introduction to Numerical Computing",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 375",
+              "title": "Intro Numerical Computing"
+            }
+          ]
+        },
+        {
+          "name": "STAT 345:  Elements of Mathematical Statistics and Probability Theory",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CS 361L: Data Structures and Algorithms",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 361L",
+              "title": "Data Struct & Algorithms"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or General Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CS 357L: Declarative Programming",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 357L",
+              "title": "Declarative Programming"
+            }
+          ]
+        },
+        {
+          "name": "CS 362L: Data Structures and Algorithms II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CS Elective",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Second Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or General Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CS 341L: Introduction to Computer Architecture and Organization",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 341L",
+              "title": "Intro to Comp Arch & Org"
+            }
+          ]
+        },
+        {
+          "name": "CS Elective",
+          "crucial": false,
+          "min_grade": "B",
+          "credits": 6,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Minor or General Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 6,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CS 460: Software Engineering",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 460",
+              "title": "Software Engineering"
+            }
+          ]
+        },
+        {
+          "name": "CS 481: Computer Operating Systems",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 481",
+              "title": "Digital Comp Operating Sys"
+            }
+          ]
+        },
+        {
+          "name": "Minor or General Elective",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 9,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

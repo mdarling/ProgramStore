@@ -1,0 +1,492 @@
+{
+  "name": "Nursing",
+  "college": "College of Nursing",
+  "dept": "Nursing",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BSN",
+  "notes": [
+
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "BIOL 123: Biology for Health Related Sciences and Non-Majors and BIOL 124L: Biology for Health Related Sciences and Non-Majors Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            },
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "Humanities (Core Area 5)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "MATH 120 (as needed for MATH 145 and CHEM Prerequisite)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CHEM 111L: Elements of General Chemistry",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "CHEM 111L",
+              "title": "Elem Gen Chem Lab-D"
+            }
+          ]
+        },
+        {
+          "name": "STAT 145: Introduction to Probability and Statistics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "STAT 145",
+              "title": "Intro To Statistics"
+            }
+          ]
+        },
+        {
+          "name": "NUTR 244: Human Nutrition",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUTR 244",
+              "title": "Human Nutrition"
+            }
+          ]
+        },
+        {
+          "name": "NURS 224: Application of Growth and Development to Health Care",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 224",
+              "title": "Appl of Cncpts of G&D to Hlth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 239L: Microbiology for Health Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 239L",
+              "title": "Microbio Health Sciences Lab"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences (Lab recommended not required)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "NURS 239: Pathophysiology I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 239",
+              "title": "Pathophysiology I"
+            }
+          ]
+        },
+        {
+          "name": "Social and Behavioral Sciences",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NURS 240: Pathophysiology II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 240",
+              "title": "Pathophysiology II"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 238: Human Anatomy and Physiology II for the Health Sciences (Lab recommended not required)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 238",
+              "title": "Hum Anat & Physio II Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "NURS 201: Introduction to Nursing Concepts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 201",
+              "title": "Health Assessment"
+            }
+          ]
+        },
+        {
+          "name": "NURS 220L: Principles of Nursing Practice",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NURS 220L",
+              "title": "Principles of Nursing Practice"
+            }
+          ]
+        },
+        {
+          "name": "NURS 332: Evidence-Based Practice [Introduction to Nursing and Evidence-Based Practice]",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 332",
+              "title": "Intro Nurs Res & Evi Base Prac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NURS 238: Pharmacology in Nursing and the Health Professions",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 238",
+              "title": "Pharm in Nurs & Hlth Prof"
+            }
+          ]
+        },
+        {
+          "name": "NURS 351: Health and Illness Concepts I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 351",
+              "title": "Health & Illness Concepts I"
+            }
+          ]
+        },
+        {
+          "name": "NURS 303: Health Care Participant",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 303",
+              "title": "Health Care Participant"
+            }
+          ]
+        },
+        {
+          "name": "NURS 321L: Assessment and Health Promotion",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NURS 321L",
+              "title": "Assessment & Health Promotion"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "Nursing Elective or NURS 498: Honors Study in Nursing I (if term_items are met)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 498",
+              "title": "Honors Study Nursing"
+            }
+          ]
+        },
+        {
+          "name": "NURS 352: Health & Illness Concepts II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 352",
+              "title": "Health & Illness Concepts II"
+            }
+          ]
+        },
+        {
+          "name": "NURS 390: Professional Nursing Concepts I",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 390",
+              "title": "Prof Nursing Concepts I"
+            }
+          ]
+        },
+        {
+          "name": "NURS 322L: Care of Patients with Chronic Conditions",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NURS 322L",
+              "title": "Care of Patients: Chronic Cond"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NURS 401L: Clinical Intensive I with seminar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NURS 402L: Clinical Intensive II with seminar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NURS 453: Health & Illness Concepts III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NURS 453",
+              "title": "Health & Illness Concepts III"
+            }
+          ]
+        },
+        {
+          "name": "Writing/Speaking",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Nursing Honors NURS 499: Honors Study in Nursing II (if applicable)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "NURS 499",
+              "title": "Honors Study Nsg II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NURS 403L: Clinical Intensive III with seminar",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "NURS 419L: Capstone Clinical",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NURS 419L",
+              "title": "Capstone Clinical"
+            }
+          ]
+        },
+        {
+          "name": "NURS 454L: Nursing Synthesis",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 454L",
+              "title": "Nursing Synthesis"
+            }
+          ]
+        },
+        {
+          "name": "NURS 491: Professional Nursing Concepts II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 491",
+              "title": "Prof Nursing Concepts II"
+            }
+          ]
+        },
+        {
+          "name": "Nursing Honors NURS 499: Honors Study in Nursing II (if applicable)",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NURS 499",
+              "title": "Honors Study Nsg II"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

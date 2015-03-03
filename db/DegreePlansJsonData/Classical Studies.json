@@ -1,0 +1,422 @@
+{
+  "name": "Classical Studies",
+  "type": "UndergradProgram",
+  "degree": "BA",
+  "program_description": "<pWhether you dream of reading Homer and Vergil in the original or want to understand how ancient Greece and Rome continue to exert a powerful influence upon contemporary culture, Classical Studies offers a comprehensive program of classical languages, cultures and traditions with several options to choose from.</p<pThe major in Classical Studies has two concentrations: students who wish to engage in a variety of approaches and disciplines (such as History, Art History, Philosophy, and Religious Studies) choose the Civilization Concentration, while students whose main focus is to read classical works in the original Greek and Latin choose the Language Concentration.</p<pThere are also minors in Classical Studies, Greek, and Latin.&nbsp;\n\t\t\n\t</p",
+  "degree_term_items": [
+    {
+      "name": "LATN 101: Elementary Latin I or GREK 101: Elementary Greek I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Freshman Academic Choice",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 102: Elementary Latin II or GREK 102: Elementary Greek II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 201: Intermediate Latin I or GREK 201: Intermediate Greek I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 101: Elementary Latin I or GREK 101: Elementary Greek I (Depending on Latin or Greek Concentration)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CJ 130 or PHIL 156 or ENGL 219 or ENGL 220",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 202: Intermediate Latin II or GREK 202: Intermediate Greek II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 102: Elementary Latin II or GREK 102: Elementary Greek II (Depending on Latin or Greek Concentration)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Classical Studies Course (CLST) above 200 level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 303: Advanced Latin I or GREK 301: Advanced Greek I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 201: Intermediate Latin I or GREK 201: Intermediate Greek I (Depending on Latin or Greek Concentration)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 304: Advanced Latin II or GREK 302: Advanced Greek II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 202: Intermediate Latin II or GREK 202: Intermediate Greek II (Depending on Latin or Greek Concentration)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 303: Advanced Latin I or GREK 301: Advanced Greek I (Depending on Latin or Greek Concentration)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Approved elective for major",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Classical Studies Course above 200 level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 101: Elementary Latin I or GREK 101: Elementary Greek I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Freshman Academic Choice",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "MATH",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Humanities",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 102: Elementary Latin II or GREK 102: Elementary Greek II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "ENGL 120: Composition III",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 201: Intermediate Latin I or GREK 201: Intermediate Greek I",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Art History course (ARTH) above 200 level and must include the ancient world",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Social Behavioral Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CJ 130 or PHIL 156 or ENGL 219 or ENGL 220",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "LATN 202: Intermediate Latin II or GREK 202: Intermediate Greek II",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CLST 204: Greek Civilization or CLST 205: Roman Civilization",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Physical and Natural Science",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "CLST 333: Topics in Latin Literature and Culture in Translation or CLST 334: Topics in Greek Literature and Culture in Translation",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Major Elective Course (See list in catalog)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Fine Arts",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Major Elective Course (See list in catalog)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Major Elective Course (See list in catalog)",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Classical Studies Course (CLST) above 200 level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Classical Studies Course (CLST) above 200 level",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "Minor or 2nd Major Requirement",
+      "prerequisites": [
+
+      ]
+    },
+    {
+      "name": "2nd Major or Upper Division Elective",
+      "prerequisites": [
+
+      ]
+    }
+  ]
+}

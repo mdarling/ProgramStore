@@ -1,0 +1,29 @@
+<h1>Listing meta_requirements</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Institutional entity</th>
+      <th>Description</th>
+      <th>Value</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @meta_requirements.each do |meta_requirement| %>
+      <tr>
+        <td><%= meta_requirement.institutional_entity_id %></td>
+        <td><%= meta_requirement.description %></td>
+        <td><%= meta_requirement.value %></td>
+        <td><%= link_to 'Show', meta_requirement %></td>
+        <td><%= link_to 'Edit', edit_meta_requirement_path(meta_requirement) %></td>
+        <td><%= link_to 'Destroy', meta_requirement, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Meta requirement', new_meta_requirement_path %>

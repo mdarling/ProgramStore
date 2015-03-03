@@ -1,0 +1,537 @@
+{
+  "name": "Mechanical Engineering",
+  "college": "School of Engineering",
+  "dept": "Mechanical Engineering",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "In order to be admitted into the Department of Mechanical Engineering the student must attain an overall GPA of 2.75 in the following courses: MATH 162, MATH 163, ME 160L, PHYS 160, ENGL 110, CHEM 121, CHEM 123L, CHEM 122, and CHEM 124L"
+    },
+    {
+      "note": "** This degree option is for students that choose to obtain their BS in Mechanical Engineering through the FSAE option. The last 3 semesters of this curriculum change as seen above. If a student chooses to obtain his degree with this option he has consult his advisor at the beginning of his junior academic year."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Compositions",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 162: Calculus I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 162",
+              "title": "Calculus I"
+            }
+          ]
+        },
+        {
+          "name": "CS 151L: Computer Programming Fundamentals for Non-Majors",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 151L",
+              "title": "Programming Fund Nonmajors"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Lab",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities Core Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 163: Calculus II",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 163",
+              "title": "Calculus II"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 160: General Physics I",
+          "crucial": true,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ME 160L: Mechanical Engineering Design I",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 160L",
+              "title": "Mech Engr Design I"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 122: General Chemistry II",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 124L: General Chemistry II Lab",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "CE 202: Engineering Statics",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CE 202",
+              "title": "Engineering Statics"
+            }
+          ]
+        },
+        {
+          "name": "ME 260L: Mechanical Engineering Design II",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 260L",
+              "title": "Mech Engr Design II"
+            }
+          ]
+        },
+        {
+          "name": "MATH 264: Calculus III",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "MATH 264",
+              "title": "Calculus III"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 161: General Physics II",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 161",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "ME 217: Energy, Environment and Society",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 217",
+              "title": "Energy Environment & Society"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ME 306: Dynamics",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 306",
+              "title": "Dynamics"
+            }
+          ]
+        },
+        {
+          "name": "MATH 316: Applied Ordinary Differential Equations",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 316",
+              "title": "Applied Ordinary Diff Equas"
+            }
+          ]
+        },
+        {
+          "name": "ECE 203: Circuit Analysis I",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECE 203",
+              "title": "Circuit Analysis I"
+            }
+          ]
+        },
+        {
+          "name": "ME 318L: Mechanical Engineering Laboratory",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ME 318L",
+              "title": "Mechanical Eng Laboratory"
+            }
+          ]
+        },
+        {
+          "name": "Writing and Speaking Core Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ME 317L: Fluid Mechanics Lab",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ME 317L",
+              "title": "Fluid Mechanics"
+            }
+          ]
+        },
+        {
+          "name": "ME 301: Thermodynamics",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 301",
+              "title": "Thermodynamics"
+            }
+          ]
+        },
+        {
+          "name": "CE 302: Mechanics of Materials",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CE 302",
+              "title": "Mechanics of Materials"
+            }
+          ]
+        },
+        {
+          "name": "Math Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ECON 105: Macroeconomics",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ME 302: Applied Thermodynamics or ME 314: Design of Machinery",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 302",
+              "title": "Applied Thermodyn"
+            },
+            {
+              "number": "ME 314",
+              "title": "Design of Machinery"
+            }
+          ]
+        },
+        {
+          "name": "ME 360L: Mechanical Engineering Design III",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 360L",
+              "title": "Mech Engr Design III"
+            }
+          ]
+        },
+        {
+          "name": "ME 357: Introduction to Mechanical Vibrations",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 357",
+              "title": "Intro Mech Vibration"
+            }
+          ]
+        },
+        {
+          "name": "ME 352L: Materials Laboratory",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "ME 352L",
+              "title": "Materials Lab"
+            }
+          ]
+        },
+        {
+          "name": "ME 370: Engineering Materials Science",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 370",
+              "title": "Engr Materials Sci"
+            }
+          ]
+        },
+        {
+          "name": "Second Language Core Course or ME 406L: Formula SAE Racecar Design **",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 406L",
+              "title": "FSAE Racecar Design"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ME 320L: Heat Transfer",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ME 320L",
+              "title": "Heat Transfer"
+            }
+          ]
+        },
+        {
+          "name": "ME 459: Mechanical Engineering Design IV",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 459",
+              "title": "Mech Engr Design IV"
+            }
+          ]
+        },
+        {
+          "name": "ME 380: Analysis and Design of Mechanical Control Systems",
+          "crucial": true,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 380",
+              "title": "Ana & Des Mch Con Sys"
+            }
+          ]
+        },
+        {
+          "name": "ME Technical Elective or ME 407: Formula SAE Racecar Fabrication Lab **",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ME 407",
+              "title": "FSAE Racecar Build"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts Core Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ME 460: Mechanical Engineering Design V or ME 408: Formula SAE Racecar Test Lab **",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "ME 408",
+              "title": "FSAE Racecar Test"
+            },
+            {
+              "number": "ME 460",
+              "title": "Mech Engr Design V"
+            }
+          ]
+        },
+        {
+          "name": "Technical Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ME Technical Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "ME Technical Elective",
+          "crucial": false,
+          "min_grade": "C-",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "Humanities Core Course",
+          "crucial": false,
+          "min_grade": "C",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

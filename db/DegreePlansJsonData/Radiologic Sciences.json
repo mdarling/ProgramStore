@@ -1,0 +1,511 @@
+{
+  "name": "Radiologic Sciences",
+  "college": "School of Medicine",
+  "dept": "Radiology",
+  "degree_type": "4 Year Plan",
+  "degree_awarded": "BS",
+  "notes": [
+    {
+      "note": "Keep in mind that minimum grades on road map are for individual courswork only. \n  Students must maintain a minimum of a 2.0 cumulative GPA for admission and graduation from the College of Arts and Sciences."
+    }
+  ],
+  "terms": [
+    {
+      "term_items": [
+        {
+          "name": "ENGL 110: Accelerated Composition or ENGL 111: Composition I and ENGL 112: Composition II or ENGL 113: Enhanced Composition",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "MATH 150: Pre-Calculus Mathematics",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "MATH 150",
+              "title": "Pre-Calculus Math"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 123: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 123",
+              "title": "Bio for Health Related Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 124L: Biology for Health Related Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 124L",
+              "title": "Bio-Health Sci Lab"
+            }
+          ]
+        },
+        {
+          "name": "PSY 105: General Psychology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PSY 105",
+              "title": "General Psychology"
+            }
+          ]
+        },
+        {
+          "name": "ECON 105: Introductory Macroeconomics",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 105",
+              "title": "Introductory Macroeconomics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "ENGL 120: Composition III",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        },
+        {
+          "name": "CS 150L: Computing for Business Students",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CS 150L",
+              "title": "Computing for Bus Students"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 237: Human Anatomy and Physiology I for the Health Sciences",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 237",
+              "title": "Hum Anat & Physio I Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 247L: Human Anatomy and Physiology Laboratory I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 247L",
+              "title": "Anatomy & Physiology Lab I"
+            }
+          ]
+        },
+        {
+          "name": "PHIL 245: Professional Ethics",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHIL 245",
+              "title": "Professional Ethics"
+            }
+          ]
+        },
+        {
+          "name": "ECON 106: Introductory Microeconomics",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ECON 106",
+              "title": "Introductory Microeconomics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 238: Human Anatomy and Physiology II for the Health Sciences",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "BIOL 238",
+              "title": "Hum Anat & Physio II Hlth Sci"
+            }
+          ]
+        },
+        {
+          "name": "BIOL 248L: Human Anatomy and Physiology Laboratory II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "BIOL 248L",
+              "title": "Anatomy & Physiology Lab II"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 121: General Chemistry I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 121",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 123L: General Chemistry I Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 123L",
+              "title": "General Chemistry I Lab"
+            }
+          ]
+        },
+        {
+          "name": "PHYC 151: General Physics",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "PHYC 151",
+              "title": "General Physics"
+            }
+          ]
+        },
+        {
+          "name": "Free Elective (UNM core)",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "BIOL 239L: Microbiology for Health Sciences and Non-Majors",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "BIOL 239L",
+              "title": "Microbio Health Sciences Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 122: General Chemistry II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "CHEM 122",
+              "title": "General Chem with Lab"
+            }
+          ]
+        },
+        {
+          "name": "CHEM 124L: General Chemistry II Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "CHEM 124L",
+              "title": "General Chemistry II Lab"
+            }
+          ]
+        },
+        {
+          "name": "ENGL 219: Technical and Professional Writing",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "ENGL 219",
+              "title": "Tech & Professional Writing"
+            }
+          ]
+        },
+        {
+          "name": "Humanities/Fine Arts",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "RADS 381: Medical Language Systems Review",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "RADS 381",
+              "title": "Med Lang Systems Rev"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 315: Radiation Safety",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "NUCM 315",
+              "title": "Radiation Safety"
+            }
+          ]
+        },
+        {
+          "name": "RADS 330: Patient Care",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "RADS 330",
+              "title": "Patient Care"
+            }
+          ]
+        },
+        {
+          "name": "RADS 331: Patient Care Laboratory",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 1,
+          "courses": [
+            {
+              "number": "RADS 331",
+              "title": "Patient Care Lab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NUCM 320: Clinical Nuclear Technology I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NUCM 320",
+              "title": "Clin Nuclear Tech I"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 354: Clinical Radiopharmacy",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUCM 354",
+              "title": "Clin Radiopharmacy"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 375: Nuclear Physics and Instrumentation",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUCM 375",
+              "title": "Nucl Phys & Instru"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 360: Imaging Instrumentation I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUCM 360",
+              "title": "Imaging Instrument I"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 480",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NUCM 365: Clinical Nuclear Technology II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NUCM 365",
+              "title": "Clin Nuclear Tech II"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 385: Imaging Instrumentation II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUCM 385",
+              "title": "Imaging Instrumt II"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 390: In Vitro Nuclear Medicine",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "NUCM 390",
+              "title": "In Vitro Nucl Med"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 392: Pathology Seminar",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NUCM 392",
+              "title": "Pathology Seminar"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 396: Essentials of Nuclear Medicine Imaging I",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 3,
+          "courses": [
+            {
+              "number": "NUCM 396",
+              "title": "Essentials Nuc Med I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term_items": [
+        {
+          "name": "NUCM 400: Clinical Nuclear Technology III",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 4,
+          "courses": [
+            {
+              "number": "NUCM 400",
+              "title": "Clin Nucl Tech III"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 412: Nuclear Radiation Biology",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "NUCM 412",
+              "title": "Nuclear Rad Biology"
+            }
+          ]
+        },
+        {
+          "name": "NUCM 415: Essentials of Nuclear Medicine Imaging II",
+          "crucial": false,
+          "min_grade": "",
+          "credits": 2,
+          "courses": [
+            {
+              "number": "NUCM 415",
+              "title": "Essentials Nuc Md II"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

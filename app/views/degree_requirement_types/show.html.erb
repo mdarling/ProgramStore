@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Type of degree requirement:</strong>
+  <%= @degree_requirement_type.type_of_degree_requirement %>
+</p>
+
+<p>
+  <strong>Degree requirement:</strong>
+  <%= @degree_requirement_type.degree_requirement_id %>
+</p>
+
+<%= link_to 'Edit', edit_degree_requirement_type_path(@degree_requirement_type) %> |
+<%= link_to 'Back', degree_requirement_types_path %>

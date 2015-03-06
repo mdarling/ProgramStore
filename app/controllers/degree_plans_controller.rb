@@ -11,7 +11,7 @@ class DegreePlansController < ApplicationController
   # GET /degree_plans/1
   # GET /degree_plans/1.json
   def show
-
+    @academic_program = AcademicProgram.friendly.find(params[:academic_program_id])
   end
 
   # GET /degree_plans/new

@@ -4,12 +4,14 @@ class DegreePlansController < ApplicationController
   # GET /degree_plans
   # GET /degree_plans.json
   def index
-    @degree_plans = DegreePlan.all
+    @academic_program = AcademicProgram.friendly.find(params[:academic_program_id])
+    @degree_plans = @academic_program.degree_plans
   end
 
   # GET /degree_plans/1
   # GET /degree_plans/1.json
   def show
+
   end
 
   # GET /degree_plans/new
@@ -64,7 +66,7 @@ class DegreePlansController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_degree_plan
-      @degree_plan = DegreePlan.find(params[:id])
+      @degree_plan = DegreePlan.friendly.find(params[:id])
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.

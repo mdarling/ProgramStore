@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  resources :degree_requirements
+  
 
   resources :degree_requirement_types
 
@@ -9,6 +9,7 @@ Rails.application.routes.draw do
 
 
   resources :academic_programs do
+    resources :degree_requirements
     resources :degree_plans
   end
 

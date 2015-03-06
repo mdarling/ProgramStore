@@ -4,7 +4,8 @@ class DegreeRequirementsController < ApplicationController
   # GET /degree_requirements
   # GET /degree_requirements.json
   def index
-    @degree_requirements = DegreeRequirement.all
+    @academic_program = AcademicProgram.friendly.find(params[:academic_program_id])
+    @degree_requirements = @academic_program.degree_requirements
   end
 
   # GET /degree_requirements/1

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150303174033) do
+ActiveRecord::Schema.define(version: 20150305221654) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -35,7 +35,10 @@ ActiveRecord::Schema.define(version: 20150303174033) do
     t.string   "college"
     t.string   "dept"
     t.string   "degree_type"
+    t.string   "slug"
   end
+
+  add_index "academic_programs", ["slug"], name: "index_academic_programs_on_slug", using: :btree
 
   create_table "academic_programs_institutional_entities", id: false, force: true do |t|
     t.integer "academic_program_id",     null: false
@@ -74,7 +77,10 @@ ActiveRecord::Schema.define(version: 20150303174033) do
     t.text     "degree_plan"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "slug"
   end
+
+  add_index "degree_plans", ["slug"], name: "index_degree_plans_on_slug", using: :btree
 
   create_table "degree_requirement_types", force: true do |t|
     t.string   "type_of_degree_requirement"
@@ -92,6 +98,19 @@ ActiveRecord::Schema.define(version: 20150303174033) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "friendly_id_slugs", force: true do |t|
+    t.string   "slug",                      null: false
+    t.integer  "sluggable_id",              null: false
+    t.string   "sluggable_type", limit: 50
+    t.string   "scope"
+    t.datetime "created_at"
+  end
+
+  add_index "friendly_id_slugs", ["slug", "sluggable_type", "scope"], name: "index_friendly_id_slugs_on_slug_and_sluggable_type_and_scope", unique: true, using: :btree
+  add_index "friendly_id_slugs", ["slug", "sluggable_type"], name: "index_friendly_id_slugs_on_slug_and_sluggable_type", using: :btree
+  add_index "friendly_id_slugs", ["sluggable_id"], name: "index_friendly_id_slugs_on_sluggable_id", using: :btree
+  add_index "friendly_id_slugs", ["sluggable_type"], name: "index_friendly_id_slugs_on_sluggable_type", using: :btree
 
   create_table "institutional_entities", force: true do |t|
     t.integer  "parent_entity_id"

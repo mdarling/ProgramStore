@@ -59,6 +59,7 @@ Dir[File.dirname(__FILE__) + "/AcademicProgramsJsonData/*.json"].each  do |file|
     jsonPlan = JSON.parse(plan)
 
     if jsonData["name"] == jsonPlan["name"]
+
       temp_program.college = jsonPlan["college"]
       temp_program.dept = jsonPlan["dept"]
       temp_program.degree_type = jsonPlan["degree_type"]
@@ -67,7 +68,6 @@ Dir[File.dirname(__FILE__) + "/AcademicProgramsJsonData/*.json"].each  do |file|
       jsonPlan.delete("name")
       jsonPlan.delete("college")
       jsonPlan.delete("dept")
-      jsonPlan.delete("degree_type")
       jsonPlan.delete("degree_awarded")
       jsonPlan.delete("notes")
       temp_plan = DegreePlan.create(
@@ -77,15 +77,65 @@ Dir[File.dirname(__FILE__) + "/AcademicProgramsJsonData/*.json"].each  do |file|
       )
       temp_plan.save
       temp_program.degree_plans << temp_plan
-    end
 
+    end
+      #Degree Requirements
+      if jsonPlan["terms"]
+        jsonPlan["terms"].each do |term|
+          term["term_items"].each do |term_item|
+            temp_requirement = DegreeRequirement.create(
+              :academic_program_id => temp_program.id,
+              :credits => term_item["credits"],
+              :minimum_grade => term_item["min_grade"],
+              :name => term_item["name"]
+
+            )
+            temp_requirement.save
+            temp_program.degree_requirements << temp_requirement
+          end #term_items each do
+        end #terms each do
+      end # if terms
     
   end
   
 
 end
+# not_matched = []
+# Dir[File.dirname(__FILE__) + "/DegreePlansJsonData/*.json"].each  do |file|
+#     plan = File.read(file)
+#     jsonPlan = JSON.parse(plan)
+
+#     if AcademicProgram.where(name: "Applied Behavior Analysis: Research-Based Interventions for Individuals with Disabilities Who Have Behavioral Challenges").empty?
+#     # matched = false
+#   #puts jsonPlan["name"]
+#   #puts jsonData["name"]
 
 
+#   # Dir[File.dirname(__FILE__) + "/AcademicProgramsJsonData/*.json"].each  do |file|
+#   #   data = File.read(file)
+#   #   jsonData = JSON.parse(data)
+
+#   #   if jsonData["name"] == jsonPlan["name"]
+#   #     # puts "#{jsonData["name"]} == #{jsonPlan["name"]}"
+#   #     matched = true
+#   #     break   
+#   #   else
+#   #     matched = false
+#   #   end
+
+    
+#   # end
+
+#   # puts matched
+  
+#   # unless matched
+#   #   puts 'hi'
+#   #   not_matched << plan["name"]
+#   # end
+
+# end
+
+# puts not_matched
 
 #  data = File.read(file)
 # 	jsonData = JSON.parse(data)

@@ -35,3 +35,41 @@ LOG:  database system is shut down
 LOG:  database system was shut down at 2015-02-28 18:50:04 MST
 LOG:  database system is ready to accept connections
 LOG:  autovacuum launcher started
+ERROR:  cached plan must not change result type
+STATEMENT:  SELECT  "academic_programs".* FROM "academic_programs"  WHERE "academic_programs"."id" = $1 LIMIT 1
+ERROR:  database "ProgramStore_development" is being accessed by other users
+DETAIL:  There is 1 other session using the database.
+STATEMENT:  DROP DATABASE IF EXISTS "ProgramStore_development"
+ERROR:  database "ProgramStore_development" already exists
+STATEMENT:  CREATE DATABASE "ProgramStore_development" ENCODING = 'unicode'
+ERROR:  database "ProgramStore_development" already exists
+STATEMENT:  CREATE DATABASE "ProgramStore_development" ENCODING = 'unicode'
+ERROR:  database "ProgramStore_development" is being accessed by other users
+DETAIL:  There are 2 other sessions using the database.
+STATEMENT:  DROP DATABASE IF EXISTS "ProgramStore_development"
+LOG:  could not send data to client: Broken pipe
+STATEMENT:  DROP DATABASE IF EXISTS "ProgramStore_development"
+FATAL:  connection to client lost
+ERROR:  database "ProgramStore_development" is being accessed by other users
+DETAIL:  There is 1 other session using the database.
+STATEMENT:  DROP DATABASE IF EXISTS "ProgramStore_development"
+ERROR:  database "ProgramStore_development" already exists
+STATEMENT:  CREATE DATABASE "ProgramStore_development" ENCODING = 'unicode'
+ERROR:  database "ProgramStore_development" is being accessed by other users
+DETAIL:  There is 1 other session using the database.
+STATEMENT:  DROP DATABASE IF EXISTS "ProgramStore_development"
+ERROR:  database "ProgramStore_development" already exists
+STATEMENT:  CREATE DATABASE "ProgramStore_development" ENCODING = 'unicode'
+WARNING:  there is no transaction in progress
+ERROR:  database "ProgramStore_development" is being accessed by other users
+DETAIL:  There is 1 other session using the database.
+STATEMENT:  DROP DATABASE IF EXISTS "ProgramStore_development"
+ERROR:  database "ProgramStore_development" already exists
+STATEMENT:  CREATE DATABASE "ProgramStore_development" ENCODING = 'unicode'
+FATAL:  terminating autovacuum process due to administrator command
+ERROR:  database "ProgramStore_development" is being accessed by other users
+DETAIL:  There is 1 other session using the database.
+STATEMENT:  DROP DATABASE IF EXISTS "ProgramStore_development"
+ERROR:  database "ProgramStore_development" already exists
+STATEMENT:  CREATE DATABASE "ProgramStore_development" ENCODING = 'unicode'
+WARNING:  corrupted statistics file "pg_stat_tmp/global.stat"

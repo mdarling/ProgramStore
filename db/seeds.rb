@@ -34,10 +34,10 @@ AcademicProgram.delete_all
 
 #     end
 #   end
+puts Dir.pwd
+File.readlines("./db/all_degree_plans.json").each do |plan|
 
-Dir[File.dirname(__FILE__) + "/AcademicProgramsJsonData/*.json"].each  do |file|
- data = File.read(file)
-  jsonData = JSON.parse(data)
+  jsonData = JSON.parse(plan)
   # puts jsonData["name"]
   #puts jsonData["name"]
   temp_program = AcademicProgram.create(
@@ -53,13 +53,14 @@ Dir[File.dirname(__FILE__) + "/AcademicProgramsJsonData/*.json"].each  do |file|
       :moratorium => jsonData["moratorium"]
      )
   temp_program.save
+end
 
-  Dir[File.dirname(__FILE__) + "/DegreePlansJsonData/*.json"].each  do |file|
-    plan = File.read(file)
-    jsonPlan = JSON.parse(plan)
-
-    if jsonData["name"] == jsonPlan["name"]
-
+File.readlines("./db/all_degree_reqs.json").each do |reqs|
+      jsonPlan = JSON.parse(reqs)
+     #@ puts "!!!!!!!!!!" + jsonPlan["name"]
+      temp_program = AcademicProgram.find_by_name(jsonPlan["name"])
+      # puts "%%%%%%%%%%%%%" + temp_program.name
+      # puts "!!!!!!!!!!!" + temp_program.college
       temp_program.college = jsonPlan["college"]
       temp_program.dept = jsonPlan["dept"]
       temp_program.degree_type = jsonPlan["degree_type"]
@@ -78,7 +79,6 @@ Dir[File.dirname(__FILE__) + "/AcademicProgramsJsonData/*.json"].each  do |file|
       temp_plan.save
       temp_program.degree_plans << temp_plan
 
-    end
       #Degree Requirements
       if jsonPlan["terms"]
         jsonPlan["terms"].each do |term|
@@ -99,7 +99,7 @@ Dir[File.dirname(__FILE__) + "/AcademicProgramsJsonData/*.json"].each  do |file|
   end
   
 
-end
+
 # not_matched = []
 # Dir[File.dirname(__FILE__) + "/DegreePlansJsonData/*.json"].each  do |file|
 #     plan = File.read(file)

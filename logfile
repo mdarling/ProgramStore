@@ -73,3 +73,9 @@ STATEMENT:  DROP DATABASE IF EXISTS "ProgramStore_development"
 ERROR:  database "ProgramStore_development" already exists
 STATEMENT:  CREATE DATABASE "ProgramStore_development" ENCODING = 'unicode'
 WARNING:  corrupted statistics file "pg_stat_tmp/global.stat"
+LOG:  database system was interrupted; last known up at 2015-04-06 20:32:26 MDT
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/16198258
+LOG:  redo is not required
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
